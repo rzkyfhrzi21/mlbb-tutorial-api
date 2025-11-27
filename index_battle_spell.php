@@ -13,7 +13,7 @@ $branch     = 'master';
 $resource = isset($_GET['resource']) ? strtolower(trim($_GET['resource'])) : 'spells';
 
 $resourceMap = [
-    'spells' => 'sample/spells.json', // path file JSON spells di repo kamu
+    'spells' => 'sample/battle_spells.json', // path file JSON spells di repo kamu
 ];
 
 if (!isset($resourceMap[$resource])) {

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "spells-api",
-    "revdate": "11-28-2025",
+    "title": "battle_spells_api",
+    "patch_notes": "27-11-2025",
     "author": {
       "rizky_fahrezi": "https://www.instagram.com/rzkydev666/",
       "dimas_sadewa": "https://www.instagram.com/d.dewaaaa/",
@@ -11,12 +11,20 @@
   },
   "data": [
     {
-      "icon": "/assets/spells/recall.png",
+      "icon": "/assets/battle_spells/recall.png",
       "name": "Recall",
       "usage": "Kembali ke base",
       "description": "Menggunakan channel selama beberapa detik untuk berteleportasi kembali ke base. Jika terkena damage selama proses channeling, teleportasi akan dibatalkan.",
       "cooldown": "0 Detik",
       "unlocked_at_level": 0
+    },
+    {
+      "icon": "/assets/battle_spells/vengeance.png",
+      "name": "Vengeance",
+      "usage": "Refleksi damage dan tanking",
+      "description": "Selama beberapa detik, setiap kali hero menerima damage, sebagian dari damage tersebut dipantulkan kembali ke penyerang sebagai Magic Damage. Selain itu, hero juga mendapatkan pengurangan damage yang signifikan selama durasi efek.",
+      "cooldown": "75 Detik",
+      "unlocked_at_level": 23
     }
   ]
 }
