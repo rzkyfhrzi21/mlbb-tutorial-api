@@ -17,10 +17,7 @@
       "category": ["Attack"],
       "price": 3010,
       "sell": 1806,
-      "attribute": [
-        "+160 Physical Attack",
-        "+5% Movement Speed"
-      ],
+      "attribute": ["+160 Physical Attack", "+5% Movement Speed"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -36,10 +33,7 @@
       "category": ["Attack"],
       "price": 2180,
       "sell": 1308,
-      "attribute": [
-        "+35 Physical Attack",
-        "+25% Attack Speed"
-      ],
+      "attribute": ["+35 Physical Attack", "+25% Attack Speed"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -55,10 +49,7 @@
       "category": ["Attack"],
       "price": 2390,
       "sell": 1434,
-      "attribute": [
-        "+65 Physical Attack",
-        "+25% Critical Chance"
-      ],
+      "attribute": ["+65 Physical Attack", "+25% Critical Chance"],
       "unique_attribute": [
         {
           "name": "Critical Damage",
@@ -79,9 +70,7 @@
       "category": ["Attack"],
       "price": 2060,
       "sell": 1236,
-      "attribute": [
-        "+60 Physical Attack"
-      ],
+      "attribute": ["+60 Physical Attack"],
       "unique_attribute": [
         {
           "name": "Physical Penetration",
@@ -102,10 +91,7 @@
       "category": ["Attack"],
       "price": 2010,
       "sell": 1206,
-      "attribute": [
-        "+80 Physical Attack",
-        "+10% Cooldown Reduction"
-      ],
+      "attribute": ["+80 Physical Attack", "+10% Cooldown Reduction"],
       "unique_attribute": [
         {
           "name": "Physical Penetration",
@@ -173,10 +159,7 @@
       "category": ["Attack"],
       "price": 2150,
       "sell": 1290,
-      "attribute": [
-        "+80 Physical Attack",
-        "+20% Attack Speed"
-      ],
+      "attribute": ["+80 Physical Attack", "+20% Attack Speed"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -220,10 +203,7 @@
       "category": ["Attack"],
       "price": 2000,
       "sell": 1200,
-      "attribute": [
-        "+55 Physical Attack",
-        "+15% Attack Speed"
-      ],
+      "attribute": ["+55 Physical Attack", "+15% Attack Speed"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -243,9 +223,7 @@
       "category": ["Attack"],
       "price": 1970,
       "sell": 1182,
-      "attribute": [
-        "+70 Physical Attack"
-      ],
+      "attribute": ["+70 Physical Attack"],
       "unique_attribute": [
         {
           "name": "Cooldown Reduction",
@@ -311,10 +289,7 @@
       "category": ["Attack"],
       "price": 600,
       "sell": 360,
-      "attribute": [
-        "+20 Physical Attack",
-        "+10% Attack Speed"
-      ],
+      "attribute": ["+20 Physical Attack", "+10% Attack Speed"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
@@ -325,9 +300,7 @@
       "category": ["Attack"],
       "price": 1000,
       "sell": 600,
-      "attribute": [
-        "+20% Attack Speed"
-      ],
+      "attribute": ["+20% Attack Speed"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -347,10 +320,7 @@
       "category": ["Attack"],
       "price": 1500,
       "sell": null,
-      "attribute": [
-        "+30 Physical Attack",
-        "+5% Physical Lifesteal"
-      ],
+      "attribute": ["+30 Physical Attack", "+5% Physical Lifesteal"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": [
@@ -366,9 +336,7 @@
       "category": ["Attack"],
       "price": 250,
       "sell": 150,
-      "attribute": [
-        "+15 Physical Attack"
-      ],
+      "attribute": ["+15 Physical Attack"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
@@ -379,9 +347,7 @@
       "category": ["Attack"],
       "price": 900,
       "sell": 540,
-      "attribute": [
-        "+15% Attack Speed"
-      ],
+      "attribute": ["+15% Attack Speed"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
@@ -392,9 +358,7 @@
       "category": ["Attack"],
       "price": 830,
       "sell": 498,
-      "attribute": [
-        "+35 Physical Attack"
-      ],
+      "attribute": ["+35 Physical Attack"],
       "unique_attribute": [
         {
           "name": "Physical Penetration",
@@ -410,10 +374,7 @@
       "category": ["Attack"],
       "price": 1050,
       "sell": 630,
-      "attribute": [
-        "+35 Physical Attack",
-        "+10% Lifesteal"
-      ],
+      "attribute": ["+35 Physical Attack", "+10% Lifesteal"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -429,10 +390,7 @@
       "category": ["Attack"],
       "price": 650,
       "sell": 390,
-      "attribute": [
-        "+25 Physical Attack",
-        "+230 HP"
-      ],
+      "attribute": ["+25 Physical Attack", "+230 HP"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -448,9 +406,7 @@
       "category": ["Attack"],
       "price": 910,
       "sell": 546,
-      "attribute": [
-        "+60 Physical Attack"
-      ],
+      "attribute": ["+60 Physical Attack"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
@@ -461,10 +417,7 @@
       "category": ["Attack"],
       "price": 450,
       "sell": 270,
-      "attribute": [
-        "+10 Physical Attack",
-        "+5% Cooldown Reduction"
-      ],
+      "attribute": ["+10 Physical Attack", "+5% Cooldown Reduction"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
@@ -475,10 +428,7 @@
       "category": ["Attack"],
       "price": 1500,
       "sell": 900,
-      "attribute": [
-        "+50 Physical Attack",
-        "+15% Attack Speed"
-      ],
+      "attribute": ["+50 Physical Attack", "+15% Attack Speed"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -494,10 +444,7 @@
       "category": ["Attack"],
       "price": 400,
       "sell": 240,
-      "attribute": [
-        "+8 Physical Attack",
-        "+8% Lifesteal"
-      ],
+      "attribute": ["+8 Physical Attack", "+8% Lifesteal"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
@@ -509,10 +456,7 @@
       "category": ["Magic"],
       "price": 600,
       "sell": 360,
-      "attribute": [
-        "+5 Magic Power",
-        "+5% Cooldown Reduction"
-      ],
+      "attribute": ["+5 Magic Power", "+5% Cooldown Reduction"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -528,9 +472,7 @@
       "category": ["Magic"],
       "price": 2100,
       "sell": 1260,
-      "attribute": [
-        "+90 Magic Power"
-      ],
+      "attribute": ["+90 Magic Power"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -546,10 +488,7 @@
       "category": ["Magic"],
       "price": 450,
       "sell": 270,
-      "attribute": [
-        "+8 Magic Power",
-        "+5% Cooldown Reduction"
-      ],
+      "attribute": ["+8 Magic Power", "+5% Cooldown Reduction"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
@@ -560,11 +499,7 @@
       "category": ["Magic"],
       "price": 2030,
       "sell": 1218,
-      "attribute": [
-        "+445 Magic Power",
-        "+400 HP",
-        "+10% Cooldown Reduction"
-      ],
+      "attribute": ["+445 Magic Power", "+400 HP", "+10% Cooldown Reduction"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -584,10 +519,7 @@
       "category": ["Magic"],
       "price": 2020,
       "sell": 1212,
-      "attribute": [
-        "+70 Magic Power",
-        "+400 HP"
-      ],
+      "attribute": ["+70 Magic Power", "+400 HP"],
       "unique_attribute": [
         {
           "name": "Hybrid Lifesteal",
@@ -608,9 +540,7 @@
       "category": ["Magic"],
       "price": 1970,
       "sell": 1182,
-      "attribute": [
-        "+65 Magic Power"
-      ],
+      "attribute": ["+65 Magic Power"],
       "unique_attribute": [
         {
           "name": "Magic Penetration",
@@ -631,10 +561,7 @@
       "category": ["Magic"],
       "price": 700,
       "sell": 420,
-      "attribute": [
-        "+380 Magic Power",
-        "+300 HP"
-      ],
+      "attribute": ["+380 Magic Power", "+300 HP"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -650,11 +577,7 @@
       "category": ["Magic"],
       "price": 1870,
       "sell": 1122,
-      "attribute": [
-        "+50 Magic Power",
-        "+250 HP",
-        "+20% Cooldown Reduction"
-      ],
+      "attribute": ["+50 Magic Power", "+250 HP", "+20% Cooldown Reduction"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -674,10 +597,7 @@
       "category": ["Magic"],
       "price": 600,
       "sell": 360,
-      "attribute": [
-        "+30 Magic Power",
-        "+5 Movement Speed"
-      ],
+      "attribute": ["+30 Magic Power", "+5 Movement Speed"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
@@ -713,11 +633,7 @@
       "category": ["Magic"],
       "price": 1850,
       "sell": 1110,
-      "attribute": [
-        "+60 Magic Power",
-        "+300 HP",
-        "+10% Cooldown Reduction"
-      ],
+      "attribute": ["+60 Magic Power", "+300 HP", "+10% Cooldown Reduction"],
       "unique_attribute": [
         {
           "name": "Healing Effect",
@@ -738,10 +654,7 @@
       "category": ["Magic"],
       "price": 2000,
       "sell": 1200,
-      "attribute": [
-        "+75 Magic Power",
-        "+5 Movement Speed"
-      ],
+      "attribute": ["+75 Magic Power", "+5 Movement Speed"],
       "unique_attribute": [
         {
           "name": "Magic Penetration",
@@ -762,11 +675,7 @@
       "category": ["Magic"],
       "price": 2150,
       "sell": 1290,
-      "attribute": [
-        "+75 Magic Power",
-        "+400 HP",
-        "+5 Movement Speed"
-      ],
+      "attribute": ["+75 Magic Power", "+400 HP", "+5 Movement Speed"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -786,9 +695,7 @@
       "category": ["Magic"],
       "price": 3000,
       "sell": 1800,
-      "attribute": [
-        "+185 Magic Power"
-      ],
+      "attribute": ["+185 Magic Power"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -825,10 +732,7 @@
       "category": ["Magic"],
       "price": 2250,
       "sell": 1350,
-      "attribute": [
-        "+475 Magic Power",
-        "+10% Cooldown Reduction"
-      ],
+      "attribute": ["+475 Magic Power", "+10% Cooldown Reduction"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -844,9 +748,7 @@
       "category": ["Magic"],
       "price": 120,
       "sell": 72,
-      "attribute": [
-        "+2 Magic Power"
-      ],
+      "attribute": ["+2 Magic Power"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
@@ -857,9 +759,7 @@
       "category": ["Magic"],
       "price": 820,
       "sell": 492,
-      "attribute": [
-        "+45 Magic Power"
-      ],
+      "attribute": ["+45 Magic Power"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
@@ -870,9 +770,7 @@
       "category": ["Magic"],
       "price": 300,
       "sell": 180,
-      "attribute": [
-        "+15 Magic Power"
-      ],
+      "attribute": ["+15 Magic Power"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
@@ -883,10 +781,7 @@
       "category": ["Magic"],
       "price": 500,
       "sell": 300,
-      "attribute": [
-        "+15 Magic Power",
-        "+8% Spell Vamp"
-      ],
+      "attribute": ["+15 Magic Power", "+8% Spell Vamp"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
@@ -897,9 +792,7 @@
       "category": ["Magic"],
       "price": 220,
       "sell": 132,
-      "attribute": [
-        "+280 Magic Power"
-      ],
+      "attribute": ["+280 Magic Power"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
@@ -910,10 +803,7 @@
       "category": ["Magic"],
       "price": 2120,
       "sell": 1272,
-      "attribute": [
-        "+76 Magic Power",
-        "+10% Cooldown Reduction"
-      ],
+      "attribute": ["+76 Magic Power", "+10% Cooldown Reduction"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -929,10 +819,7 @@
       "category": ["Magic"],
       "price": 950,
       "sell": 570,
-      "attribute": [
-        "+39 Magic Power",
-        "+8% Cooldown Reduction"
-      ],
+      "attribute": ["+39 Magic Power", "+8% Cooldown Reduction"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
@@ -943,10 +830,7 @@
       "category": ["Magic"],
       "price": 2250,
       "sell": 1350,
-      "attribute": [
-        "+475 Magic Power",
-        "+10% Cooldown Reduction"
-      ],
+      "attribute": ["+475 Magic Power", "+10% Cooldown Reduction"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -963,10 +847,7 @@
       "category": ["Defense"],
       "price": 2170,
       "sell": 1302,
-      "attribute": [
-        "+924 HP",
-        "+40 Physical Defense"
-      ],
+      "attribute": ["+924 HP", "+40 Physical Defense"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -982,9 +863,7 @@
       "category": ["Defense"],
       "price": 700,
       "sell": 420,
-      "attribute": [
-        "+600 HP"
-      ],
+      "attribute": ["+600 HP"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
@@ -995,10 +874,7 @@
       "category": ["Defense"],
       "price": 2150,
       "sell": 1290,
-      "attribute": [
-        "+902 HP",
-        "+48 Magic Defense"
-      ],
+      "attribute": ["+902 HP", "+48 Magic Defense"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -1014,10 +890,7 @@
       "category": ["Defense"],
       "price": 780,
       "sell": 468,
-      "attribute": [
-        "+20 Physical Defense",
-        "+20 Magic Defense"
-      ],
+      "attribute": ["+20 Physical Defense", "+20 Magic Defense"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -1033,9 +906,7 @@
       "category": ["Defense"],
       "price": 1910,
       "sell": 1146,
-      "attribute": [
-        "+80 Physical Defense"
-      ],
+      "attribute": ["+80 Physical Defense"],
       "unique_attribute": [
         {
           "name": "Crit Damage Reduction",
@@ -1076,10 +947,7 @@
       "category": ["Defense"],
       "price": 2100,
       "sell": 1260,
-      "attribute": [
-        "+900 HP",
-        "+40 Physical Defense"
-      ],
+      "attribute": ["+900 HP", "+40 Physical Defense"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -1099,10 +967,7 @@
       "category": ["Defense"],
       "price": 1910,
       "sell": 1146,
-      "attribute": [
-        "+1200 HP",
-        "+20 Magic Defense"
-      ],
+      "attribute": ["+1200 HP", "+20 Magic Defense"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -1146,9 +1011,7 @@
       "category": ["Defense"],
       "price": 730,
       "sell": 438,
-      "attribute": [
-        "+30 Physical Defense"
-      ],
+      "attribute": ["+30 Physical Defense"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -1164,9 +1027,7 @@
       "category": ["Defense"],
       "price": 2500,
       "sell": 1500,
-      "attribute": [
-        "+1820 HP"
-      ],
+      "attribute": ["+1820 HP"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -1186,9 +1047,7 @@
       "category": ["Defense"],
       "price": 140,
       "sell": 84,
-      "attribute": [
-        "+4 HP"
-      ],
+      "attribute": ["+4 HP"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
@@ -1199,10 +1058,7 @@
       "category": ["Defense"],
       "price": 450,
       "sell": 270,
-      "attribute": [
-        "+150 HP",
-        "+5% Cooldown Reduction"
-      ],
+      "attribute": ["+150 HP", "+5% Cooldown Reduction"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
@@ -1213,10 +1069,7 @@
       "category": ["Defense"],
       "price": 2120,
       "sell": 1272,
-      "attribute": [
-        "+850 HP",
-        "+15 Physical Defense"
-      ],
+      "attribute": ["+850 HP", "+15 Physical Defense"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -1232,9 +1085,7 @@
       "category": ["Defense"],
       "price": 220,
       "sell": 132,
-      "attribute": [
-        "+14 Physical Defense"
-      ],
+      "attribute": ["+14 Physical Defense"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
@@ -1245,9 +1096,7 @@
       "category": ["Defense"],
       "price": 220,
       "sell": 132,
-      "attribute": [
-        "+14 Magic Defense"
-      ],
+      "attribute": ["+14 Magic Defense"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
@@ -1258,9 +1107,7 @@
       "category": ["Defense"],
       "price": 800,
       "sell": 480,
-      "attribute": [
-        "+540 HP"
-      ],
+      "attribute": ["+540 HP"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -1322,10 +1169,7 @@
       "category": ["Defense"],
       "price": 1880,
       "sell": 1128,
-      "attribute": [
-        "+962 HP",
-        "+40 Magic Defense"
-      ],
+      "attribute": ["+962 HP", "+40 Magic Defense"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -1341,10 +1185,7 @@
       "category": ["Defense"],
       "price": 1020,
       "sell": 612,
-      "attribute": [
-        "+540 HP",
-        "+23 Magic Defense"
-      ],
+      "attribute": ["+540 HP", "+23 Magic Defense"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
@@ -1355,9 +1196,7 @@
       "category": ["Defense"],
       "price": 630,
       "sell": 378,
-      "attribute": [
-        "+35 Physical Defense"
-      ],
+      "attribute": ["+35 Physical Defense"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
@@ -1389,9 +1228,7 @@
       "category": ["Defense"],
       "price": 300,
       "sell": 180,
-      "attribute": [
-        "+230 HP"
-      ],
+      "attribute": ["+230 HP"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
@@ -1418,9 +1255,7 @@
       "category": ["Movement"],
       "price": 250,
       "sell": 150,
-      "attribute": [
-        "+20 Movement Speed"
-      ],
+      "attribute": ["+20 Movement Speed"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
@@ -1431,10 +1266,7 @@
       "category": ["Movement"],
       "price": 720,
       "sell": 432,
-      "attribute": [
-        "+10 Magic Power",
-        "+40 Movement Speed"
-      ],
+      "attribute": ["+10 Magic Power", "+40 Movement Speed"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -1450,11 +1282,7 @@
       "category": ["Movement"],
       "price": 720,
       "sell": 432,
-      "attribute": [
-        "+150 HP",
-        "+40 Movement Speed",
-        "+10% Cooldown Reduction"
-      ],
+      "attribute": ["+150 HP", "+40 Movement Speed", "+10% Cooldown Reduction"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
@@ -1465,10 +1293,7 @@
       "category": ["Movement"],
       "price": 720,
       "sell": 432,
-      "attribute": [
-        "+12 HP",
-        "+65 Movement Speed"
-      ],
+      "attribute": ["+12 HP", "+65 Movement Speed"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -1484,10 +1309,7 @@
       "category": ["Movement"],
       "price": 720,
       "sell": 432,
-      "attribute": [
-        "+15% Attack Speed",
-        "+40 Movement Speed"
-      ],
+      "attribute": ["+15% Attack Speed", "+40 Movement Speed"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
@@ -1498,10 +1320,7 @@
       "category": ["Movement"],
       "price": 720,
       "sell": 432,
-      "attribute": [
-        "+18 Magic Defense",
-        "+40 Movement Speed"
-      ],
+      "attribute": ["+18 Magic Defense", "+40 Movement Speed"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -1517,10 +1336,7 @@
       "category": ["Movement"],
       "price": 720,
       "sell": 432,
-      "attribute": [
-        "+18 Physical Defense",
-        "+40 Movement Speed"
-      ],
+      "attribute": ["+18 Physical Defense", "+40 Movement Speed"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -1671,9 +1487,7 @@
       "category": ["Attack", "Magic"],
       "price": 500,
       "sell": 300,
-      "attribute": [
-        "+30 Physical Attack"
-      ],
+      "attribute": ["+30 Physical Attack"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
@@ -1684,10 +1498,7 @@
       "category": ["Attack", "Magic"],
       "price": 1500,
       "sell": 900,
-      "attribute": [
-        "+60 Physical Attack",
-        "+15 Movement Speed"
-      ],
+      "attribute": ["+60 Physical Attack", "+15 Movement Speed"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -1703,11 +1514,7 @@
       "category": ["Attack", "Magic"],
       "price": 1910,
       "sell": 1146,
-      "attribute": [
-        "+45 Physical Attack",
-        "+400 HP",
-        "+5% Cooldown Reduction"
-      ],
+      "attribute": ["+45 Physical Attack", "+400 HP", "+5% Cooldown Reduction"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": [
@@ -1733,6 +1540,88 @@
         {
           "name": "Timestream",
           "desc": "Mendapatkan kill atau assist akan mengurangi cooldown Ultimate saat ini sebesar 30%."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/great_dragon_spear.png",
+      "name": "Great Dragon Spear",
+      "category": ["Attack"],
+      "price": 2140,
+      "sell": 1284,
+      "attribute": [
+        "+70 Physical Attack",
+        "+10% Cooldown Reduction",
+        "+20% Critical Chance"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Supreme Warrior",
+          "desc": "Setelah menggunakan Ultimate, Movement Speed meningkat sebesar 30% selama 7.5 detik. Efek ini memiliki cooldown sekitar 15 detik."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/haas_claws.png",
+      "name": "Haas's Claws",
+      "category": ["Attack"],
+      "price": 2020,
+      "sell": 1212,
+      "attribute": [
+        "+40 Physical Attack",
+        "+15% Attack Speed",
+        "+20% Critical Chance"
+      ],
+      "unique_attribute": [
+        {
+          "name": "Lifesteal",
+          "desc": "+20% Physical Lifesteal."
+        }
+      ],
+      "unique_passive": [
+        {
+          "name": "Frenzy",
+          "desc": "Serangan critical memberikan tambahan 20% Attack Speed selama 2 detik."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/calamity_reaper.png",
+      "name": "Calamity Reaper",
+      "category": ["Magic"],
+      "price": 1950,
+      "sell": 1170,
+      "attribute": [
+        "+70 Magic Power",
+        "+100 Mana",
+        "+30 Mana Regen",
+        "+10% Cooldown Reduction"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Calamity",
+          "desc": "Dalam 3 detik setelah menggunakan skill, Basic Attack berikutnya memberikan True Damage tambahan sebesar 120% Magic Power dan meningkatkan Movement Speed sebesar 10% untuk waktu singkat (cooldown internal sekitar 1.5 detik)."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/twilight_armor.png",
+      "name": "Twilight Armor",
+      "category": ["Defense"],
+      "price": 2100,
+      "sell": 1260,
+      "attribute": ["+1200 HP", "+15 Physical Defense"],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Twilight",
+          "desc": "Saat menerima damage lebih dari 800 dalam satu serangan, damage yang melebihi 800 tersebut akan dikurangi sebesar 300 + 15% Max HP. Efek ini memiliki cooldown sekitar 5 detik."
         }
       ],
       "unique_active": []
