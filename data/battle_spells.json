@@ -19,11 +19,11 @@
       "unlocked_at_level": 0
     },
     {
-      "icon": "/assets/battle_spells/healing.png",
-      "name": "Healing",
-      "usage": "Regen HP untuk diri sendiri dan tim",
-      "description": "Memulihkan sejumlah HP untuk hero pengguna dan rekan satu tim di area sekitar. Biasanya digunakan saat team fight atau bertahan di lane agar tidak perlu sering recall.",
-      "cooldown": "0 Detik",
+      "icon": "/assets/battle_spells/regen.png",
+      "name": "Regen",
+      "usage": "Pemulihan HP dan Mana",
+      "description": "Memulihkan 120 (+25) HP dan mengembalikan (+0) Mana per detik selama 5 detik. Efek ini akan terputus jika pengguna menerima damage dari hero musuh, creep hutan besar, atau musuh non-minion lainnya.",
+      "cooldown": "60 Detik",
       "unlocked_at_level": 0
     },
     {

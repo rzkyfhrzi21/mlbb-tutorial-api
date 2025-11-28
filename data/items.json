@@ -1,0 +1,1741 @@
+{
+  "meta": {
+    "title": "items_api",
+    "patch_notes": "27-11-2025",
+    "author": {
+      "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/",
+      "Dimas Sadewa": "https://www.instagram.com/d.dewaaaa/",
+      "Adji Rivaldi": "https://www.instagram.com/rrival_dii/"
+    },
+    "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
+    "description": "Data item Mobile Legends: Bang Bang dalam format API."
+  },
+  "data": [
+    {
+      "icon": "/assets/items/blade_of_despair.png",
+      "name": "Blade of Despair",
+      "category": ["Attack"],
+      "price": 3010,
+      "sell": 1806,
+      "attribute": [
+        "+160 Physical Attack",
+        "+5% Movement Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Despair",
+          "desc": "Saat memberikan damage ke musuh (bukan minion) dengan HP di bawah 50%, memperoleh tambahan 25% Physical Attack selama 2 detik."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/demon_hunter_sword.png",
+      "name": "Demon Hunter Sword",
+      "category": ["Attack"],
+      "price": 2180,
+      "sell": 1308,
+      "attribute": [
+        "+35 Physical Attack",
+        "+25% Attack Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Devour",
+          "desc": "Basic Attack memberikan Physical Damage tambahan setara 8% HP saat ini milik target (dibatasi untuk minion/creep) dan memberikan 3% Physical Lifesteal tambahan selama 3 detik, dapat ditumpuk hingga 5 kali."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/berserkers_fury.png",
+      "name": "Berserker's Fury",
+      "category": ["Attack"],
+      "price": 2390,
+      "sell": 1434,
+      "attribute": [
+        "+65 Physical Attack",
+        "+25% Critical Chance"
+      ],
+      "unique_attribute": [
+        {
+          "name": "Critical Damage",
+          "desc": "Meningkatkan Critical Damage sebesar 40%."
+        }
+      ],
+      "unique_passive": [
+        {
+          "name": "Doom",
+          "desc": "Serangan critical meningkatkan Physical Attack sebesar 5% selama 2 detik."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/malefic_roar.png",
+      "name": "Malefic Roar",
+      "category": ["Attack"],
+      "price": 2060,
+      "sell": 1236,
+      "attribute": [
+        "+60 Physical Attack"
+      ],
+      "unique_attribute": [
+        {
+          "name": "Physical Penetration",
+          "desc": "Memberikan +30% Physical Penetration dan tambahan hingga 30% lagi berdasarkan Physical Defense musuh."
+        }
+      ],
+      "unique_passive": [
+        {
+          "name": "Armor Buster",
+          "desc": "Semakin tinggi Physical Defense musuh, semakin besar efek penetrasi armor yang diperoleh."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/hunter_strike.png",
+      "name": "Hunter Strike",
+      "category": ["Attack"],
+      "price": 2010,
+      "sell": 1206,
+      "attribute": [
+        "+80 Physical Attack",
+        "+10% Cooldown Reduction"
+      ],
+      "unique_attribute": [
+        {
+          "name": "Physical Penetration",
+          "desc": "+15 Physical Penetration."
+        }
+      ],
+      "unique_passive": [
+        {
+          "name": "Retribution",
+          "desc": "Memberikan damage ke hero atau creep yang sama sebanyak 5 kali berturut-turut akan memberikan 50% Movement Speed tambahan yang berkurang selama 3 detik (cooldown sekitar 8 detik)."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/windtalker.png",
+      "name": "Windtalker",
+      "category": ["Attack"],
+      "price": 1870,
+      "sell": 1122,
+      "attribute": [
+        "+40% Attack Speed",
+        "+20 Movement Speed",
+        "+10% Critical Chance"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Typhoon",
+          "desc": "Setiap beberapa detik, Basic Attack mengenai hingga 3 unit musuh dan memberikan 150–362 Magic Damage tambahan. Kecepatan aktif bergantung pada Attack Speed dan Critical Chance. Setiap kali aktif, Movement Speed meningkat 5% sementara."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/endless_battle.png",
+      "name": "Endless Battle",
+      "category": ["Attack"],
+      "price": 2470,
+      "sell": 1482,
+      "attribute": [
+        "+65 Physical Attack",
+        "+25 Magic Power",
+        "+250 HP",
+        "+10% Cooldown Reduction",
+        "+5% Movement Speed",
+        "+10% Physical Lifesteal"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Divine Justice",
+          "desc": "Dalam 3 detik setelah menggunakan skill, Basic Attack berikutnya memberikan True Damage tambahan sekitar 60% dari Physical Attack."
+        },
+        {
+          "name": "Chase Fate",
+          "desc": "Saat Divine Justice aktif, Movement Speed meningkat sekitar 10% selama beberapa saat."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/sea_halberd.png",
+      "name": "Sea Halberd",
+      "category": ["Attack"],
+      "price": 2150,
+      "sell": 1290,
+      "attribute": [
+        "+80 Physical Attack",
+        "+20% Attack Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Lifebane",
+          "desc": "Memberikan damage ke musuh mengurangi efek Shield dan HP Regen mereka menjadi 60% selama 3 detik."
+        },
+        {
+          "name": "Punish",
+          "desc": "Memberikan 8% damage tambahan kepada hero musuh yang memiliki HP ekstra lebih tinggi."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/corrosion_scythe.png",
+      "name": "Corrosion Scythe",
+      "category": ["Attack"],
+      "price": 2050,
+      "sell": 1230,
+      "attribute": [
+        "+30 Physical Attack",
+        "+30% Attack Speed",
+        "+5 Movement Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Corrosive",
+          "desc": "Basic Attack memberikan 80 Physical Damage tambahan dan mengurangi Movement Speed target selama 1,5 detik (efek slow lebih kecil untuk serangan jarak jauh). Dapat ditumpuk hingga 5 kali."
+        },
+        {
+          "name": "Impulse",
+          "desc": "Basic Attack memberikan 6% Attack Speed tambahan selama 3 detik, dapat ditumpuk hingga 5 kali."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/golden_staff.png",
+      "name": "Golden Staff",
+      "category": ["Attack"],
+      "price": 2000,
+      "sell": 1200,
+      "attribute": [
+        "+55 Physical Attack",
+        "+15% Attack Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Swift",
+          "desc": "Setiap 1% Critical Chance yang diperoleh diubah menjadi 1% Attack Speed."
+        },
+        {
+          "name": "Endless Strike",
+          "desc": "Setelah 2 Basic Attack tanpa critical, Basic Attack berikutnya memiliki Attack Speed sangat tinggi dan memicu efek serangan tambahan 2 kali."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/bloodlust_axe.png",
+      "name": "Bloodlust Axe",
+      "category": ["Attack"],
+      "price": 1970,
+      "sell": 1182,
+      "attribute": [
+        "+70 Physical Attack"
+      ],
+      "unique_attribute": [
+        {
+          "name": "Cooldown Reduction",
+          "desc": "+10% Cooldown Reduction."
+        }
+      ],
+      "unique_passive": [
+        {
+          "name": "Bloodlust",
+          "desc": "Skill yang mengenai musuh memulihkan sekitar 15% damage sebagai HP (Spell Vamp)."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/war_axe.png",
+      "name": "War Axe",
+      "category": ["Attack"],
+      "price": 2100,
+      "sell": 1260,
+      "attribute": [
+        "+35 Physical Attack",
+        "+400 HP",
+        "+10% Cooldown Reduction",
+        "+12% Spell Vamp"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Fighting Spirit",
+          "desc": "Memberikan damage akan menambah 1 stack yang meningkatkan Physical Attack selama beberapa detik hingga maksimal 6 stack. Pada stack penuh, damage tambahan berupa True Damage sekitar 10% dari damage yang diberikan. Hero Marksman/Mage/Support hanya menerima 50% efek stack."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/rose_gold_meteor.png",
+      "name": "Rose Gold Meteor",
+      "category": ["Attack"],
+      "price": 2030,
+      "sell": 1218,
+      "attribute": [
+        "+40 Physical Attack",
+        "+20% Attack Speed",
+        "+10% Lifesteal"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Dragon Scale",
+          "desc": "Setiap 1% Lifesteal memberikan 1 poin Hybrid Defense hingga maksimal 50 (efek berkurang untuk non-Fighter)."
+        },
+        {
+          "name": "Lifeline",
+          "desc": "Saat HP turun di bawah 30%, memberikan shield sebesar 120 × level hero dan Movement Speed tambahan 50% yang perlahan berkurang selama 3 detik (cooldown 60 detik)."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/regular_spear.png",
+      "name": "Regular Spear",
+      "category": ["Attack"],
+      "price": 600,
+      "sell": 360,
+      "attribute": [
+        "+20 Physical Attack",
+        "+10% Attack Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/swift_crossbow.png",
+      "name": "Swift Crossbow",
+      "category": ["Attack"],
+      "price": 1000,
+      "sell": 600,
+      "attribute": [
+        "+20% Attack Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Crossbow",
+          "desc": "Setiap Basic Attack memberikan 40 Adaptive Damage tambahan."
+        },
+        {
+          "name": "Impulse",
+          "desc": "Basic Attack memberikan 3% Attack Speed tambahan selama 3 detik, dapat ditumpuk hingga 5 kali."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/power_potion.png",
+      "name": "Power Potion",
+      "category": ["Attack"],
+      "price": 1500,
+      "sell": null,
+      "attribute": [
+        "+30 Physical Attack",
+        "+5% Physical Lifesteal"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": [
+        {
+          "name": "Increase Power",
+          "desc": "Memberikan buff selama sekitar 120 detik setelah dibeli: +30 Physical Attack dan +5% Physical Lifesteal. Hanya satu potion yang bisa aktif dalam satu waktu."
+        }
+      ]
+    },
+    {
+      "icon": "/assets/items/dagger.png",
+      "name": "Dagger",
+      "category": ["Attack"],
+      "price": 250,
+      "sell": 150,
+      "attribute": [
+        "+15 Physical Attack"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/rogue_meteor.png",
+      "name": "Rogue Meteor",
+      "category": ["Attack"],
+      "price": 900,
+      "sell": 540,
+      "attribute": [
+        "+15% Attack Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/fury_hammer.png",
+      "name": "Fury Hammer",
+      "category": ["Attack"],
+      "price": 830,
+      "sell": 498,
+      "attribute": [
+        "+35 Physical Attack"
+      ],
+      "unique_attribute": [
+        {
+          "name": "Physical Penetration",
+          "desc": "+12 Physical Penetration."
+        }
+      ],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/magic_blade.png",
+      "name": "Magic Blade",
+      "category": ["Attack"],
+      "price": 1050,
+      "sell": 630,
+      "attribute": [
+        "+35 Physical Attack",
+        "+10% Lifesteal"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Lifeline",
+          "desc": "Saat HP turun di bawah 30%, memberikan shield sebesar 60 × level hero dan Movement Speed tambahan 50% yang perlahan berkurang selama 3 detik (cooldown 60 detik)."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/ogre_tomahawk.png",
+      "name": "Ogre Tomahawk",
+      "category": ["Attack"],
+      "price": 650,
+      "sell": 390,
+      "attribute": [
+        "+25 Physical Attack",
+        "+230 HP"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Angry",
+          "desc": "Basic Attack meningkatkan Movement Speed sekitar 10% selama beberapa saat."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/legion_sword.png",
+      "name": "Legion Sword",
+      "category": ["Attack"],
+      "price": 910,
+      "sell": 546,
+      "attribute": [
+        "+60 Physical Attack"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/iron_hunting_bow.png",
+      "name": "Iron Hunting Bow",
+      "category": ["Attack"],
+      "price": 450,
+      "sell": 270,
+      "attribute": [
+        "+10 Physical Attack",
+        "+5% Cooldown Reduction"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/deadly_blade.png",
+      "name": "Deadly Blade",
+      "category": ["Attack"],
+      "price": 1500,
+      "sell": 900,
+      "attribute": [
+        "+50 Physical Attack",
+        "+15% Attack Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Life Drain",
+          "desc": "Basic Attack mengurangi efek HP Regen dan Lifesteal target sekitar 50% selama kurang lebih 3 detik."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/vampire_mallet.png",
+      "name": "Vampire Mallet",
+      "category": ["Attack"],
+      "price": 400,
+      "sell": 240,
+      "attribute": [
+        "+8 Physical Attack",
+        "+8% Lifesteal"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+
+    {
+      "icon": "/assets/items/azure_blade.png",
+      "name": "Azure Blade",
+      "category": ["Magic"],
+      "price": 600,
+      "sell": 360,
+      "attribute": [
+        "+5 Magic Power",
+        "+5% Cooldown Reduction"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Judgement",
+          "desc": "Setelah menggunakan skill, Basic Attack berikutnya dalam 3 detik memberikan 50 True Damage tambahan (cooldown 1,5 detik)."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/blood_wings.png",
+      "name": "Blood Wings",
+      "category": ["Magic"],
+      "price": 2100,
+      "sell": 1260,
+      "attribute": [
+        "+90 Magic Power"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Guard",
+          "desc": "Memberikan shield sebesar 800 + 100% Magic Power yang akan pulih kembali setelah 20 detik tidak menerima damage. Saat shield aktif, Movement Speed meningkat 30, dan setelah shield pecah Movement Speed meningkat 150 selama 1 detik."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/book_of_sages.png",
+      "name": "Book of Sages",
+      "category": ["Magic"],
+      "price": 450,
+      "sell": 270,
+      "attribute": [
+        "+8 Magic Power",
+        "+5% Cooldown Reduction"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/clock_of_destiny.png",
+      "name": "Clock of Destiny",
+      "category": ["Magic"],
+      "price": 2030,
+      "sell": 1218,
+      "attribute": [
+        "+445 Magic Power",
+        "+400 HP",
+        "+10% Cooldown Reduction"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Destiny",
+          "desc": "Memberikan Hybrid Defense selama beberapa detik setiap kali memberikan Magic Damage ke hero musuh, dapat ditumpuk hingga 6 kali."
+        },
+        {
+          "name": "Gift",
+          "desc": "Saat HP turun di bawah 50%, memulihkan 15% HP selama 3 detik. Saat Mana turun di bawah 50%, memulihkan 15% Mana selama 3 detik (cooldown 60 detik)."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/concentrated_energy.png",
+      "name": "Concentrated Energy",
+      "category": ["Magic"],
+      "price": 2020,
+      "sell": 1212,
+      "attribute": [
+        "+70 Magic Power",
+        "+400 HP"
+      ],
+      "unique_attribute": [
+        {
+          "name": "Hybrid Lifesteal",
+          "desc": "+20% Hybrid Lifesteal dari damage skill."
+        }
+      ],
+      "unique_passive": [
+        {
+          "name": "Recharge",
+          "desc": "Setiap memberikan Magic Damage menambah 5 Magic Power (maksimal 6 stack). Pada stack penuh, Magic Damage meningkat 12% selama 5 detik."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/divine_glaive.png",
+      "name": "Divine Glaive",
+      "category": ["Magic"],
+      "price": 1970,
+      "sell": 1182,
+      "attribute": [
+        "+65 Magic Power"
+      ],
+      "unique_attribute": [
+        {
+          "name": "Magic Penetration",
+          "desc": "+40% Magic Penetration."
+        }
+      ],
+      "unique_passive": [
+        {
+          "name": "Spellbreaker",
+          "desc": "Saat menyerang musuh, memperoleh Magic Penetration tambahan berdasarkan Magic Defense target (hingga 20%)."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/elegant_gem.png",
+      "name": "Elegant Gem",
+      "category": ["Magic"],
+      "price": 700,
+      "sell": 420,
+      "attribute": [
+        "+380 Magic Power",
+        "+300 HP"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Gift",
+          "desc": "Saat HP turun di bawah 50%, memulihkan 15% HP selama 3 detik. Saat Mana turun di bawah 50%, memulihkan 15% Mana selama 3 detik (cooldown 60 detik)."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/enchanted_talisman.png",
+      "name": "Enchanted Talisman",
+      "category": ["Magic"],
+      "price": 1870,
+      "sell": 1122,
+      "attribute": [
+        "+50 Magic Power",
+        "+250 HP",
+        "+20% Cooldown Reduction"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Mana Spring",
+          "desc": "Memulihkan 15% Max Mana setiap 10 detik."
+        },
+        {
+          "name": "Magic Mastery",
+          "desc": "Meningkatkan batas maksimum Cooldown Reduction sebesar 5%."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/exotic_veil.png",
+      "name": "Exotic Veil",
+      "category": ["Magic"],
+      "price": 600,
+      "sell": 360,
+      "attribute": [
+        "+30 Magic Power",
+        "+5 Movement Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/feather_of_heaven.png",
+      "name": "Feather of Heaven",
+      "category": ["Magic"],
+      "price": 2030,
+      "sell": 1218,
+      "attribute": [
+        "+55 Magic Power",
+        "+20% Attack Speed",
+        "+5% Cooldown Reduction",
+        "+10% Lifesteal"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Affliction",
+          "desc": "Basic Attack memberikan 50 + 30% Total Magic Power sebagai Magic Damage tambahan."
+        },
+        {
+          "name": "Impulse",
+          "desc": "Basic Attack memberikan 6% Attack Speed tambahan selama 3 detik, dapat ditumpuk hingga 5 kali."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/flask_of_the_oasis.png",
+      "name": "Flask of the Oasis",
+      "category": ["Magic"],
+      "price": 1850,
+      "sell": 1110,
+      "attribute": [
+        "+60 Magic Power",
+        "+300 HP",
+        "+10% Cooldown Reduction"
+      ],
+      "unique_attribute": [
+        {
+          "name": "Healing Effect",
+          "desc": "+12% efek heal dan shield."
+        }
+      ],
+      "unique_passive": [
+        {
+          "name": "Blessing",
+          "desc": "Saat memberikan heal atau shield ke rekan tim dengan HP di bawah 35%, memberi shield tambahan berdasarkan level hero dan mengurangi cooldown skill pengguna 2 detik (per target maksimal sekali tiap 60 detik)."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/genius_wand.png",
+      "name": "Genius Wand",
+      "category": ["Magic"],
+      "price": 2000,
+      "sell": 1200,
+      "attribute": [
+        "+75 Magic Power",
+        "+5 Movement Speed"
+      ],
+      "unique_attribute": [
+        {
+          "name": "Magic Penetration",
+          "desc": "+10 Magic Penetration."
+        }
+      ],
+      "unique_passive": [
+        {
+          "name": "Magic",
+          "desc": "Memberikan Magic Damage ke hero musuh mengurangi Magic Defense mereka untuk sementara dan dapat ditumpuk hingga 3 kali."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/glowing_wand.png",
+      "name": "Glowing Wand",
+      "category": ["Magic"],
+      "price": 2150,
+      "sell": 1290,
+      "attribute": [
+        "+75 Magic Power",
+        "+400 HP",
+        "+5 Movement Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Scorch",
+          "desc": "Memberikan Magic Damage akan membakar target selama 3 detik, memberikan damage tambahan berdasarkan Max HP target."
+        },
+        {
+          "name": "Lifebane",
+          "desc": "Damage yang diberikan mengurangi efek Shield dan HP Regen target menjadi 60% selama 3 detik."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/holy_crystal.png",
+      "name": "Holy Crystal",
+      "category": ["Magic"],
+      "price": 3000,
+      "sell": 1800,
+      "attribute": [
+        "+185 Magic Power"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Mystery",
+          "desc": "Meningkatkan Magic Power total sebesar 21%–35% tergantung level hero."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/ice_queen_wand.png",
+      "name": "Ice Queen Wand",
+      "category": ["Magic"],
+      "price": 2040,
+      "sell": 1224,
+      "attribute": [
+        "+75 Magic Power",
+        "+300 HP",
+        "+7 Movement Speed",
+        "+10% Spell Vamp"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Ice Bound",
+          "desc": "Skill yang memberikan damage ke hero musuh juga memberikan efek slow 10% selama 2 detik, dapat ditumpuk hingga 3 kali (cooldown 1 detik)."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/lightning_truncheon.png",
+      "name": "Lightning Truncheon",
+      "category": ["Magic"],
+      "price": 2250,
+      "sell": 1350,
+      "attribute": [
+        "+475 Magic Power",
+        "+10% Cooldown Reduction"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Resonate",
+          "desc": "Setiap 6 detik, skill berikutnya akan memantul dan memberikan 170 + 85% Magic Power sebagai Magic Damage ke beberapa musuh di sekitar."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/magic_necklace.png",
+      "name": "Magic Necklace",
+      "category": ["Magic"],
+      "price": 120,
+      "sell": 72,
+      "attribute": [
+        "+2 Magic Power"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/magic_wand.png",
+      "name": "Magic Wand",
+      "category": ["Magic"],
+      "price": 820,
+      "sell": 492,
+      "attribute": [
+        "+45 Magic Power"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/mystery_codex.png",
+      "name": "Mystery Codex",
+      "category": ["Magic"],
+      "price": 300,
+      "sell": 180,
+      "attribute": [
+        "+15 Magic Power"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/mystic_container.png",
+      "name": "Mystic Container",
+      "category": ["Magic"],
+      "price": 500,
+      "sell": 300,
+      "attribute": [
+        "+15 Magic Power",
+        "+8% Spell Vamp"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/power_crystal.png",
+      "name": "Power Crystal",
+      "category": ["Magic"],
+      "price": 220,
+      "sell": 132,
+      "attribute": [
+        "+280 Magic Power"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/starlium_scythe.png",
+      "name": "Starlium Scythe",
+      "category": ["Magic"],
+      "price": 2120,
+      "sell": 1272,
+      "attribute": [
+        "+76 Magic Power",
+        "+10% Cooldown Reduction"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Crisis",
+          "desc": "Setelah menggunakan skill, Basic Attack berikutnya dalam 3 detik memberikan 100 + 100% Total Magic Power sebagai True Damage tambahan dan mengurangi Movement Speed target 40% selama 1,5 detik (cooldown 5 detik)."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/tome_of_evil.png",
+      "name": "Tome of Evil",
+      "category": ["Magic"],
+      "price": 950,
+      "sell": 570,
+      "attribute": [
+        "+39 Magic Power",
+        "+8% Cooldown Reduction"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/wishing_lantern.png",
+      "name": "Wishing Lantern",
+      "category": ["Magic"],
+      "price": 2250,
+      "sell": 1350,
+      "attribute": [
+        "+475 Magic Power",
+        "+10% Cooldown Reduction"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Butterfly Goddess",
+          "desc": "Setiap memberikan total 800 Magic Damage ke hero musuh (sebelum pengurangan damage), memanggil Butterfly Goddess yang memberikan Magic Damage tambahan setara 8% HP saat ini target."
+        }
+      ],
+      "unique_active": []
+    },
+
+    {
+      "icon": "/assets/items/antique_cuirass.png",
+      "name": "Antique Cuirass",
+      "category": ["Defense"],
+      "price": 2170,
+      "sell": 1302,
+      "attribute": [
+        "+924 HP",
+        "+40 Physical Defense"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Deter",
+          "desc": "Saat terkena skill, mengurangi Physical Damage yang diberikan penyerang sebesar 6% selama 2 detik, dapat ditumpuk hingga 3 kali."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/ares_belt.png",
+      "name": "Ares Belt",
+      "category": ["Defense"],
+      "price": 700,
+      "sell": 420,
+      "attribute": [
+        "+600 HP"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/athenas_shield.png",
+      "name": "Athena's Shield",
+      "category": ["Defense"],
+      "price": 2150,
+      "sell": 1290,
+      "attribute": [
+        "+902 HP",
+        "+48 Magic Defense"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Shield",
+          "desc": "Saat menerima Magic Damage dari skill atau Basic Attack hero musuh, mengurangi Magic Damage yang diterima sebesar 25% selama 3 detik (termasuk damage pemicu). Efek pulih kembali setelah 5 detik keluar dari pertempuran."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/black_ice_shield.png",
+      "name": "Black Ice Shield",
+      "category": ["Defense"],
+      "price": 780,
+      "sell": 468,
+      "attribute": [
+        "+20 Physical Defense",
+        "+20 Magic Defense"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Fortress Shield",
+          "desc": "Untuk setiap hero musuh dalam jarak 5 unit, Hybrid Defense meningkat 4, hingga maksimal 20."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/blade_armor.png",
+      "name": "Blade Armor",
+      "category": ["Defense"],
+      "price": 1910,
+      "sell": 1146,
+      "attribute": [
+        "+80 Physical Defense"
+      ],
+      "unique_attribute": [
+        {
+          "name": "Crit Damage Reduction",
+          "desc": "Mengurangi damage serangan critical yang diterima sebesar 20%."
+        }
+      ],
+      "unique_passive": [
+        {
+          "name": "Bladed Armor",
+          "desc": "Saat terkena Basic Attack, memantulkan Physical Damage sebesar 30 + 2% Total Physical Defense dari damage awal ke penyerang dan memberikan slow 15% selama 1 detik."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/brute_force_breastplate.png",
+      "name": "Brute Force Breastplate",
+      "category": ["Defense"],
+      "price": 2070,
+      "sell": 1242,
+      "attribute": [
+        "+800 HP",
+        "+20 Physical Defense",
+        "+10% Cooldown Reduction"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Brute Force",
+          "desc": "Setiap kali memberikan damage, memperoleh 8 Adaptive Attack dan 2% Movement Speed selama 4 detik, dapat ditumpuk hingga 6 kali. Pada stack penuh, memperoleh 25% pengurangan durasi crowd control."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/chastise_pauldron.png",
+      "name": "Chastise Pauldron",
+      "category": ["Defense"],
+      "price": 2100,
+      "sell": 1260,
+      "attribute": [
+        "+900 HP",
+        "+40 Physical Defense"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Chastise",
+          "desc": "Saat menerima damage, Attack Speed dan batas maksimal Attack Speed penyerang dikurangi menjadi 75% selama 2 detik."
+        },
+        {
+          "name": "Redemption",
+          "desc": "Saat damage yang diterima akan menurunkan HP di bawah 30%, memulihkan 20% Max HP selama 2 detik (cooldown 60 detik)."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/cursed_helmet.png",
+      "name": "Cursed Helmet",
+      "category": ["Defense"],
+      "price": 1910,
+      "sell": 1146,
+      "attribute": [
+        "+1200 HP",
+        "+20 Magic Defense"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Burning Soul",
+          "desc": "Memberikan Magic Damage per detik ke musuh di sekitar sebesar 1,2% Total HP. Damage ke minion dan creep meningkat signifikan."
+        },
+        {
+          "name": "Curse",
+          "desc": "Damage dari Burning Soul mengurangi Hybrid Defense target selama beberapa detik, dapat ditumpuk hingga 3 kali."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/dominance_ice.png",
+      "name": "Dominance Ice",
+      "category": ["Defense"],
+      "price": 2010,
+      "sell": 1206,
+      "attribute": [
+        "+40 Physical Defense",
+        "+40 Magic Defense",
+        "+5 Movement Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Fortress Shield",
+          "desc": "Untuk setiap hero musuh dalam jarak 5 unit, Hybrid Defense meningkat 8 hingga maksimal 40."
+        },
+        {
+          "name": "Lifebane",
+          "desc": "Saat terkena damage, efek Shield dan HP Regen penyerang berkurang menjadi 60% selama 1 detik."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/dreadnaught_armor.png",
+      "name": "Dreadnaught Armor",
+      "category": ["Defense"],
+      "price": 730,
+      "sell": 438,
+      "attribute": [
+        "+30 Physical Defense"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Deter",
+          "desc": "Saat terkena skill, mengurangi Physical Damage penyerang sebesar 4% selama 2 detik, dapat ditumpuk hingga 3 kali."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/guardian_helmet.png",
+      "name": "Guardian Helmet",
+      "category": ["Defense"],
+      "price": 2500,
+      "sell": 1500,
+      "attribute": [
+        "+1820 HP"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Recovery",
+          "desc": "Setelah 5 detik tidak dalam pertempuran, memulihkan 2,5% Total HP setiap detik."
+        },
+        {
+          "name": "Defender",
+          "desc": "Saat menerima damage tunggal lebih dari 500, sebagian damage akan dikonversi menjadi HP yang dipulihkan."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/healing_necklace.png",
+      "name": "Healing Necklace",
+      "category": ["Defense"],
+      "price": 140,
+      "sell": 84,
+      "attribute": [
+        "+4 HP"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/heros_ring.png",
+      "name": "Hero's Ring",
+      "category": ["Defense"],
+      "price": 450,
+      "sell": 270,
+      "attribute": [
+        "+150 HP",
+        "+5% Cooldown Reduction"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/immortality.png",
+      "name": "Immortality",
+      "category": ["Defense"],
+      "price": 2120,
+      "sell": 1272,
+      "attribute": [
+        "+850 HP",
+        "+15 Physical Defense"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Immortal",
+          "desc": "Menghidupkan kembali hero 2,5 detik setelah terbunuh dengan 16% Max HP dan shield yang menyerap damage selama 3 detik (cooldown 210 detik)."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/leather_jerkin.png",
+      "name": "Leather Jerkin",
+      "category": ["Defense"],
+      "price": 220,
+      "sell": 132,
+      "attribute": [
+        "+14 Physical Defense"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/magic_resist_cloak.png",
+      "name": "Magic Resist Cloak",
+      "category": ["Defense"],
+      "price": 220,
+      "sell": 132,
+      "attribute": [
+        "+14 Magic Defense"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/molten_essence.png",
+      "name": "Molten Essence",
+      "category": ["Defense"],
+      "price": 800,
+      "sell": 480,
+      "attribute": [
+        "+540 HP"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Burning Soul",
+          "desc": "Memberikan Magic Damage per detik ke musuh di sekitar sebesar 0,6% Total HP. Damage ke minion dan creep meningkat signifikan."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/oracle.png",
+      "name": "Oracle",
+      "category": ["Defense"],
+      "price": 1860,
+      "sell": 1116,
+      "attribute": [
+        "+850 HP",
+        "+20 Physical Defense",
+        "+20 Magic Defense",
+        "+10% Cooldown Reduction"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Bless",
+          "desc": "Meningkatkan efek Shield dan HP Regen yang diterima sebesar 30%."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/queens_wings.png",
+      "name": "Queen's Wings",
+      "category": ["Defense"],
+      "price": 2250,
+      "sell": 1350,
+      "attribute": [
+        "+30 Physical Attack",
+        "+750 HP",
+        "+10% Cooldown Reduction",
+        "+10% Spell Vamp"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Demonize",
+          "desc": "Saat HP di bawah 40%, mengurangi damage yang diterima sebesar 30% selama 3 detik dan mengurangi cooldown skill sebesar 2 detik (cooldown 60 detik)."
+        },
+        {
+          "name": "Defiance",
+          "desc": "Semakin rendah HP hero, semakin besar damage yang diberikan hingga batas tertentu."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/radiant_armor.png",
+      "name": "Radiant Armor",
+      "category": ["Defense"],
+      "price": 1880,
+      "sell": 1128,
+      "attribute": [
+        "+962 HP",
+        "+40 Magic Defense"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Holy Blessing",
+          "desc": "Saat menerima Magic Damage, memperoleh Magic Defense tambahan selama beberapa detik, dapat ditumpuk hingga beberapa kali."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/silence_robe.png",
+      "name": "Silence Robe",
+      "category": ["Defense"],
+      "price": 1020,
+      "sell": 612,
+      "attribute": [
+        "+540 HP",
+        "+23 Magic Defense"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/steel_legplates.png",
+      "name": "Steel Legplates",
+      "category": ["Defense"],
+      "price": 630,
+      "sell": 378,
+      "attribute": [
+        "+35 Physical Defense"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/thunder_belt.png",
+      "name": "Thunder Belt",
+      "category": ["Defense"],
+      "price": 1820,
+      "sell": 1092,
+      "attribute": [
+        "+600 HP",
+        "+15 Physical Defense",
+        "+15 Magic Defense",
+        "+20 Movement Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Thunderbolt",
+          "desc": "Setiap 4 detik, Basic Attack berikutnya memberikan True Damage tambahan berdasarkan Extra Physical dan Magic Defense serta memberikan efek slow besar ke musuh di sekitar. Setiap kali mengenai hero musuh, Hybrid Defense meningkat permanen sedikit demi sedikit."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/vitality_crystal.png",
+      "name": "Vitality Crystal",
+      "category": ["Defense"],
+      "price": 300,
+      "sell": 180,
+      "attribute": [
+        "+230 HP"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+
+    {
+      "icon": "/assets/items/arcane_boots.png",
+      "name": "Arcane Boots",
+      "category": ["Movement"],
+      "price": 720,
+      "sell": 432,
+      "attribute": [
+        "+15 Magic Power",
+        "+40 Movement Speed",
+        "+10 Magic Penetration"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/boots.png",
+      "name": "Boots",
+      "category": ["Movement"],
+      "price": 250,
+      "sell": 150,
+      "attribute": [
+        "+20 Movement Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/demon_shoes.png",
+      "name": "Demon Shoes",
+      "category": ["Movement"],
+      "price": 720,
+      "sell": 432,
+      "attribute": [
+        "+10 Magic Power",
+        "+40 Movement Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Mysticism",
+          "desc": "Membunuh minion atau mendapatkan assist terhadap minion memulihkan sebagian Mana."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/magic_shoes.png",
+      "name": "Magic Shoes",
+      "category": ["Movement"],
+      "price": 720,
+      "sell": 432,
+      "attribute": [
+        "+150 HP",
+        "+40 Movement Speed",
+        "+10% Cooldown Reduction"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/rapid_boots.png",
+      "name": "Rapid Boots",
+      "category": ["Movement"],
+      "price": 720,
+      "sell": 432,
+      "attribute": [
+        "+12 HP",
+        "+65 Movement Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Side Effect",
+          "desc": "Kehilangan 20 Movement Speed selama 5 detik setelah memberikan atau menerima damage."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/swift_boots.png",
+      "name": "Swift Boots",
+      "category": ["Movement"],
+      "price": 720,
+      "sell": 432,
+      "attribute": [
+        "+15% Attack Speed",
+        "+40 Movement Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/tough_boots.png",
+      "name": "Tough Boots",
+      "category": ["Movement"],
+      "price": 720,
+      "sell": 432,
+      "attribute": [
+        "+18 Magic Defense",
+        "+40 Movement Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Fortitude",
+          "desc": "Durasi crowd control dan slow yang diterima berkurang sebesar 25%."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/warrior_boots.png",
+      "name": "Warrior Boots",
+      "category": ["Movement"],
+      "price": 720,
+      "sell": 432,
+      "attribute": [
+        "+18 Physical Defense",
+        "+40 Movement Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Valor",
+          "desc": "Saat menerima Physical Damage, Physical Defense meningkat 4 selama 3 detik, dapat ditumpuk hingga 20."
+        }
+      ],
+      "unique_active": []
+    },
+
+    {
+      "icon": "/assets/items/flame_retribution.png",
+      "name": "Flame Retribution",
+      "category": ["Jungling"],
+      "price": 0,
+      "sell": 0,
+      "attribute": [],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": [
+        {
+          "name": "Flame Retribution",
+          "desc": "Meningkatkan damage Retribution ke creep dan minion. Saat digunakan ke hero musuh, memberikan True Damage dan mencuri Physical Attack dan Magic Power mereka selama beberapa detik."
+        }
+      ]
+    },
+    {
+      "icon": "/assets/items/bloody_retribution.png",
+      "name": "Bloody Retribution",
+      "category": ["Jungling"],
+      "price": 0,
+      "sell": 0,
+      "attribute": [],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": [
+        {
+          "name": "Bloody Retribution",
+          "desc": "Retribution ke creep dan minion meningkat menjadi 150%. Saat digunakan ke hero musuh, memberikan 100 True Damage dan mencuri HP sebesar 250 + 20% Extra HP pengguna selama 4 detik."
+        }
+      ]
+    },
+    {
+      "icon": "/assets/items/ice_retribution.png",
+      "name": "Ice Retribution",
+      "category": ["Jungling"],
+      "price": 0,
+      "sell": 0,
+      "attribute": [],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": [
+        {
+          "name": "Ice Retribution",
+          "desc": "Retribution ke creep dan minion meningkat menjadi 150%. Saat digunakan ke hero musuh, memberikan 100 True Damage dan mencuri 72–100 Movement Speed dari target selama 4 detik."
+        }
+      ]
+    },
+
+    {
+      "icon": "/assets/items/conceal.png",
+      "name": "Conceal",
+      "category": ["Roaming"],
+      "price": 0,
+      "sell": 0,
+      "attribute": [],
+      "unique_attribute": [
+        {
+          "name": "Thriving Requirement",
+          "desc": "Efek Conceal aktif setelah pengguna mengumpulkan sekitar 600 Gold dari efek Thriving (maksimal 1500)."
+        }
+      ],
+      "unique_passive": [],
+      "unique_active": [
+        {
+          "name": "Conceal",
+          "desc": "Menyamarkan pengguna dan rekan tim di sekitar, serta memberikan Movement Speed tambahan yang meningkat sesuai Gold dari Thriving selama beberapa detik."
+        }
+      ]
+    },
+    {
+      "icon": "/assets/items/favor.png",
+      "name": "Favor",
+      "category": ["Roaming"],
+      "price": 0,
+      "sell": 0,
+      "attribute": [],
+      "unique_attribute": [
+        {
+          "name": "Thriving Requirement",
+          "desc": "Efek Favor aktif setelah pengguna mengumpulkan sekitar 600 Gold dari efek Thriving (maksimal 1500)."
+        }
+      ],
+      "unique_passive": [],
+      "unique_active": [
+        {
+          "name": "Favor",
+          "desc": "Setiap 10 detik, skill heal atau shield berikutnya memberikan 240–600 HP tambahan (skala dengan Gold dari Thriving) ke hero tim dengan HP terendah dalam jarak tertentu."
+        }
+      ]
+    },
+    {
+      "icon": "/assets/items/dire_hit.png",
+      "name": "Dire Hit",
+      "category": ["Roaming"],
+      "price": 0,
+      "sell": 0,
+      "attribute": [],
+      "unique_attribute": [
+        {
+          "name": "Thriving Requirement",
+          "desc": "Efek Dire Hit aktif setelah pengguna mengumpulkan sekitar 600 Gold dari efek Thriving (maksimal 1500)."
+        }
+      ],
+      "unique_passive": [],
+      "unique_active": [
+        {
+          "name": "Dire Hit",
+          "desc": "Setiap 30 detik, serangan berikutnya ke hero musuh dengan HP di bawah 35% memberikan 7–18% Max HP mereka sebagai Hybrid Damage tambahan."
+        }
+      ]
+    },
+    {
+      "icon": "/assets/items/encourage.png",
+      "name": "Encourage",
+      "category": ["Roaming"],
+      "price": 0,
+      "sell": 0,
+      "attribute": [],
+      "unique_attribute": [
+        {
+          "name": "Thriving Requirement",
+          "desc": "Efek Encourage aktif setelah pengguna mengumpulkan sekitar 600 Gold dari efek Thriving (maksimal 1500)."
+        }
+      ],
+      "unique_passive": [],
+      "unique_active": [
+        {
+          "name": "Encourage",
+          "desc": "Memberikan Physical Attack, Magic Power, dan 15% Attack Speed tambahan ke rekan tim di sekitar (termasuk pengguna), skala dengan Gold dari Thriving."
+        }
+      ]
+    },
+
+    {
+      "icon": "/assets/items/expert_gloves.png",
+      "name": "Expert Gloves",
+      "category": ["Attack", "Magic"],
+      "price": 500,
+      "sell": 300,
+      "attribute": [
+        "+30 Physical Attack"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/sky_piercer.png",
+      "name": "Sky Piercer",
+      "category": ["Attack", "Magic"],
+      "price": 1500,
+      "sell": 900,
+      "attribute": [
+        "+60 Physical Attack",
+        "+15 Movement Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Lethality",
+          "desc": "Setelah memberikan damage ke hero musuh, mengeksekusi target jika HP mereka di bawah batas tertentu. Batas HP eksekusi meningkat setiap kali mendapatkan stack Lethality dari kill, dan berkurang sebagian saat mati."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/winter_crown.png",
+      "name": "Winter Crown",
+      "category": ["Attack", "Magic"],
+      "price": 1910,
+      "sell": 1146,
+      "attribute": [
+        "+45 Physical Attack",
+        "+400 HP",
+        "+5% Cooldown Reduction"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": [
+        {
+          "name": "Frozen",
+          "desc": "Mengaktifkan efek beku yang membuat hero kebal terhadap semua damage dan tidak dapat ditarget selama 2 detik, namun tidak bisa bergerak atau menggunakan skill baru (skill yang sudah aktif tidak dibatalkan)."
+        }
+      ]
+    },
+    {
+      "icon": "/assets/items/fleeting_time.png",
+      "name": "Fleeting Time",
+      "category": ["Attack", "Magic", "Defense"],
+      "price": 2050,
+      "sell": 1230,
+      "attribute": [
+        "+30 Physical Attack",
+        "+600 HP",
+        "+15% Cooldown Reduction"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Timestream",
+          "desc": "Mendapatkan kill atau assist akan mengurangi cooldown Ultimate saat ini sebesar 30%."
+        }
+      ],
+      "unique_active": []
+    }
+  ]
+}
