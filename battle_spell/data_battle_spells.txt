@@ -1,0 +1,51 @@
+README ini dibuat secara otomatis dari battle_spells.json`.
+
+- Source repo: https://github.com/rzkyfhrzi21/mlbb-tutorial-api
+- Patch notes: *27-11-2025*
+- Total baris battle spell (data): *14*
+- Total nama unik battle spell: *14*
+
+## Daftar Battle Spell
+
+Aegis
+  - Cooldown: 90s | Unlock: Lv 11
+
+Arrival
+  - Cooldown: 75s | Unlock: Lv 21
+
+Execute
+  - Cooldown: 90s | Unlock: Lv 1
+
+Flameshot
+  - Cooldown: 50s | Unlock: Lv 17
+
+Flicker
+  - Cooldown: 120s | Unlock: Lv 19
+
+Inspire
+  - Cooldown: 75s | Unlock: Lv 5
+
+Petrify
+  - Cooldown: 90s | Unlock: Lv 13
+
+Purify
+  - Cooldown: 90s | Unlock: Lv 15
+
+Recall
+  - Cooldown: 0s | Unlock: Lv 0
+
+Regen
+  - Cooldown: 60s | Unlock: Lv 0
+
+Retribution
+  - Cooldown: 35s | Unlock: Lv 3
+
+Revitalize
+  - Cooldown: 100s | Unlock: Lv 9
+
+Sprint
+  - Cooldown: 100s | Unlock: Lv 7
+
+Vengeance
+  - Cooldown: 75s | Unlock: Lv 23
+

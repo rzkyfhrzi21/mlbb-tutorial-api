@@ -1,0 +1,286 @@
+{
+  "meta": {
+    "title": "emblems_api",
+    "patch_notes": "27-11-2025",
+    "author": {
+      "Adji Rivaldi": "https://www.instagram.com/rrival_dii/",
+      "Dimas Sadewa": "https://www.instagram.com/d.dewaaaa/",
+      "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
+    },
+    "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
+    "description": "Data emblem utama dan ability emblem Mobile Legends: Bang Bang dalam format API."
+  },
+  "data": {
+    "main_emblems": [
+      {
+        "icon": "/assets/emblems/main/common.png",
+        "name": "Common",
+        "attributes": [
+          "Hybrid Regen +12.00",
+          "HP +275.00",
+          "Adaptive Attack +22.00"
+        ]
+      },
+      {
+        "icon": "/assets/emblems/main/tank.png",
+        "name": "Tank",
+        "attributes": ["HP +500.00", "Hybrid Defense +10.00", "HP Regen +4.00"]
+      },
+      {
+        "icon": "/assets/emblems/main/assassin.png",
+        "name": "Assassin",
+        "attributes": [
+          "Adaptive Penetration +14.00",
+          "Adaptive Attack +10.00",
+          "Movement Speed +3.00%"
+        ]
+      },
+      {
+        "icon": "/assets/emblems/main/mage.png",
+        "name": "Mage",
+        "attributes": [
+          "Magic Power +30.00",
+          "Cooldown Reduction +5.00%",
+          "Magic Penetration +8.00"
+        ]
+      },
+      {
+        "icon": "/assets/emblems/main/fighter.png",
+        "name": "Fighter",
+        "attributes": [
+          "Spell Vamp +10.00%",
+          "Adaptive Attack +22.00",
+          "Hybrid Defense +6.00"
+        ]
+      },
+      {
+        "icon": "/assets/emblems/main/support.png",
+        "name": "Support",
+        "attributes": [
+          "Healing Effect +12.00%",
+          "Cooldown Reduction +10.00%",
+          "Movement Speed +6.00%"
+        ]
+      },
+      {
+        "icon": "/assets/emblems/main/marksman.png",
+        "name": "Marksman",
+        "attributes": [
+          "Attack Speed +15.00%",
+          "Adaptive Attack +16.00",
+          "Lifesteal +5.00%"
+        ]
+      }
+    ],
+    "ability_emblems": [
+      {
+        "icon": "/assets/emblems/abilities/thrill.png",
+        "section": 1,
+        "name": "Thrill",
+        "benefits": "Mendapatkan 16 Adaptive Attack.",
+        "desc": null,
+        "cd": null
+      },
+      {
+        "icon": "/assets/emblems/abilities/swift.png",
+        "section": 1,
+        "name": "Swift",
+        "benefits": "Mendapatkan 10% Attack Speed tambahan.",
+        "desc": null,
+        "cd": null
+      },
+      {
+        "icon": "/assets/emblems/abilities/vitality.png",
+        "section": 1,
+        "name": "Vitality",
+        "benefits": "Mendapatkan 225 HP maksimum tambahan.",
+        "desc": null,
+        "cd": null
+      },
+      {
+        "icon": "/assets/emblems/abilities/rupture.png",
+        "section": 1,
+        "name": "Rupture",
+        "benefits": "Mendapatkan 5 Adaptive Penetration.",
+        "desc": null,
+        "cd": null
+      },
+      {
+        "icon": "/assets/emblems/abilities/inspire.png",
+        "section": 1,
+        "name": "Inspire",
+        "benefits": "Mendapatkan 5% Cooldown Reduction tambahan.",
+        "desc": null,
+        "cd": null
+      },
+      {
+        "icon": "/assets/emblems/abilities/firmness.png",
+        "section": 1,
+        "name": "Firmness",
+        "benefits": "Mendapatkan 6 Physical & Magic Defense tambahan.",
+        "desc": null,
+        "cd": null
+      },
+      {
+        "icon": "/assets/emblems/abilities/agility.png",
+        "section": 1,
+        "name": "Agility",
+        "benefits": "Mendapatkan 4% Movement Speed tambahan.",
+        "desc": null,
+        "cd": null
+      },
+      {
+        "icon": "/assets/emblems/abilities/fatal.png",
+        "section": 1,
+        "name": "Fatal",
+        "benefits": "Mendapatkan 5% Critical Chance dan 10% Critical Damage tambahan.",
+        "desc": null,
+        "cd": null
+      },
+      {
+        "icon": "/assets/emblems/abilities/wilderness_blessing.png",
+        "section": 2,
+        "name": "Wilderness Blessing",
+        "benefits": "Movement Speed tambahan di Jungle dan River.",
+        "desc": "Movement Speed di Jungle dan River meningkat sebesar 10%. Bonus ini berkurang setengah saat sedang bertarung dengan hero lawan, Lord, atau Turtle.",
+        "cd": null
+      },
+      {
+        "icon": "/assets/emblems/abilities/seasoned_hunter.png",
+        "section": 2,
+        "name": "Seasoned Hunter",
+        "benefits": "Meningkatkan kecepatan jungling.",
+        "desc": "Damage terhadap Lord dan Turtle meningkat sebesar 15%. Bonus ini berkurang setengah terhadap Creep biasa dan tidak mempengaruhi damage Retribution.",
+        "cd": null
+      },
+      {
+        "icon": "/assets/emblems/abilities/tenacity.png",
+        "section": 2,
+        "name": "Tenacity",
+        "benefits": "Meningkatkan Defense saat HP rendah.",
+        "desc": "Saat HP berada di bawah 50%, Physical dan Magic Defense meningkat sebesar 15.",
+        "cd": null
+      },
+      {
+        "icon": "/assets/emblems/abilities/master_assassin.png",
+        "section": 2,
+        "name": "Master Assassin",
+        "benefits": "Meningkatkan damage ke hero yang sendirian.",
+        "desc": "Jika hanya ada satu hero musuh di sekitar, damage yang diberikan kepada mereka meningkat sebesar 7%.",
+        "cd": null
+      },
+      {
+        "icon": "/assets/emblems/abilities/bargain_hunter.png",
+        "section": 2,
+        "name": "Bargain Hunter",
+        "benefits": "Mengurangi harga pembelian equipment.",
+        "desc": "Equipment dapat dibeli dengan harga 95% dari harga dasarnya.",
+        "cd": null
+      },
+      {
+        "icon": "/assets/emblems/abilities/festival_of_blood.png",
+        "section": 2,
+        "name": "Festival of Blood",
+        "benefits": "Mendapatkan Spell Vamp tambahan.",
+        "desc": "Mendapatkan 6% Spell Vamp. Setiap kill atau assist pada hero memberikan tambahan 0,5% Spell Vamp, hingga 8 stack.",
+        "cd": null
+      },
+      {
+        "icon": "/assets/emblems/abilities/pull_yourself_together.png",
+        "section": 2,
+        "name": "Pull Yourself Together",
+        "benefits": "Mengurangi cooldown Battle Spell & skill aktif equipment.",
+        "desc": "Cooldown Battle Spell dan skill aktif equipment berkurang sebesar 15%.",
+        "cd": null
+      },
+      {
+        "icon": "/assets/emblems/abilities/weapon_master.png",
+        "section": 2,
+        "name": "Weapon Master",
+        "benefits": "Bonus tambahan Physical Attack / Magic Power.",
+        "desc": "Physical Attack dan Magic Power yang diperoleh dari equipment, emblem, talent, dan skill meningkat sebesar 5%.",
+        "cd": null
+      },
+      {
+        "icon": "/assets/emblems/abilities/impure_rage.png",
+        "section": 3,
+        "name": "Impure Rage",
+        "benefits": "Damage skill tambahan & memulihkan Mana saat mengenai lawan.",
+        "desc": "Memberikan damage dengan skill akan memberikan 4% dari Max HP target sebagai Adaptive Damage tambahan dan memulihkan 2% Mana saat mengenai target.",
+        "cd": 5
+      },
+      {
+        "icon": "/assets/emblems/abilities/quantum_charge.png",
+        "section": 3,
+        "name": "Quantum Charge",
+        "benefits": "Basic Attack memulihkan HP & meningkatkan Movement Speed.",
+        "desc": "Memberikan damage dengan Basic Attack meningkatkan Movement Speed sebesar 30% selama 1,5 detik dan memulihkan 75–180 HP (berskala dengan level).",
+        "cd": 8
+      },
+      {
+        "icon": "/assets/emblems/abilities/war_cry.png",
+        "section": 3,
+        "name": "War Cry",
+        "benefits": "Meningkatkan damage berkelanjutan.",
+        "desc": "Setelah 3 Basic Attack atau skill yang berbeda mengenai hero musuh, semua damage yang diberikan meningkat sebesar 8% selama 6 detik.",
+        "cd": 6
+      },
+      {
+        "icon": "/assets/emblems/abilities/temporal_reign.png",
+        "section": 3,
+        "name": "Temporal Reign",
+        "benefits": "Mengurangi cooldown skill non-Ultimate.",
+        "desc": "Ultimate berikutnya akan membuat sisa cooldown skill lain berkurang hingga 1,5 kali lebih cepat selama 4 detik.",
+        "cd": 20
+      },
+      {
+        "icon": "/assets/emblems/abilities/concussive_blast.png",
+        "section": 3,
+        "name": "Concussive Blast",
+        "benefits": "Damage area berdasarkan HP.",
+        "desc": "Basic Attack berikutnya akan memberikan 100 (+7% Total HP) Magic Damage ke musuh di sekitar.",
+        "cd": 15
+      },
+      {
+        "icon": "/assets/emblems/abilities/killing_spree.png",
+        "section": 3,
+        "name": "Killing Spree",
+        "benefits": "Regen HP dan Movement Speed setelah membunuh hero.",
+        "desc": "Setelah membunuh hero musuh, langsung memulihkan 15% HP yang hilang dan mendapatkan 20% Movement Speed.",
+        "cd": 3
+      },
+      {
+        "icon": "/assets/emblems/abilities/lethal_ignition.png",
+        "section": 3,
+        "name": "Lethal Ignition",
+        "benefits": "Damage tambahan setelah beberapa kali mengenai target.",
+        "desc": "Memberikan damage lebih dari 7% Max HP hero musuh sebanyak 3 kali dalam 5 detik akan membakar target dan memberikan 162–750 Adaptive Damage tambahan (berskala dengan level).",
+        "cd": 15
+      },
+      {
+        "icon": "/assets/emblems/abilities/brave_smite.png",
+        "section": 3,
+        "name": "Brave Smite",
+        "benefits": "Skill yang mengenai hero memulihkan HP.",
+        "desc": "Memberikan damage skill kepada hero musuh akan memulihkan 5% Max HP.",
+        "cd": 6
+      },
+      {
+        "icon": "/assets/emblems/abilities/focusing_mark.png",
+        "section": 3,
+        "name": "Focusing Mark",
+        "benefits": "Meningkatkan damage yang diterima musuh dari rekan satu tim.",
+        "desc": "Memberikan damage ke hero musuh akan meningkatkan damage yang mereka terima dari hero sekutu sebesar 6% selama 3 detik.",
+        "cd": 4
+      },
+      {
+        "icon": "/assets/emblems/abilities/weakness_finder.png",
+        "section": 3,
+        "name": "Weakness Finder",
+        "benefits": "Basic Attack memberikan efek slow pada musuh.",
+        "desc": "Basic Attack mengurangi Movement Speed musuh sebesar 50% dan Attack Speed mereka sebesar 30%.",
+        "cd": 10
+      }
+    ]
+  }
+}

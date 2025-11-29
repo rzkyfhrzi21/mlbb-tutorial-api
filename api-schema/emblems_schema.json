@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": "emblems_schema_api",
+    "author": {
+      "Adji Rivaldi": "https://www.instagram.com/rrival_dii/",
+      "Dimas Sadewa": "https://www.instagram.com/d.dewaaaa/",
+      "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
+    },
+    "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
+    "description": "Data emblem utama dan ability emblem Mobile Legends: Bang Bang dalam format API"
+  },
+  "data": [
+    {
+      "main_emblems": [
+        {
+          "icon": "string",
+          "name": "string",
+          "attributes": ["string"]
+        }
+      ],
+      "ability_emblems": [
+        {
+          "icon": "string",
+          "section": "number",
+          "name": "string",
+          "benefits": "string",
+          "desc": "string | null",
+          "cd": "number | null"
+        }
+      ]
+    }
+  ]
+}

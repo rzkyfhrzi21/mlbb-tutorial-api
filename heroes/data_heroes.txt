@@ -1,0 +1,142 @@
+README ini dibuat secara otomatis dari `data/heroes.json`.
+
+- Source repo: https://github.com/rzkyfhrzi21/mlbb-tutorial-api
+- Patch notes: *29-11-2025*
+- Total baris hero (data): *21*
+- Total nama unik hero: *21*
+
+## Ringkasan Role
+
+- *Assassin*: 6 hero
+- *Fighter*: 4 hero
+- *Mage*: 4 hero
+- *Marksman*: 4 hero
+- *Support*: 4 hero
+- *Tank*: 7 hero
+
+## Ringkasan Lane
+
+- *exp*: 5 hero
+- *gold*: 4 hero
+- *jungle*: 9 hero
+- *mid*: 3 hero
+- *roam*: 7 hero
+
+## Daftar Hero (urut nama)
+
+Aamon (h021)
+Akai (h012)
+Alice (h004)
+Alucard (h007)
+Balmond (h002)
+Bane (h014)
+Bruno (h015)
+Clint (h016)
+Eudora (h008)
+Fanny (h018)
+Franco (h013)
+Karina (h011)
+Layla (h010)
+Lolita (h020)
+Minotaur (h019)
+Miya (h001)
+Nana (h005)
+Rafaela (h017)
+Saber (h003)
+Tigreal (h006)
+Zilong (h009)
+
+## Daftar Hero per Role
+
+[Assassin]
+
+Aamon (h021)
+Alucard (h007)
+Fanny (h018)
+Karina (h011)
+Saber (h003)
+Zilong (h009)
+
+[Fighter]
+
+Alucard (h007)
+Balmond (h002)
+Bane (h014)
+Zilong (h009)
+
+[Mage]
+
+Alice (h004)
+Bane (h014)
+Eudora (h008)
+Nana (h005)
+
+[Marksman]
+
+Bruno (h015)
+Clint (h016)
+Layla (h010)
+Miya (h001)
+
+[Support]
+
+Lolita (h020)
+Minotaur (h019)
+Nana (h005)
+Rafaela (h017)
+
+[Tank]
+
+Akai (h012)
+Alice (h004)
+Balmond (h002)
+Franco (h013)
+Lolita (h020)
+Minotaur (h019)
+Tigreal (h006)
+
+## Daftar Hero per Lane
+
+[exp]
+
+Alice (h004)
+Alucard (h007)
+Balmond (h002)
+Bane (h014)
+Zilong (h009)
+
+[gold]
+
+Bruno (h015)
+Clint (h016)
+Layla (h010)
+Miya (h001)
+
+[jungle]
+
+Aamon (h021)
+Akai (h012)
+Alucard (h007)
+Balmond (h002)
+Bane (h014)
+Fanny (h018)
+Karina (h011)
+Saber (h003)
+Zilong (h009)
+
+[mid]
+
+Eudora (h008)
+Nana (h005)
+Rafaela (h017)
+
+[roam]
+
+Akai (h012)
+Franco (h013)
+Lolita (h020)
+Minotaur (h019)
+Rafaela (h017)
+Saber (h003)
+Tigreal (h006)
+

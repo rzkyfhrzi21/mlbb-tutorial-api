@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "title": "battle_spells_schema_api",
+    "patch_notes": "27-11-2025",
+    "author": {
+      "Adji Rivaldi": "https://www.instagram.com/rrival_dii/",
+      "Dimas Sadewa": "https://www.instagram.com/d.dewaaaa/",
+      "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
+    },
+    "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
+    "description": "Data Battle Spell Mobile Legends: Bang Bang berisi ikon, nama, fungsi, deskripsi, cooldown, dan level unlock dalam format API."
+  },
+  "data": [
+    {
+      "icon": "string",
+      "name": "string",
+      "usage": "string",
+      "description": "string",
+      "cooldown": "number",
+      "unlocked_at_level": "number"
+    }
+  ]
+}

@@ -3,11 +3,12 @@
     "title": "battle_spells_api",
     "patch_notes": "27-11-2025",
     "author": {
-      "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/",
+      "Adji Rivaldi": "https://www.instagram.com/rrival_dii/",
       "Dimas Sadewa": "https://www.instagram.com/d.dewaaaa/",
-      "Adji Rivaldi": "https://www.instagram.com/rrival_dii/"
+      "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
     },
-    "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api"
+    "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
+    "description": "Data Battle Spell Mobile Legends: Bang Bang berisi ikon, nama, fungsi, deskripsi, cooldown, dan level unlock dalam format API."
   },
   "data": [
     {
@@ -15,7 +16,7 @@
       "name": "Recall",
       "usage": "Kembali ke base",
       "description": "Menggunakan channel selama beberapa detik untuk berteleportasi kembali ke base. Jika terkena damage selama proses channeling, teleportasi akan dibatalkan.",
-      "cooldown": "0 Detik",
+      "cooldown": 0,
       "unlocked_at_level": 0
     },
     {
@@ -23,7 +24,7 @@
       "name": "Regen",
       "usage": "Pemulihan HP dan Mana",
       "description": "Memulihkan 120 (+25) HP dan mengembalikan (+0) Mana per detik selama 5 detik. Efek ini akan terputus jika pengguna menerima damage dari hero musuh, creep hutan besar, atau musuh non-minion lainnya.",
-      "cooldown": "60 Detik",
+      "cooldown": 60,
       "unlocked_at_level": 0
     },
     {
@@ -31,7 +32,7 @@
       "name": "Execute",
       "usage": "Finisher single target",
       "description": "Mengeluarkan serangan eksekusi ke satu hero musuh, memberikan True Damage yang meningkat berdasarkan level hero dan persentase HP yang sudah hilang dari target. Damage mengabaikan shield, dan jika target terbunuh cooldown skill ini berkurang secara signifikan.",
-      "cooldown": "90 Detik",
+      "cooldown": 90,
       "unlocked_at_level": 1
     },
     {
@@ -39,7 +40,7 @@
       "name": "Retribution",
       "usage": "Jungle dan farming",
       "description": "Memberikan True Damage besar ke creep dan minion. Mempercepat farming dengan menambah hadiah dari creep dan mengurangi damage yang diterima dari creep, tetapi mengurangi gold dan EXP dari minion di early game. Dapat di-upgrade menjadi varian khusus tergantung item jungle yang digunakan.",
-      "cooldown": "35 Detik",
+      "cooldown": 35,
       "unlocked_at_level": 3
     },
     {
@@ -47,7 +48,7 @@
       "name": "Inspire",
       "usage": "Meningkatkan basic attack",
       "description": "Selama beberapa detik, basic attack hero meningkat drastis: attack speed dinaikkan di atas batas normal, serangan mengabaikan sebagian pertahanan musuh, dan setiap serangan basic memulihkan sedikit HP. Sangat cocok untuk marksman atau fighter yang mengandalkan basic attack.",
-      "cooldown": "75 Detik",
+      "cooldown": 75,
       "unlocked_at_level": 5
     },
     {
@@ -55,7 +56,7 @@
       "name": "Sprint",
       "usage": "Mobilitas dan kabur",
       "description": "Meningkatkan movement speed hero secara besar dalam waktu singkat dan memberikan efek kebal terhadap slow. Kecepatan tambahan akan berkurang secara bertahap setelah beberapa detik pertama. Digunakan untuk mengejar musuh atau melarikan diri dari kejaran.",
-      "cooldown": "100 Detik",
+      "cooldown": 100,
       "unlocked_at_level": 7
     },
     {
@@ -63,7 +64,7 @@
       "name": "Revitalize",
       "usage": "Heal area untuk tim",
       "description": "Memanggil area Healing Spring di tanah yang secara berkala memulihkan persentase HP maksimum kepada hero yang berada di dalam area tersebut. Selain itu, meningkatkan efek shield dan regen HP untuk sekutu di area, sehingga sangat kuat saat war di area sempit.",
-      "cooldown": "100 Detik",
+      "cooldown": 100,
       "unlocked_at_level": 9
     },
     {
@@ -71,7 +72,7 @@
       "name": "Aegis",
       "usage": "Perisai bertahan",
       "description": "Memberikan shield besar kepada hero pengguna selama beberapa detik untuk menyerap damage yang masuk. Rekan tim terdekat dengan HP terendah juga mendapatkan shield lebih kecil. Efektif untuk melindungi diri atau core saat team fight.",
-      "cooldown": "90 Detik",
+      "cooldown": 90,
       "unlocked_at_level": 11
     },
     {
@@ -79,7 +80,7 @@
       "name": "Petrify",
       "usage": "Crowd control area",
       "description": "Memberikan Magic Damage ke musuh di sekitar dan membuat mereka terkena efek petrify dalam waktu singkat, kemudian diikuti efek slow. Sangat berguna untuk hero dengan kombo area yang butuh penguncian musuh di tempat.",
-      "cooldown": "90 Detik",
+      "cooldown": 90,
       "unlocked_at_level": 13
     },
     {
@@ -87,7 +88,7 @@
       "name": "Purify",
       "usage": "Melepas crowd control",
       "description": "Secara instan menghapus hampir semua efek negatif yang menempel pada hero pengguna seperti stun, slow, dan efek kontrol lain. Setelah digunakan, hero juga mendapatkan kekebalan terhadap crowd control dan peningkatan movement speed dalam waktu singkat.",
-      "cooldown": "90 Detik",
+      "cooldown": 90,
       "unlocked_at_level": 15
     },
     {
@@ -95,7 +96,7 @@
       "name": "Flameshot",
       "usage": "Poke jarak jauh dan zoning",
       "description": "Menembakkan proyektil api ke arah yang ditentukan. Musuh yang terkena akan menerima Magic Damage yang semakin besar jika jarak tembakan lebih jauh, serta terkena efek slow singkat. Saat digunakan, Flameshot juga mendorong musuh yang berada sangat dekat dengan hero pengguna menjauh.",
-      "cooldown": "50 Detik",
+      "cooldown": 50,
       "unlocked_at_level": 17
     },
     {
@@ -103,7 +104,7 @@
       "name": "Flicker",
       "usage": "Blink dan reposition",
       "description": "Memindahkan hero dalam jarak pendek ke arah yang dipilih secara instan, lalu memberikan tambahan Physical dan Magic Defense untuk sesaat. Sangat berguna untuk menghindari skill musuh, mengejar target, atau melakukan inisiasi dan combo tiba-tiba.",
-      "cooldown": "120 Detik",
+      "cooldown": 120,
       "unlocked_at_level": 19
     },
     {
@@ -111,7 +112,7 @@
       "name": "Arrival",
       "usage": "Teleport ke objektif",
       "description": "Setelah channeling beberapa detik, hero berteleportasi ke turret, base, atau minion tim yang dipilih dan mendapatkan movement speed tambahan yang menurun secara bertahap. Jika channeling dibatalkan atau terganggu, sebagian cooldown spell akan dikembalikan.",
-      "cooldown": "75 Detik",
+      "cooldown": 75,
       "unlocked_at_level": 21
     },
     {
@@ -119,7 +120,7 @@
       "name": "Vengeance",
       "usage": "Refleksi damage dan tanking",
       "description": "Selama beberapa detik, setiap kali hero menerima damage, sebagian dari damage tersebut dipantulkan kembali ke penyerang sebagai Magic Damage. Selain itu, hero juga mendapatkan pengurangan damage yang signifikan selama durasi efek.",
-      "cooldown": "75 Detik",
+      "cooldown": 75,
       "unlocked_at_level": 23
     }
   ]
