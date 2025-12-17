@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "title": "heroes_api",
+    "patch_notes": "29-11-2025",
+    "author": {
+      "Adji Rivaldi": "https://www.instagram.com/rrival_dii/",
+      "Dimas Sadewa": "https://www.instagram.com/d.dewaaaa/",
+      "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
+    },
+    "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
+    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+  },
+  "hero": {
+    "hero_icon": "/assets/heroes/tigreal.png",
+    "hero_id": "h006",
+    "hero_name": "Tigreal",
+    "release_year": 2016,
+    "laning": [
+      "roam"
+    ],
+    "role": [
+      "Tank"
+    ],
+    "speciality": [
+      "Crowd Control",
+      "Initiator"
+    ],
+    "price": {
+      "battle_point": 0,
+      "diamond": 0
+    },
+    "skills": [
+      {
+        "skill_name": "Fearless",
+        "skill_icon": "/assets/skills/Tigreal_Fearless.png",
+        "type": "passive",
+        "cooldown": null,
+        "manacost": null,
+        "skill_unique": [
+          "Damage Reduction",
+          "Tank"
+        ],
+        "description": "Tigreal mendapatkan stack saat menerima atau memberikan damage. Pada jumlah stack tertentu, ia akan mengabaikan damage dari basic attack berikutnya."
+      },
+      {
+        "skill_name": "Attack Wave",
+        "skill_icon": "/assets/skills/Tigreal_Attack_Wave.png",
+        "type": "active",
+        "cooldown": [
+          8
+        ],
+        "manacost": [
+          60,
+          70,
+          80,
+          90,
+          100,
+          110
+        ],
+        "skill_unique": [
+          "Line Skill",
+          "Slow"
+        ],
+        "description": "Tigreal mengirimkan gelombang energi ke depan yang memberikan damage dan slow pada musuh yang terkena."
+      },
+      {
+        "skill_name": "Sacred Hammer",
+        "skill_icon": "/assets/skills/Tigreal_Sacred_Hammer.png",
+        "type": "active",
+        "cooldown": [
+          12,
+          11,
+          10,
+          9,
+          8,
+          7
+        ],
+        "manacost": [
+          80
+        ],
+        "skill_unique": [
+          "Dash",
+          "Knockback",
+          "Knockup"
+        ],
+        "description": "Tigreal menerjang ke depan dan mendorong musuh. Ia dapat mengaktifkan kembali skill untuk menghantam tanah dan mengangkat musuh ke udara."
+      },
+      {
+        "skill_name": "Implosion",
+        "skill_icon": "/assets/skills/Tigreal_Implosion.png",
+        "type": "ultimate",
+        "cooldown": [
+          45,
+          40,
+          35
+        ],
+        "manacost": [
+          120
+        ],
+        "skill_unique": [
+          "AoE",
+          "Stun",
+          "Pull"
+        ],
+        "description": "Tigreal menarik musuh di sekitarnya ke arahnya lalu menjatuhkan palu, memberikan damage besar dan stun pada semua musuh yang tertarik."
+      }
+    ],
+    "base_attributes": {
+      "movement_speed": 260,
+      "physical_attack": 112,
+      "physical_defense": 20,
+      "physical_lifesteal": 0,
+      "physical_penetration": 0,
+      "magic_attack": 0,
+      "magic_power": 0,
+      "magic_penetration": 0,
+      "magic_lifesteal": 0,
+      "spell_vamp": 0,
+      "magic_resistance": 15,
+      "hp": 2581,
+      "mana": 500,
+      "attack_speed": 1.03,
+      "hp_regen_rate": 8.4,
+      "mana_regen_rate": 4.0,
+      "critical_strike_chance": 0,
+      "critical_damage": 200,
+      "cd_reduction": 0,
+      "bs_cd_reduction": 0,
+      "healing_effect": 0,
+      "monster_damage_reduction": 0,
+      "monster_damage": 0
+    }
+  }
+}

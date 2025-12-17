@@ -3,7 +3,7 @@
 // Script untuk membentuk file data_battle_spells.txt dari data/battle_spells.json
 
 // Path ke battle_spells.json
-$jsonFile = __DIR__ . '/battle_spells.json';
+$jsonFile = '../battle_spells/battle_spells.json';
 
 // Cek file
 if (!file_exists($jsonFile)) {

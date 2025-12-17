@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "title": "heroes_api",
+    "patch_notes": "29-11-2025",
+    "author": {
+      "Adji Rivaldi": "https://www.instagram.com/rrival_dii/",
+      "Dimas Sadewa": "https://www.instagram.com/d.dewaaaa/",
+      "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
+    },
+    "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
+    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+  },
+  "hero": {
+    "hero_icon": "/assets/heroes/clint.png",
+    "hero_id": "h016",
+    "hero_name": "Clint",
+    "release_year": 2016,
+    "laning": [
+      "gold"
+    ],
+    "role": [
+      "Marksman"
+    ],
+    "speciality": [
+      "Burst",
+      "Poke"
+    ],
+    "price": {
+      "battle_point": 0,
+      "diamond": 0
+    },
+    "skills": [
+      {
+        "skill_name": "Quick Draw",
+        "skill_icon": "/assets/skills/Clint_Quick_Draw.png",
+        "type": "passive",
+        "cooldown": null,
+        "manacost": null,
+        "skill_unique": [
+          "Enhanced Basic",
+          "Burst"
+        ],
+        "description": "Setiap kali Clint menggunakan skill, basic attack berikutnya akan menembakkan peluru tambahan dalam garis lurus yang memberikan damage besar."
+      },
+      {
+        "skill_name": "Blind Smoke",
+        "skill_icon": "/assets/skills/Clint_Blind_Smoke.png",
+        "type": "active",
+        "cooldown": [
+          9
+        ],
+        "manacost": [
+          70
+        ],
+        "skill_unique": [
+          "AoE",
+          "Blind",
+          "Slow"
+        ],
+        "description": "Clint melempar granat asap yang memberikan damage area, mengurangi akurasi basic attack musuh dan memberikan slow."
+      },
+      {
+        "skill_name": "Tracer Shot",
+        "skill_icon": "/assets/skills/Clint_Tracer_Shot.png",
+        "type": "active",
+        "cooldown": [
+          8
+        ],
+        "manacost": [
+          60
+        ],
+        "skill_unique": [
+          "Mark",
+          "Range Increase"
+        ],
+        "description": "Clint menembakkan peluru yang menandai musuh, memperpanjang jarak basic attack-nya terhadap target tersebut."
+      },
+      {
+        "skill_name": "Grenade Bombardment",
+        "skill_icon": "/assets/skills/Clint_Grenade_Bombardment.png",
+        "type": "ultimate",
+        "cooldown": [
+          45,
+          40,
+          35
+        ],
+        "manacost": [
+          80
+        ],
+        "skill_unique": [
+          "AoE",
+          "Multi Charge"
+        ],
+        "description": "Clint menyimpan beberapa granat dan dapat melemparkannya satu per satu, masing-masing memberikan damage area yang besar."
+      }
+    ],
+    "base_attributes": {
+      "movement_speed": 240,
+      "physical_attack": 120,
+      "physical_defense": 18,
+      "physical_lifesteal": 0,
+      "physical_penetration": 0,
+      "magic_attack": 0,
+      "magic_power": 0,
+      "magic_penetration": 0,
+      "magic_lifesteal": 0,
+      "spell_vamp": 0,
+      "magic_resistance": 10,
+      "hp": 2450,
+      "mana": 450,
+      "attack_speed": 0.84,
+      "hp_regen_rate": 7.2,
+      "mana_regen_rate": 3.0,
+      "critical_strike_chance": 0,
+      "critical_damage": 200,
+      "cd_reduction": 0,
+      "bs_cd_reduction": 0,
+      "healing_effect": 0,
+      "monster_damage_reduction": 0,
+      "monster_damage": 0
+    }
+  }
+}

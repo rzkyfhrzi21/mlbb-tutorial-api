@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "title": "heroes_api",
+    "patch_notes": "29-11-2025",
+    "author": {
+      "Adji Rivaldi": "https://www.instagram.com/rrival_dii/",
+      "Dimas Sadewa": "https://www.instagram.com/d.dewaaaa/",
+      "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
+    },
+    "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
+    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+  },
+  "hero": {
+    "hero_icon": "/assets/heroes/rafaela.png",
+    "hero_id": "h017",
+    "hero_name": "Rafaela",
+    "release_year": 2016,
+    "laning": [
+      "roam",
+      "mid"
+    ],
+    "role": [
+      "Support"
+    ],
+    "speciality": [
+      "Heal",
+      "Control"
+    ],
+    "price": {
+      "battle_point": 0,
+      "diamond": 0
+    },
+    "skills": [
+      {
+        "skill_name": "Deity Penalization",
+        "skill_icon": "/assets/skills/Rafaela_Deity_Penalization.png",
+        "type": "passive",
+        "cooldown": null,
+        "manacost": null,
+        "skill_unique": [
+          "Death Trigger",
+          "Execute"
+        ],
+        "description": "Ketika Rafaela terbunuh, ia akan memanggil pedang cahaya yang meluncur ke arah musuh terdekat dan memberikan damage berdasarkan HP target."
+      },
+      {
+        "skill_name": "Light of Retribution",
+        "skill_icon": "/assets/skills/Rafaela_Light_of_Retribution.png",
+        "type": "active",
+        "cooldown": [
+          4
+        ],
+        "manacost": [
+          60
+        ],
+        "skill_unique": [
+          "Multi Target",
+          "Slow"
+        ],
+        "description": "Rafaela melepaskan tiga gelombang cahaya yang mengenai beberapa musuh di sekitar, memberikan magic damage dan slow."
+      },
+      {
+        "skill_name": "Holy Healing",
+        "skill_icon": "/assets/skills/Rafaela_Holy_Healing.png",
+        "type": "active",
+        "cooldown": [
+          11
+        ],
+        "manacost": [
+          80
+        ],
+        "skill_unique": [
+          "Heal",
+          "Move Speed"
+        ],
+        "description": "Rafaela menyembuhkan dirinya dan sekutu di sekitarnya serta memberikan bonus movement speed selama beberapa detik."
+      },
+      {
+        "skill_name": "Holy Baptism",
+        "skill_icon": "/assets/skills/Rafaela_Holy_Baptism.png",
+        "type": "ultimate",
+        "cooldown": [
+          40,
+          36,
+          32
+        ],
+        "manacost": [
+          120
+        ],
+        "skill_unique": [
+          "Line Skill",
+          "Stun"
+        ],
+        "description": "Rafaela mengirimkan gelombang cahaya lurus ke depan yang memberikan damage dan stun kepada musuh yang terkena."
+      }
+    ],
+    "base_attributes": {
+      "movement_speed": 245,
+      "physical_attack": 115,
+      "physical_defense": 15,
+      "physical_lifesteal": 0,
+      "physical_penetration": 0,
+      "magic_attack": 0,
+      "magic_power": 0,
+      "magic_penetration": 0,
+      "magic_lifesteal": 0,
+      "spell_vamp": 0,
+      "magic_resistance": 15,
+      "hp": 2400,
+      "mana": 545,
+      "attack_speed": 0.84,
+      "hp_regen_rate": 7.0,
+      "mana_regen_rate": 4.2,
+      "critical_strike_chance": 0,
+      "critical_damage": 200,
+      "cd_reduction": 0,
+      "bs_cd_reduction": 0,
+      "healing_effect": 0,
+      "monster_damage_reduction": 0,
+      "monster_damage": 0
+    }
+  }
+}

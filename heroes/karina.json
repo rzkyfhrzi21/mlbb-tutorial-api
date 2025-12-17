@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "title": "heroes_api",
+    "patch_notes": "29-11-2025",
+    "author": {
+      "Adji Rivaldi": "https://www.instagram.com/rrival_dii/",
+      "Dimas Sadewa": "https://www.instagram.com/d.dewaaaa/",
+      "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
+    },
+    "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
+    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+  },
+  "hero": {
+    "hero_icon": "/assets/heroes/karina.png",
+    "hero_id": "h011",
+    "hero_name": "Karina",
+    "release_year": 2016,
+    "laning": [
+      "jungle"
+    ],
+    "role": [
+      "Assassin"
+    ],
+    "speciality": [
+      "Burst",
+      "Magic Damage"
+    ],
+    "price": {
+      "battle_point": 0,
+      "diamond": 0
+    },
+    "skills": [
+      {
+        "skill_name": "Shadow Combo",
+        "skill_icon": "/assets/skills/Karina_Shadow_Combo.png",
+        "type": "passive",
+        "cooldown": null,
+        "manacost": null,
+        "skill_unique": [
+          "Mark",
+          "Burst"
+        ],
+        "description": "Karina memberikan mark pada musuh melalui skill dan basic attack. Menyerang target yang memiliki mark akan memberikan damage tambahan dan membantu mengurangi cooldown skill."
+      },
+      {
+        "skill_name": "Dance of Blades",
+        "skill_icon": "/assets/skills/Karina_Dance_of_Blades.png",
+        "type": "active",
+        "cooldown": [
+          7
+        ],
+        "manacost": [
+          60
+        ],
+        "skill_unique": [
+          "Defense",
+          "Projectile Block"
+        ],
+        "description": "Karina memutar pedang di sekelilingnya, mengurangi damage basic attack dan memantulkan proyektil musuh sambil memberikan magic damage."
+      },
+      {
+        "skill_name": "Dance of Death",
+        "skill_icon": "/assets/skills/Karina_Dance_of_Death.png",
+        "type": "active",
+        "cooldown": [
+          8
+        ],
+        "manacost": [
+          70
+        ],
+        "skill_unique": [
+          "AoE",
+          "Burst"
+        ],
+        "description": "Karina berputar cepat dan menebas semua musuh di sekitarnya, memberikan magic damage tinggi."
+      },
+      {
+        "skill_name": "Shadow Assault",
+        "skill_icon": "/assets/skills/Karina_Shadow_Assault.png",
+        "type": "ultimate",
+        "cooldown": [
+          36,
+          30,
+          24
+        ],
+        "manacost": [
+          100
+        ],
+        "skill_unique": [
+          "Dash",
+          "Reset",
+          "Finisher"
+        ],
+        "description": "Karina menerjang ke target dan memberikan magic damage besar. Jika target terbunuh atau assist didapatkan, cooldown skill akan berkurang secara signifikan."
+      }
+    ],
+    "base_attributes": {
+      "movement_speed": 260,
+      "physical_attack": 121,
+      "physical_defense": 19,
+      "physical_lifesteal": 0,
+      "physical_penetration": 0,
+      "magic_attack": 0,
+      "magic_power": 0,
+      "magic_penetration": 0,
+      "magic_lifesteal": 0,
+      "spell_vamp": 0,
+      "magic_resistance": 15,
+      "hp": 2490,
+      "mana": 490,
+      "attack_speed": 1.08,
+      "hp_regen_rate": 7.4,
+      "mana_regen_rate": 4.0,
+      "critical_strike_chance": 0,
+      "critical_damage": 200,
+      "cd_reduction": 0,
+      "bs_cd_reduction": 0,
+      "healing_effect": 0,
+      "monster_damage_reduction": 0,
+      "monster_damage": 0
+    }
+  }
+}

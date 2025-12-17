@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "title": "heroes_api",
+    "patch_notes": "29-11-2025",
+    "author": {
+      "Adji Rivaldi": "https://www.instagram.com/rrival_dii/",
+      "Dimas Sadewa": "https://www.instagram.com/d.dewaaaa/",
+      "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
+    },
+    "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
+    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+  },
+  "hero": {
+    "hero_icon": "/assets/heroes/franco.png",
+    "hero_id": "h013",
+    "hero_name": "Franco",
+    "release_year": 2016,
+    "laning": [
+      "roam"
+    ],
+    "role": [
+      "Tank"
+    ],
+    "speciality": [
+      "Control",
+      "Initiator"
+    ],
+    "price": {
+      "battle_point": 0,
+      "diamond": 0
+    },
+    "skills": [
+      {
+        "skill_name": "Wasteland Force",
+        "skill_icon": "/assets/skills/Franco_Wasteland_Force.png",
+        "type": "passive",
+        "cooldown": null,
+        "manacost": null,
+        "skill_unique": [
+          "Regen",
+          "Move Speed"
+        ],
+        "description": "Franco mendapatkan HP regen dan movement speed tambahan jika ia tidak menerima damage dalam beberapa detik."
+      },
+      {
+        "skill_name": "Iron Hook",
+        "skill_icon": "/assets/skills/Franco_Iron_Hook.png",
+        "type": "active",
+        "cooldown": [
+          15,
+          14,
+          13,
+          12,
+          11,
+          10
+        ],
+        "manacost": [
+          80
+        ],
+        "skill_unique": [
+          "Hook",
+          "Pick Off"
+        ],
+        "description": "Franco melemparkan kait ke arah yang ditentukan. Kait akan menarik musuh pertama yang terkena ke arahnya dan memberikan damage."
+      },
+      {
+        "skill_name": "Fury Shock",
+        "skill_icon": "/assets/skills/Franco_Fury_Shock.png",
+        "type": "active",
+        "cooldown": [
+          7
+        ],
+        "manacost": [
+          60
+        ],
+        "skill_unique": [
+          "AoE",
+          "Slow"
+        ],
+        "description": "Franco menghantam tanah, memberikan damage area dan slow kepada musuh di sekitar."
+      },
+      {
+        "skill_name": "Bloody Hunt",
+        "skill_icon": "/assets/skills/Franco_Bloody_Hunt.png",
+        "type": "ultimate",
+        "cooldown": [
+          45,
+          40,
+          35
+        ],
+        "manacost": [
+          120
+        ],
+        "skill_unique": [
+          "Single Target",
+          "Suppress"
+        ],
+        "description": "Franco menggigit dan menahan satu hero musuh, men-stun mereka selama beberapa detik sambil memberikan damage berkali-kali."
+      }
+    ],
+    "base_attributes": {
+      "movement_speed": 255,
+      "physical_attack": 119,
+      "physical_defense": 25,
+      "physical_lifesteal": 0,
+      "physical_penetration": 0,
+      "magic_attack": 0,
+      "magic_power": 0,
+      "magic_penetration": 0,
+      "magic_lifesteal": 0,
+      "spell_vamp": 0,
+      "magic_resistance": 15,
+      "hp": 2800,
+      "mana": 440,
+      "attack_speed": 0.86,
+      "hp_regen_rate": 8.8,
+      "mana_regen_rate": 3.2,
+      "critical_strike_chance": 0,
+      "critical_damage": 200,
+      "cd_reduction": 0,
+      "bs_cd_reduction": 0,
+      "healing_effect": 0,
+      "monster_damage_reduction": 0,
+      "monster_damage": 0
+    }
+  }
+}

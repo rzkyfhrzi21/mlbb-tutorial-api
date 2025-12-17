@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "title": "heroes_api",
+    "patch_notes": "29-11-2025",
+    "author": {
+      "Adji Rivaldi": "https://www.instagram.com/rrival_dii/",
+      "Dimas Sadewa": "https://www.instagram.com/d.dewaaaa/",
+      "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
+    },
+    "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
+    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+  },
+  "hero": {
+    "hero_icon": "/assets/heroes/lolita.png",
+    "hero_id": "h020",
+    "hero_name": "Lolita",
+    "release_year": 2016,
+    "laning": [
+      "roam"
+    ],
+    "role": [
+      "Tank",
+      "Support"
+    ],
+    "speciality": [
+      "Guard",
+      "Control"
+    ],
+    "price": {
+      "battle_point": 0,
+      "diamond": 0
+    },
+    "skills": [
+      {
+        "skill_name": "Noumenon Energy Core",
+        "skill_icon": "/assets/skills/Lolita_Noumenon_Energy_Core.png",
+        "type": "passive",
+        "cooldown": null,
+        "manacost": null,
+        "skill_unique": [
+          "Shield",
+          "Team Buff"
+        ],
+        "description": "Jika Lolita atau sekutunya tidak menerima damage selama beberapa detik, mereka akan mendapatkan shield dari inti energi Noumenon."
+      },
+      {
+        "skill_name": "Charge",
+        "skill_icon": "/assets/skills/Lolita_Charge.png",
+        "type": "active",
+        "cooldown": [
+          12
+        ],
+        "manacost": [
+          70
+        ],
+        "skill_unique": [
+          "Dash",
+          "Stun"
+        ],
+        "description": "Lolita melakukan dash pendek ke arah depan dan memperkuat basic attack berikutnya untuk memberikan stun kepada musuh yang terkena."
+      },
+      {
+        "skill_name": "Guardian's Bulwark",
+        "skill_icon": "/assets/skills/Lolita_Guardians_Bulwark.png",
+        "type": "active",
+        "cooldown": [
+          14,
+          13,
+          12,
+          11,
+          10,
+          9
+        ],
+        "manacost": [
+          80
+        ],
+        "skill_unique": [
+          "Projectile Block",
+          "Shield"
+        ],
+        "description": "Lolita mengangkat perisainya dan memblokir semua proyektil dari arah depan. Ia kemudian dapat melepaskan gelombang energi untuk memberikan damage."
+      },
+      {
+        "skill_name": "Noumenon Blast",
+        "skill_icon": "/assets/skills/Lolita_Noumenon_Blast.png",
+        "type": "ultimate",
+        "cooldown": [
+          48,
+          44,
+          40
+        ],
+        "manacost": [
+          120
+        ],
+        "skill_unique": [
+          "AoE",
+          "Stun",
+          "Charge Up"
+        ],
+        "description": "Lolita mengumpulkan energi dan menghantam tanah dengan palu besar setelah delay singkat, memberikan magic damage dan stun area yang luas."
+      }
+    ],
+    "base_attributes": {
+      "movement_speed": 260,
+      "physical_attack": 110,
+      "physical_defense": 25,
+      "physical_lifesteal": 0,
+      "physical_penetration": 0,
+      "magic_attack": 0,
+      "magic_power": 0,
+      "magic_penetration": 0,
+      "magic_lifesteal": 0,
+      "spell_vamp": 0,
+      "magic_resistance": 15,
+      "hp": 2609,
+      "mana": 480,
+      "attack_speed": 0.8,
+      "hp_regen_rate": 8.4,
+      "mana_regen_rate": 3.6,
+      "critical_strike_chance": 0,
+      "critical_damage": 200,
+      "cd_reduction": 0,
+      "bs_cd_reduction": 0,
+      "healing_effect": 0,
+      "monster_damage_reduction": 0,
+      "monster_damage": 0
+    }
+  }
+}

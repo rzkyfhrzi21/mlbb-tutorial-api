@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "title": "heroes_api",
+    "patch_notes": "29-11-2025",
+    "author": {
+      "Adji Rivaldi": "https://www.instagram.com/rrival_dii/",
+      "Dimas Sadewa": "https://www.instagram.com/d.dewaaaa/",
+      "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
+    },
+    "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
+    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+  },
+  "hero": {
+    "hero_icon": "/assets/heroes/alucard.png",
+    "hero_id": "h007",
+    "hero_name": "Alucard",
+    "release_year": 2016,
+    "laning": [
+      "jungle",
+      "exp"
+    ],
+    "role": [
+      "Fighter",
+      "Assassin"
+    ],
+    "speciality": [
+      "Charge",
+      "Lifesteal"
+    ],
+    "price": {
+      "battle_point": 0,
+      "diamond": 0
+    },
+    "skills": [
+      {
+        "skill_name": "Pursuit",
+        "skill_icon": "/assets/skills/Alucard_Pursuit.png",
+        "type": "passive",
+        "cooldown": null,
+        "manacost": null,
+        "skill_unique": [
+          "Gap Close",
+          "Bonus Damage"
+        ],
+        "description": "Setelah menggunakan skill, basic attack Alucard berikutnya akan melompat ke target dan memberikan damage tambahan. Damage meningkat jika hanya ada satu target."
+      },
+      {
+        "skill_name": "Groundsplitter",
+        "skill_icon": "/assets/skills/Alucard_Groundsplitter.png",
+        "type": "active",
+        "cooldown": [
+          8
+        ],
+        "manacost": [
+          0
+        ],
+        "skill_unique": [
+          "Jump",
+          "AoE"
+        ],
+        "description": "Alucard melompat ke area yang ditentukan dan menghantam tanah, memberikan damage kepada musuh di area tersebut."
+      },
+      {
+        "skill_name": "Whirling Smash",
+        "skill_icon": "/assets/skills/Alucard_Whirling_Smash.png",
+        "type": "active",
+        "cooldown": [
+          5
+        ],
+        "manacost": [
+          0
+        ],
+        "skill_unique": [
+          "AoE",
+          "Wave Clear"
+        ],
+        "description": "Alucard memutar pedangnya dan memberikan damage area di sekitarnya, baik untuk membersihkan minion dan jungle."
+      },
+      {
+        "skill_name": "Fission Wave",
+        "skill_icon": "/assets/skills/Alucard_Fission_Wave.png",
+        "type": "ultimate",
+        "cooldown": [
+          30,
+          27,
+          24
+        ],
+        "manacost": [
+          0
+        ],
+        "skill_unique": [
+          "Buff",
+          "Burst",
+          "Line Skill"
+        ],
+        "description": "Alucard meningkatkan lifesteal dan damage-nya, lalu melepaskan gelombang energi ke depan yang memberikan damage tinggi pada musuh di jalurnya."
+      }
+    ],
+    "base_attributes": {
+      "movement_speed": 260,
+      "physical_attack": 123,
+      "physical_defense": 21,
+      "physical_lifesteal": 0,
+      "physical_penetration": 0,
+      "magic_attack": 0,
+      "magic_power": 0,
+      "magic_penetration": 0,
+      "magic_lifesteal": 0,
+      "spell_vamp": 0,
+      "magic_resistance": 15,
+      "hp": 2443,
+      "mana": 0,
+      "attack_speed": 1.13,
+      "hp_regen_rate": 7.8,
+      "mana_regen_rate": 0.0,
+      "critical_strike_chance": 0,
+      "critical_damage": 200,
+      "cd_reduction": 0,
+      "bs_cd_reduction": 0,
+      "healing_effect": 0,
+      "monster_damage_reduction": 0,
+      "monster_damage": 0
+    }
+  }
+}

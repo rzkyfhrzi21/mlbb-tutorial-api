@@ -3,7 +3,7 @@
 // Script untuk membentuk file data_emblems.txt dari data/emblems.json
 
 // Path ke emblems.json
-$jsonFile = __DIR__ . '/emblems.json';
+$jsonFile = '../emblems/emblems.json';
 
 // Cek file
 if (!file_exists($jsonFile)) {

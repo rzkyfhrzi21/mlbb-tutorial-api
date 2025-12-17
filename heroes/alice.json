@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "title": "heroes_api",
+    "patch_notes": "29-11-2025",
+    "author": {
+      "Adji Rivaldi": "https://www.instagram.com/rrival_dii/",
+      "Dimas Sadewa": "https://www.instagram.com/d.dewaaaa/",
+      "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
+    },
+    "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
+    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+  },
+  "hero": {
+    "hero_icon": "/assets/heroes/alice.png",
+    "hero_id": "h004",
+    "hero_name": "Alice",
+    "release_year": 2016,
+    "laning": [
+      "exp"
+    ],
+    "role": [
+      "Mage",
+      "Tank"
+    ],
+    "speciality": [
+      "Charge",
+      "Regen"
+    ],
+    "price": {
+      "battle_point": 0,
+      "diamond": 0
+    },
+    "skills": [
+      {
+        "skill_name": "Blood Ancestry",
+        "skill_icon": "/assets/skills/Alice_Blood_Ancestry.png",
+        "type": "passive",
+        "cooldown": null,
+        "manacost": null,
+        "skill_unique": [
+          "Stacking",
+          "Max HP"
+        ],
+        "description": "Alice mengumpulkan orb darah dari minion yang mati di dekatnya untuk meningkatkan maksimal HP secara permanen."
+      },
+      {
+        "skill_name": "Flowing Blood",
+        "skill_icon": "/assets/skills/Alice_Flowing_Blood.png",
+        "type": "active",
+        "cooldown": [
+          8
+        ],
+        "manacost": [
+          50,
+          55,
+          60,
+          65,
+          70,
+          75
+        ],
+        "skill_unique": [
+          "Projectile",
+          "Blink",
+          "AoE"
+        ],
+        "description": "Alice menembakkan bola darah ke arah depan yang memberikan damage dan dapat digunakan sebagai titik blink saat skill diaktifkan kembali."
+      },
+      {
+        "skill_name": "Blood Awe",
+        "skill_icon": "/assets/skills/Alice_Blood_Awe.png",
+        "type": "active",
+        "cooldown": [
+          7
+        ],
+        "manacost": [
+          90
+        ],
+        "skill_unique": [
+          "AoE",
+          "Slow",
+          "Immobilize"
+        ],
+        "description": "Alice meledakkan darah di sekitarnya, memberikan damage, slow, dan kemudian immobilize kepada musuh yang berada di area."
+      },
+      {
+        "skill_name": "Blood Ode",
+        "skill_icon": "/assets/skills/Alice_Blood_Ode.png",
+        "type": "ultimate",
+        "cooldown": [
+          40,
+          35,
+          30
+        ],
+        "manacost": [
+          135,
+          150,
+          165
+        ],
+        "skill_unique": [
+          "AoE",
+          "Lifesteal",
+          "Sustain"
+        ],
+        "description": "Alice memasuki mode Fountain of Blood dan terus-menerus menyerap HP musuh di sekitar sambil memberikan magic damage."
+      }
+    ],
+    "base_attributes": {
+      "movement_speed": 240,
+      "physical_attack": 114,
+      "physical_defense": 21,
+      "physical_lifesteal": 0,
+      "physical_penetration": 0,
+      "magic_attack": 0,
+      "magic_power": 0,
+      "magic_penetration": 0,
+      "magic_lifesteal": 0,
+      "spell_vamp": 0,
+      "magic_resistance": 15,
+      "hp": 2573,
+      "mana": 0,
+      "attack_speed": 1.0,
+      "hp_regen_rate": 7.2,
+      "mana_regen_rate": 0.0,
+      "critical_strike_chance": 0,
+      "critical_damage": 200,
+      "cd_reduction": 0,
+      "bs_cd_reduction": 0,
+      "healing_effect": 0,
+      "monster_damage_reduction": 0,
+      "monster_damage": 0
+    }
+  }
+}

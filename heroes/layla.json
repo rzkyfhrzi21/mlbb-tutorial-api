@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "title": "heroes_api",
+    "patch_notes": "29-11-2025",
+    "author": {
+      "Adji Rivaldi": "https://www.instagram.com/rrival_dii/",
+      "Dimas Sadewa": "https://www.instagram.com/d.dewaaaa/",
+      "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
+    },
+    "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
+    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+  },
+  "hero": {
+    "hero_icon": "/assets/heroes/layla.png",
+    "hero_id": "h010",
+    "hero_name": "Layla",
+    "release_year": 2016,
+    "laning": [
+      "gold"
+    ],
+    "role": [
+      "Marksman"
+    ],
+    "speciality": [
+      "Reap",
+      "Damage"
+    ],
+    "price": {
+      "battle_point": 0,
+      "diamond": 0
+    },
+    "skills": [
+      {
+        "skill_name": "Malefic Gun",
+        "skill_icon": "/assets/skills/Layla_Malefic_Gun.png",
+        "type": "passive",
+        "cooldown": null,
+        "manacost": null,
+        "skill_unique": [
+          "Range Increase",
+          "Damage Scaling"
+        ],
+        "description": "Semakin jauh jarak serangan Layla, semakin besar damage yang dihasilkan. Jangkauan basic attack akan meningkat seiring level."
+      },
+      {
+        "skill_name": "Malefic Bomb",
+        "skill_icon": "/assets/skills/Layla_Malefic_Bomb.png",
+        "type": "active",
+        "cooldown": [
+          5
+        ],
+        "manacost": [
+          40,
+          45,
+          50,
+          55,
+          60,
+          65
+        ],
+        "skill_unique": [
+          "Line Skill",
+          "Poke"
+        ],
+        "description": "Layla menembakkan bola energi ke depan yang meledak saat mengenai musuh pertama, memberikan physical damage."
+      },
+      {
+        "skill_name": "Void Projectile",
+        "skill_icon": "/assets/skills/Layla_Void_Projectile.png",
+        "type": "active",
+        "cooldown": [
+          11,
+          10.4,
+          9.8,
+          9.2,
+          8.6,
+          8
+        ],
+        "manacost": [
+          50,
+          55,
+          60,
+          65,
+          70,
+          75
+        ],
+        "skill_unique": [
+          "AoE",
+          "Slow"
+        ],
+        "description": "Layla menembakkan proyektil yang meledak di area kecil dan memberikan damage serta efek slow kepada musuh."
+      },
+      {
+        "skill_name": "Destruction Rush",
+        "skill_icon": "/assets/skills/Layla_Destruction_Rush.png",
+        "type": "ultimate",
+        "cooldown": [
+          40,
+          36,
+          32
+        ],
+        "manacost": [
+          130,
+          150,
+          170
+        ],
+        "skill_unique": [
+          "Line Skill",
+          "Burst",
+          "Long Range"
+        ],
+        "description": "Layla menembakkan laser energi jarak jauh dalam garis lurus yang memberikan physical damage besar kepada musuh di jalurnya."
+      }
+    ],
+    "base_attributes": {
+      "movement_speed": 240,
+      "physical_attack": 125,
+      "physical_defense": 15,
+      "physical_lifesteal": 0,
+      "physical_penetration": 0,
+      "magic_attack": 0,
+      "magic_power": 0,
+      "magic_penetration": 0,
+      "magic_lifesteal": 0,
+      "spell_vamp": 0,
+      "magic_resistance": 10,
+      "hp": 2524,
+      "mana": 424,
+      "attack_speed": 0.86,
+      "hp_regen_rate": 7.2,
+      "mana_regen_rate": 3.0,
+      "critical_strike_chance": 0,
+      "critical_damage": 200,
+      "cd_reduction": 0,
+      "bs_cd_reduction": 0,
+      "healing_effect": 0,
+      "monster_damage_reduction": 0,
+      "monster_damage": 0
+    }
+  }
+}

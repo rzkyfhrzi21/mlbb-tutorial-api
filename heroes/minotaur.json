@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "title": "heroes_api",
+    "patch_notes": "29-11-2025",
+    "author": {
+      "Adji Rivaldi": "https://www.instagram.com/rrival_dii/",
+      "Dimas Sadewa": "https://www.instagram.com/d.dewaaaa/",
+      "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
+    },
+    "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
+    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+  },
+  "hero": {
+    "hero_icon": "/assets/heroes/minotaur.png",
+    "hero_id": "h019",
+    "hero_name": "Minotaur",
+    "release_year": 2016,
+    "laning": [
+      "roam"
+    ],
+    "role": [
+      "Tank",
+      "Support"
+    ],
+    "speciality": [
+      "Crowd Control",
+      "Regen"
+    ],
+    "price": {
+      "battle_point": 0,
+      "diamond": 0
+    },
+    "skills": [
+      {
+        "skill_name": "Rage Incarnate",
+        "skill_icon": "/assets/skills/Minotaur_Rage_Incarnate.png",
+        "type": "passive",
+        "cooldown": null,
+        "manacost": null,
+        "skill_unique": [
+          "Rage Mechanic",
+          "Buff"
+        ],
+        "description": "Minotaur mengumpulkan Rage saat memberikan atau menerima damage. Saat Rage penuh, ia memasuki Rage Mode dengan skill yang diperkuat."
+      },
+      {
+        "skill_name": "Despair Stomp",
+        "skill_icon": "/assets/skills/Minotaur_Despair_Stomp.png",
+        "type": "active",
+        "cooldown": [
+          8
+        ],
+        "manacost": null,
+        "skill_unique": [
+          "AoE",
+          "Slow"
+        ],
+        "description": "Minotaur melompat dan menghantam tanah, memberikan damage area dan slow pada musuh di sekitarnya."
+      },
+      {
+        "skill_name": "Motivation Roar",
+        "skill_icon": "/assets/skills/Minotaur_Motivation_Roar.png",
+        "type": "active",
+        "cooldown": [
+          12
+        ],
+        "manacost": null,
+        "skill_unique": [
+          "Heal",
+          "Buff"
+        ],
+        "description": "Minotaur mengaum dan memulihkan HP dirinya sendiri sekaligus sekutu di sekitar. Dalam Rage Mode, efek pemulihan lebih besar."
+      },
+      {
+        "skill_name": "Minoan Fury",
+        "skill_icon": "/assets/skills/Minotaur_Minoan_Fury.png",
+        "type": "ultimate",
+        "cooldown": [
+          40,
+          36,
+          32
+        ],
+        "manacost": null,
+        "skill_unique": [
+          "AoE",
+          "Knock Up",
+          "Multi Hit"
+        ],
+        "description": "Dalam Rage Mode, Minotaur menghantam tanah beberapa kali, memberikan damage dan knock-up pada pukulan terakhir."
+      }
+    ],
+    "base_attributes": {
+      "movement_speed": 260,
+      "physical_attack": 117,
+      "physical_defense": 27,
+      "physical_lifesteal": 0,
+      "physical_penetration": 0,
+      "magic_attack": 0,
+      "magic_power": 0,
+      "magic_penetration": 0,
+      "magic_lifesteal": 0,
+      "spell_vamp": 0,
+      "magic_resistance": 15,
+      "hp": 2778,
+      "mana": 0,
+      "attack_speed": 0.88,
+      "hp_regen_rate": 9.0,
+      "mana_regen_rate": 0.0,
+      "critical_strike_chance": 0,
+      "critical_damage": 200,
+      "cd_reduction": 0,
+      "bs_cd_reduction": 0,
+      "healing_effect": 0,
+      "monster_damage_reduction": 0,
+      "monster_damage": 0
+    }
+  }
+}

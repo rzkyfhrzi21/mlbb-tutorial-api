@@ -3,7 +3,7 @@
 // Script untuk membentuk file data_items.txt dari data/items.json
 
 // Path ke items.json
-$jsonFile = __DIR__ . '/items.json';
+$jsonFile = '../items/items.json';
 
 // Cek file
 if (!file_exists($jsonFile)) {

@@ -3,7 +3,7 @@
 // Script untuk membentuk file data_heroes.txt dari heroes.json
 
 // Path ke heroes.json (sesuaikan kalau kamu taruh di /data/heroes.json)
-$jsonFile = __DIR__ . '/heroes.json';
+$jsonFile = '../heroes/heroes.json';
 
 // Cek file
 if (!file_exists($jsonFile)) {

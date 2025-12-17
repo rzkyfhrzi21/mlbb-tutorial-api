@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "title": "heroes_api",
+    "patch_notes": "29-11-2025",
+    "author": {
+      "Adji Rivaldi": "https://www.instagram.com/rrival_dii/",
+      "Dimas Sadewa": "https://www.instagram.com/d.dewaaaa/",
+      "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
+    },
+    "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
+    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+  },
+  "hero": {
+    "hero_icon": "/assets/heroes/akai.png",
+    "hero_id": "h012",
+    "hero_name": "Akai",
+    "release_year": 2016,
+    "laning": [
+      "roam",
+      "jungle"
+    ],
+    "role": [
+      "Tank"
+    ],
+    "speciality": [
+      "Control",
+      "Guard"
+    ],
+    "price": {
+      "battle_point": 0,
+      "diamond": 0
+    },
+    "skills": [
+      {
+        "skill_name": "Tai Chi",
+        "skill_icon": "/assets/skills/Akai_Tai_Chi.png",
+        "type": "passive",
+        "cooldown": null,
+        "manacost": null,
+        "skill_unique": [
+          "Shield",
+          "Tank"
+        ],
+        "description": "Setiap kali Akai menggunakan skill, ia mendapatkan shield berdasarkan maksimal HP dan sedikit peningkatan movement speed."
+      },
+      {
+        "skill_name": "Headbutt",
+        "skill_icon": "/assets/skills/Akai_Headbutt.png",
+        "type": "active",
+        "cooldown": [
+          12,
+          11,
+          10,
+          9,
+          8,
+          7
+        ],
+        "manacost": [
+          70
+        ],
+        "skill_unique": [
+          "Dash",
+          "Knockback"
+        ],
+        "description": "Akai menerjang ke depan dan menghentikan gerakannya ketika mengenai musuh atau tembok, mendorong musuh dan memberikan damage."
+      },
+      {
+        "skill_name": "Body Slam",
+        "skill_icon": "/assets/skills/Akai_Body_Slam.png",
+        "type": "active",
+        "cooldown": [
+          9
+        ],
+        "manacost": [
+          80
+        ],
+        "skill_unique": [
+          "AoE",
+          "Slow"
+        ],
+        "description": "Akai melompat dan menghantam tanah, memberikan damage area dan slow kepada musuh yang terkena."
+      },
+      {
+        "skill_name": "Heavy Spin",
+        "skill_icon": "/assets/skills/Akai_Heavy_Spin.png",
+        "type": "ultimate",
+        "cooldown": [
+          40,
+          36,
+          32
+        ],
+        "manacost": [
+          120
+        ],
+        "skill_unique": [
+          "CC Immune",
+          "Displacement",
+          "Zone Control"
+        ],
+        "description": "Akai berputar menjadi bola besar, menjadi kebal crowd control dan mendorong musuh di jalurnya sambil memberikan damage."
+      }
+    ],
+    "base_attributes": {
+      "movement_speed": 260,
+      "physical_attack": 115,
+      "physical_defense": 23,
+      "physical_lifesteal": 0,
+      "physical_penetration": 0,
+      "magic_attack": 0,
+      "magic_power": 0,
+      "magic_penetration": 0,
+      "magic_lifesteal": 0,
+      "spell_vamp": 0,
+      "magic_resistance": 15,
+      "hp": 2769,
+      "mana": 422,
+      "attack_speed": 0.86,
+      "hp_regen_rate": 8.2,
+      "mana_regen_rate": 3.0,
+      "critical_strike_chance": 0,
+      "critical_damage": 200,
+      "cd_reduction": 0,
+      "bs_cd_reduction": 0,
+      "healing_effect": 0,
+      "monster_damage_reduction": 0,
+      "monster_damage": 0
+    }
+  }
+}

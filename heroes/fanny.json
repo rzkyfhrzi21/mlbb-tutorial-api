@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "title": "heroes_api",
+    "patch_notes": "29-11-2025",
+    "author": {
+      "Adji Rivaldi": "https://www.instagram.com/rrival_dii/",
+      "Dimas Sadewa": "https://www.instagram.com/d.dewaaaa/",
+      "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
+    },
+    "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
+    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+  },
+  "hero": {
+    "hero_icon": "/assets/heroes/fanny.png",
+    "hero_id": "h018",
+    "hero_name": "Fanny",
+    "release_year": 2016,
+    "laning": [
+      "jungle"
+    ],
+    "role": [
+      "Assassin"
+    ],
+    "speciality": [
+      "Mobility",
+      "Burst"
+    ],
+    "price": {
+      "battle_point": 0,
+      "diamond": 0
+    },
+    "skills": [
+      {
+        "skill_name": "Air Superiority",
+        "skill_icon": "/assets/skills/Fanny_Air_Superiority.png",
+        "type": "passive",
+        "cooldown": null,
+        "manacost": null,
+        "skill_unique": [
+          "Mark",
+          "Burst"
+        ],
+        "description": "Damage Fanny meningkat saat ia meluncur dengan kabel dan meninggalkan mark pada musuh. Mark tersebut meningkatkan damage skill-nya."
+      },
+      {
+        "skill_name": "Tornado Strike",
+        "skill_icon": "/assets/skills/Fanny_Tornado_Strike.png",
+        "type": "active",
+        "cooldown": [
+          3.5
+        ],
+        "manacost": null,
+        "skill_unique": [
+          "AoE",
+          "Short Cooldown"
+        ],
+        "description": "Fanny memutar pedangnya dan memberikan damage area di sekitarnya. Skill ini sering digunakan bersama Steel Cable."
+      },
+      {
+        "skill_name": "Steel Cable",
+        "skill_icon": "/assets/skills/Fanny_Steel_Cable.png",
+        "type": "active",
+        "cooldown": [
+          0
+        ],
+        "manacost": null,
+        "skill_unique": [
+          "Dash",
+          "High Mobility"
+        ],
+        "description": "Fanny menembakkan kabel yang menempel pada dinding dan menarik dirinya ke arah kabel. Skill ini bisa digunakan berturut-turut untuk mobilitas sangat tinggi."
+      },
+      {
+        "skill_name": "Cut Throat",
+        "skill_icon": "/assets/skills/Fanny_Cut_Throat.png",
+        "type": "ultimate",
+        "cooldown": [
+          28,
+          24,
+          20
+        ],
+        "manacost": null,
+        "skill_unique": [
+          "Single Target",
+          "Execute"
+        ],
+        "description": "Fanny menerjang satu target dan memberikan burst damage besar, yang meningkat berdasarkan jumlah mark yang dimiliki target."
+      }
+    ],
+    "base_attributes": {
+      "movement_speed": 265,
+      "physical_attack": 121,
+      "physical_defense": 18,
+      "physical_lifesteal": 0,
+      "physical_penetration": 0,
+      "magic_attack": 0,
+      "magic_power": 0,
+      "magic_penetration": 0,
+      "magic_lifesteal": 0,
+      "spell_vamp": 0,
+      "magic_resistance": 15,
+      "hp": 2523,
+      "mana": 100,
+      "attack_speed": 1.0,
+      "hp_regen_rate": 7.0,
+      "mana_regen_rate": 3.2,
+      "critical_strike_chance": 0,
+      "critical_damage": 200,
+      "cd_reduction": 0,
+      "bs_cd_reduction": 0,
+      "healing_effect": 0,
+      "monster_damage_reduction": 0,
+      "monster_damage": 0
+    }
+  }
+}

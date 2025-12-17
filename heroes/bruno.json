@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "title": "heroes_api",
+    "patch_notes": "29-11-2025",
+    "author": {
+      "Adji Rivaldi": "https://www.instagram.com/rrival_dii/",
+      "Dimas Sadewa": "https://www.instagram.com/d.dewaaaa/",
+      "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
+    },
+    "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
+    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+  },
+  "hero": {
+    "hero_icon": "/assets/heroes/bruno.png",
+    "hero_id": "h015",
+    "hero_name": "Bruno",
+    "release_year": 2016,
+    "laning": [
+      "gold"
+    ],
+    "role": [
+      "Marksman"
+    ],
+    "speciality": [
+      "Burst",
+      "Reap"
+    ],
+    "price": {
+      "battle_point": 0,
+      "diamond": 0
+    },
+    "skills": [
+      {
+        "skill_name": "Mecha Legs",
+        "skill_icon": "/assets/skills/Bruno_Mecha_Legs.png",
+        "type": "passive",
+        "cooldown": null,
+        "manacost": null,
+        "skill_unique": [
+          "Crit Increase",
+          "Stacking"
+        ],
+        "description": "Setiap kali skill Bruno mengenai musuh, ia mendapatkan peningkatan critical chance yang dapat menumpuk hingga batas tertentu."
+      },
+      {
+        "skill_name": "Volley Shot",
+        "skill_icon": "/assets/skills/Bruno_Volley_Shot.png",
+        "type": "active",
+        "cooldown": [
+          7
+        ],
+        "manacost": [
+          70
+        ],
+        "skill_unique": [
+          "Defense Reduction",
+          "Bounce"
+        ],
+        "description": "Bruno menendang bola energi yang memberikan damage dan mengurangi physical defense target. Bola akan memantul kembali ke Bruno."
+      },
+      {
+        "skill_name": "Flying Tackle",
+        "skill_icon": "/assets/skills/Bruno_Flying_Tackle.png",
+        "type": "active",
+        "cooldown": [
+          11
+        ],
+        "manacost": [
+          55
+        ],
+        "skill_unique": [
+          "Dash",
+          "Stun"
+        ],
+        "description": "Bruno melakukan sliding tackle ke depan, memberikan damage dan stun singkat pada musuh yang terkena."
+      },
+      {
+        "skill_name": "Wave of the World",
+        "skill_icon": "/assets/skills/Bruno_Wave_of_the_World.png",
+        "type": "ultimate",
+        "cooldown": [
+          40,
+          36,
+          32
+        ],
+        "manacost": [
+          140
+        ],
+        "skill_unique": [
+          "Multi Hit",
+          "Bounce"
+        ],
+        "description": "Bruno menendang bola super yang memantul di antara beberapa musuh, memberikan burst damage tinggi setiap pantulan."
+      }
+    ],
+    "base_attributes": {
+      "movement_speed": 240,
+      "physical_attack": 125,
+      "physical_defense": 17,
+      "physical_lifesteal": 0,
+      "physical_penetration": 0,
+      "magic_attack": 0,
+      "magic_power": 0,
+      "magic_penetration": 0,
+      "magic_lifesteal": 0,
+      "spell_vamp": 0,
+      "magic_resistance": 10,
+      "hp": 2522,
+      "mana": 450,
+      "attack_speed": 0.86,
+      "hp_regen_rate": 7.0,
+      "mana_regen_rate": 3.2,
+      "critical_strike_chance": 0,
+      "critical_damage": 200,
+      "cd_reduction": 0,
+      "bs_cd_reduction": 0,
+      "healing_effect": 0,
+      "monster_damage_reduction": 0,
+      "monster_damage": 0
+    }
+  }
+}

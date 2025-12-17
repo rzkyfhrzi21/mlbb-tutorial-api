@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "title": "heroes_api",
+    "patch_notes": "29-11-2025",
+    "author": {
+      "Adji Rivaldi": "https://www.instagram.com/rrival_dii/",
+      "Dimas Sadewa": "https://www.instagram.com/d.dewaaaa/",
+      "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
+    },
+    "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
+    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+  },
+  "hero": {
+    "hero_icon": "/assets/heroes/aamon.png",
+    "hero_id": "h021",
+    "hero_name": "Aamon",
+    "release_year": 2021,
+    "laning": [
+      "jungle"
+    ],
+    "role": [
+      "Assassin"
+    ],
+    "speciality": [
+      "Chase",
+      "Magic Damage"
+    ],
+    "price": {
+      "battle_point": 32000,
+      "diamond": 599
+    },
+    "skills": [
+      {
+        "skill_name": "Invisible Armor",
+        "skill_icon": "/assets/skills/Invisible_Armor.png",
+        "type": "passive",
+        "cooldown": null,
+        "manacost": null,
+        "skill_unique": [
+          "Conceal",
+          "Buff"
+        ],
+        "description": "Aamon memasuki state Camouflage setiap kali ia mengenai musuh dengan skill. Dalam mode ini Aamon tidak dapat ditarget, memulihkan HP secara berkala, dan mendapatkan Movement Speed yang meningkat lalu perlahan berkurang. Ketika keluar dari Camouflage, Basic Attack berikutnya di-reset dan menjadi Enhanced Basic Attack yang memberikan Magic Damage tambahan dan mengurangi cooldown skill. Basic Attack pertama setelah keluar dari Camouflage memberikan damage lebih besar."
+      },
+      {
+        "skill_name": "Soul Shards",
+        "skill_icon": "/assets/skills/Soul_Shards.png",
+        "type": "active",
+        "cooldown": [
+          9.0,
+          8.5,
+          8.0,
+          7.5,
+          7.0,
+          6.5
+        ],
+        "manacost": [
+          60,
+          66,
+          72,
+          78,
+          84,
+          90
+        ],
+        "skill_unique": [
+          "Burst"
+        ],
+        "description": "Passive: Setiap kali Aamon menggunakan skill atau Enhanced Basic Attack, ia mengisi armor-nya. Saat mencapai 5 charge, Basic Attack berikutnya akan melempar beberapa shard ke target, masing-masing memberikan Magic Damage dan kemudian menyebar di sekitar target. Active: Aamon melempar shard ke musuh terdekat, memberikan Magic Damage dan mengaktifkan efek pasif pengisian shard."
+      },
+      {
+        "skill_name": "Slayer Shards",
+        "skill_icon": "/assets/skills/Slayer_Shards.png",
+        "type": "active",
+        "cooldown": [
+          15.0,
+          14.5,
+          14.0,
+          13.5,
+          13.0,
+          12.5
+        ],
+        "manacost": [
+          110,
+          104,
+          98,
+          92,
+          86,
+          80
+        ],
+        "skill_unique": [
+          "Conceal",
+          "Damage"
+        ],
+        "description": "Aamon melempar shard ke depan, memberikan Magic Damage ke musuh non-minion pertama yang terkena dan memberikan efek slow. Shard kemudian kembali ke Aamon. Jika shard tidak mengenai musuh, shard akan kembali setelah jeda singkat dan membuat Aamon memasuki state Camouflage."
+      },
+      {
+        "skill_name": "Endless Shards",
+        "skill_icon": "/assets/skills/Endless_Shards.png",
+        "type": "ultimate",
+        "cooldown": [
+          46.0,
+          42.0,
+          38.0
+        ],
+        "manacost": [
+          150,
+          170,
+          190
+        ],
+        "skill_unique": [
+          "Burst"
+        ],
+        "description": "Aamon melempar semua shard ke satu target, memberikan slow dan setelah jeda singkat shard kembali ke lokasi target, masing-masing memberikan Magic Damage. Jumlah shard meningkat berdasarkan charge armor dan shard yang tersebar di tanah. Damage meningkat seiring HP target yang hilang dan mencapai maksimum ketika HP target berada di bawah 30%. Target yang sama menerima damage berkurang dari shard berikutnya."
+      }
+    ],
+    "base_attributes": {
+      "movement_speed": 250,
+      "physical_attack": 115,
+      "physical_defense": 19,
+      "physical_lifesteal": 0,
+      "physical_penetration": 0,
+      "magic_attack": 0,
+      "magic_power": 0,
+      "magic_penetration": 0,
+      "magic_lifesteal": 0,
+      "spell_vamp": 0,
+      "magic_resistance": 15,
+      "hp": 2614,
+      "mana": 500,
+      "attack_speed": 1.1,
+      "hp_regen_rate": 8.0,
+      "mana_regen_rate": 4.0,
+      "critical_strike_chance": 0,
+      "critical_damage": 200,
+      "cd_reduction": 0,
+      "bs_cd_reduction": 0,
+      "healing_effect": 0,
+      "monster_damage_reduction": 0,
+      "monster_damage": 0
+    }
+  }
+}

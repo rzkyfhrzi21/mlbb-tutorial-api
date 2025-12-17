@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "title": "heroes_api",
+    "patch_notes": "29-11-2025",
+    "author": {
+      "Adji Rivaldi": "https://www.instagram.com/rrival_dii/",
+      "Dimas Sadewa": "https://www.instagram.com/d.dewaaaa/",
+      "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
+    },
+    "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
+    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+  },
+  "hero": {
+    "hero_icon": "/assets/heroes/eudora.png",
+    "hero_id": "h008",
+    "hero_name": "Eudora",
+    "release_year": 2016,
+    "laning": [
+      "mid"
+    ],
+    "role": [
+      "Mage"
+    ],
+    "speciality": [
+      "Burst",
+      "Control"
+    ],
+    "price": {
+      "battle_point": 0,
+      "diamond": 0
+    },
+    "skills": [
+      {
+        "skill_name": "Superconductor",
+        "skill_icon": "/assets/skills/Eudora_Superconductor.png",
+        "type": "passive",
+        "cooldown": null,
+        "manacost": null,
+        "skill_unique": [
+          "Debuff",
+          "Amplify"
+        ],
+        "description": "Skill Eudora memberikan efek Superconductor pada musuh. Skill berikutnya terhadap target tersebut akan mendapatkan efek tambahan dan damage yang lebih besar."
+      },
+      {
+        "skill_name": "Forked Lightning",
+        "skill_icon": "/assets/skills/Eudora_Forked_Lightning.png",
+        "type": "active",
+        "cooldown": [
+          7
+        ],
+        "manacost": [
+          90,
+          100,
+          110,
+          120,
+          130,
+          140
+        ],
+        "skill_unique": [
+          "AoE",
+          "Line Skill"
+        ],
+        "description": "Eudora menembakkan petir bercabang ke arah depan dalam bentuk kipas, memberikan magic damage pada semua musuh yang terkena."
+      },
+      {
+        "skill_name": "Electric Arrow",
+        "skill_icon": "/assets/skills/Eudora_Electric_Arrow.png",
+        "type": "active",
+        "cooldown": [
+          12,
+          11.5,
+          11,
+          10.5,
+          10,
+          9.5
+        ],
+        "manacost": [
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ],
+        "skill_unique": [
+          "Single Target",
+          "Stun"
+        ],
+        "description": "Eudora menembakkan bola petir yang memberikan damage dan stun kepada satu target. Target dengan Superconductor akan terkena efek yang lebih kuat."
+      },
+      {
+        "skill_name": "Thunderstruck",
+        "skill_icon": "/assets/skills/Eudora_Thunderstruck.png",
+        "type": "ultimate",
+        "cooldown": [
+          34,
+          30,
+          26
+        ],
+        "manacost": [
+          130,
+          150,
+          170
+        ],
+        "skill_unique": [
+          "Burst",
+          "AoE",
+          "Execute"
+        ],
+        "description": "Eudora memanggil petir besar yang menyerang target utama dan musuh di sekitarnya, memberikan burst damage yang sangat besar."
+      }
+    ],
+    "base_attributes": {
+      "movement_speed": 250,
+      "physical_attack": 112,
+      "physical_defense": 19,
+      "physical_lifesteal": 0,
+      "physical_penetration": 0,
+      "magic_attack": 0,
+      "magic_power": 0,
+      "magic_penetration": 0,
+      "magic_lifesteal": 0,
+      "spell_vamp": 0,
+      "magic_resistance": 15,
+      "hp": 2403,
+      "mana": 500,
+      "attack_speed": 1.0,
+      "hp_regen_rate": 7.6,
+      "mana_regen_rate": 4.0,
+      "critical_strike_chance": 0,
+      "critical_damage": 200,
+      "cd_reduction": 0,
+      "bs_cd_reduction": 0,
+      "healing_effect": 0,
+      "monster_damage_reduction": 0,
+      "monster_damage": 0
+    }
+  }
+}

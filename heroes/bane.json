@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "title": "heroes_api",
+    "patch_notes": "29-11-2025",
+    "author": {
+      "Adji Rivaldi": "https://www.instagram.com/rrival_dii/",
+      "Dimas Sadewa": "https://www.instagram.com/d.dewaaaa/",
+      "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
+    },
+    "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
+    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+  },
+  "hero": {
+    "hero_icon": "/assets/heroes/bane.png",
+    "hero_id": "h014",
+    "hero_name": "Bane",
+    "release_year": 2016,
+    "laning": [
+      "exp",
+      "jungle"
+    ],
+    "role": [
+      "Fighter",
+      "Mage"
+    ],
+    "speciality": [
+      "Push",
+      "Burst"
+    ],
+    "price": {
+      "battle_point": 0,
+      "diamond": 0
+    },
+    "skills": [
+      {
+        "skill_name": "Shark Bite",
+        "skill_icon": "/assets/skills/Bane_Shark_Bite.png",
+        "type": "passive",
+        "cooldown": null,
+        "manacost": null,
+        "skill_unique": [
+          "AoE",
+          "On-Hit"
+        ],
+        "description": "Setiap beberapa detik, basic attack Bane berikutnya akan diperkuat dan meledak, memberikan damage area di sekitar target."
+      },
+      {
+        "skill_name": "Crab Claw Cannon",
+        "skill_icon": "/assets/skills/Bane_Crab_Claw_Cannon.png",
+        "type": "active",
+        "cooldown": [
+          6
+        ],
+        "manacost": [
+          60
+        ],
+        "skill_unique": [
+          "Bounce",
+          "Hybrid Damage"
+        ],
+        "description": "Bane menembakkan meriam cakar kepiting ke musuh, yang dapat memantul dan memberikan damage ke musuh lain di belakang target utama."
+      },
+      {
+        "skill_name": "Ale",
+        "skill_icon": "/assets/skills/Bane_Ale.png",
+        "type": "active",
+        "cooldown": [
+          10
+        ],
+        "manacost": [
+          70
+        ],
+        "skill_unique": [
+          "Regen",
+          "Buff"
+        ],
+        "description": "Bane meminum ale untuk memulihkan HP dan meningkatkan movement speed, lalu dapat menyemburkan ale sebagai serangan cone yang memberikan damage."
+      },
+      {
+        "skill_name": "Deadly Catch",
+        "skill_icon": "/assets/skills/Bane_Deadly_Catch.png",
+        "type": "ultimate",
+        "cooldown": [
+          40,
+          35,
+          30
+        ],
+        "manacost": [
+          120
+        ],
+        "skill_unique": [
+          "AoE",
+          "Slow",
+          "Siege"
+        ],
+        "description": "Bane memanggil sekelompok hiu ke area tertentu yang memberikan damage berulang dan slow pada musuh serta sangat kuat untuk menghancurkan turret."
+      }
+    ],
+    "base_attributes": {
+      "movement_speed": 250,
+      "physical_attack": 120,
+      "physical_defense": 20,
+      "physical_lifesteal": 0,
+      "physical_penetration": 0,
+      "magic_attack": 0,
+      "magic_power": 0,
+      "magic_penetration": 0,
+      "magic_lifesteal": 0,
+      "spell_vamp": 0,
+      "magic_resistance": 15,
+      "hp": 2620,
+      "mana": 490,
+      "attack_speed": 0.88,
+      "hp_regen_rate": 7.4,
+      "mana_regen_rate": 4.0,
+      "critical_strike_chance": 0,
+      "critical_damage": 200,
+      "cd_reduction": 0,
+      "bs_cd_reduction": 0,
+      "healing_effect": 0,
+      "monster_damage_reduction": 0,
+      "monster_damage": 0
+    }
+  }
+}

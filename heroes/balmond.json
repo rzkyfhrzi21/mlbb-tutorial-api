@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "title": "heroes_api",
+    "patch_notes": "29-11-2025",
+    "author": {
+      "Adji Rivaldi": "https://www.instagram.com/rrival_dii/",
+      "Dimas Sadewa": "https://www.instagram.com/d.dewaaaa/",
+      "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
+    },
+    "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
+    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+  },
+  "hero": {
+    "hero_icon": "/assets/heroes/balmond.png",
+    "hero_id": "h002",
+    "hero_name": "Balmond",
+    "release_year": 2016,
+    "laning": [
+      "exp",
+      "jungle"
+    ],
+    "role": [
+      "Fighter",
+      "Tank"
+    ],
+    "speciality": [
+      "Regen",
+      "Damage"
+    ],
+    "price": {
+      "battle_point": 0,
+      "diamond": 0
+    },
+    "skills": [
+      {
+        "skill_name": "Bloodthirst",
+        "skill_icon": "/assets/skills/Balmond_Bloodthirst.png",
+        "type": "passive",
+        "cooldown": null,
+        "manacost": null,
+        "skill_unique": [
+          "Regen",
+          "Sustain"
+        ],
+        "description": "Balmond memulihkan HP setiap kali membunuh minion dan mendapatkan pemulihan HP lebih besar saat mengeliminasi hero atau monster jungle."
+      },
+      {
+        "skill_name": "Soul Lock",
+        "skill_icon": "/assets/skills/Balmond_Soul_Lock.png",
+        "type": "active",
+        "cooldown": [
+          11,
+          10.5,
+          10,
+          9.5,
+          9,
+          8.5
+        ],
+        "manacost": [
+          0
+        ],
+        "skill_unique": [
+          "Dash",
+          "Knockback"
+        ],
+        "description": "Balmond menerjang ke arah yang ditentukan, memberikan damage dan mendorong musuh yang terkena ke arah belakang."
+      },
+      {
+        "skill_name": "Cyclone Sweep",
+        "skill_icon": "/assets/skills/Balmond_Cyclone_Sweep.png",
+        "type": "active",
+        "cooldown": [
+          7,
+          6.6,
+          6.2,
+          5.8,
+          5.4,
+          5
+        ],
+        "manacost": [
+          0
+        ],
+        "skill_unique": [
+          "AoE",
+          "Multi Hit",
+          "Wave Clear"
+        ],
+        "description": "Balmond memutar kapaknya dan memberikan damage berkali-kali ke musuh di sekitarnya, sangat efektif untuk membersihkan minion dan jungle."
+      },
+      {
+        "skill_name": "Lethal Counter",
+        "skill_icon": "/assets/skills/Balmond_Lethal_Counter.png",
+        "type": "ultimate",
+        "cooldown": [
+          40,
+          36,
+          32
+        ],
+        "manacost": [
+          0
+        ],
+        "skill_unique": [
+          "Execute",
+          "AoE",
+          "Slow"
+        ],
+        "description": "Balmond mengayunkan kapak raksasa ke arah kipas di depannya, memberikan damage berdasarkan HP yang hilang dan meninggalkan area yang memberikan efek slow."
+      }
+    ],
+    "base_attributes": {
+      "movement_speed": 260,
+      "physical_attack": 119,
+      "physical_defense": 25,
+      "physical_lifesteal": 0,
+      "physical_penetration": 0,
+      "magic_attack": 0,
+      "magic_power": 0,
+      "magic_penetration": 0,
+      "magic_lifesteal": 0,
+      "spell_vamp": 0,
+      "magic_resistance": 15,
+      "hp": 2736,
+      "mana": 0,
+      "attack_speed": 1.06,
+      "hp_regen_rate": 9.4,
+      "mana_regen_rate": 0.0,
+      "critical_strike_chance": 0,
+      "critical_damage": 200,
+      "cd_reduction": 0,
+      "bs_cd_reduction": 0,
+      "healing_effect": 0,
+      "monster_damage_reduction": 0,
+      "monster_damage": 0
+    }
+  }
+}
