@@ -12,7 +12,102 @@
   },
   "hero": [
     {
-      "hero_icon": "../assets/heroes/saber.png",
+      "hero_icon": "aamon.png",
+      "hero_id": "h021",
+      "hero_name": "Aamon"
+    },
+    {
+      "hero_icon": "akai.png",
+      "hero_id": "h012",
+      "hero_name": "Akai"
+    },
+    {
+      "hero_icon": "alice.png",
+      "hero_id": "h004",
+      "hero_name": "Alice"
+    },
+    {
+      "hero_icon": "alucard.png",
+      "hero_id": "h007",
+      "hero_name": "Alucard"
+    },
+    {
+      "hero_icon": "balmond.png",
+      "hero_id": "h002",
+      "hero_name": "Balmond"
+    },
+    {
+      "hero_icon": "bane.png",
+      "hero_id": "h014",
+      "hero_name": "Bane"
+    },
+    {
+      "hero_icon": "bruno.png",
+      "hero_id": "h015",
+      "hero_name": "Bruno"
+    },
+    {
+      "hero_icon": "clint.png",
+      "hero_id": "h016",
+      "hero_name": "Clint"
+    },
+    {
+      "hero_icon": "eudora.png",
+      "hero_id": "h008",
+      "hero_name": "Eudora"
+    },
+    {
+      "hero_icon": "fanny.png",
+      "hero_id": "h018",
+      "hero_name": "Fanny"
+    },
+    {
+      "hero_icon": "franco.png",
+      "hero_id": "h013",
+      "hero_name": "Franco"
+    },
+    {
+      "hero_icon": "karina.png",
+      "hero_id": "h011",
+      "hero_name": "Karina"
+    },
+    {
+      "hero_icon": "layla.png",
+      "hero_id": "h010",
+      "hero_name": "Layla"
+    },
+    {
+      "hero_icon": "leomord.png",
+      "hero_id": "h022",
+      "hero_name": "Leomord"
+    },
+    {
+      "hero_icon": "lolita.png",
+      "hero_id": "h020",
+      "hero_name": "Lolita"
+    },
+    {
+      "hero_icon": "minotaur.png",
+      "hero_id": "h019",
+      "hero_name": "Minotaur"
+    },
+    {
+      "hero_icon": "miya.png",
+      "hero_id": "h001",
+      "hero_name": "Miya"
+    },
+    {
+      "hero_icon": "nana.png",
+      "hero_id": "h005",
+      "hero_name": "Nana"
+    },
+    {
+      "hero_icon": "rafaela.png",
+      "hero_id": "h017",
+      "hero_name": "Rafaela"
+    },
+    {
+      "hero_icon": "saber.png",
       "hero_id": "h003",
       "hero_name": "Saber"
     }
