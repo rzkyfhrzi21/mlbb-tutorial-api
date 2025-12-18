@@ -8,25 +8,16 @@
       "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
     },
     "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
-    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+    "description": "Data hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
   },
   "hero": {
     "hero_icon": "/assets/heroes/zilong.png",
     "hero_id": "h009",
     "hero_name": "Zilong",
     "release_year": 2016,
-    "laning": [
-      "exp",
-      "jungle"
-    ],
-    "role": [
-      "Fighter",
-      "Assassin"
-    ],
-    "speciality": [
-      "Charge",
-      "Finisher"
-    ],
+    "laning": ["exp", "jungle"],
+    "role": ["Fighter", "Assassin"],
+    "speciality": ["Charge", "Finisher"],
     "price": {
       "battle_point": 0,
       "diamond": 0
@@ -38,71 +29,34 @@
         "type": "passive",
         "cooldown": null,
         "manacost": null,
-        "skill_unique": [
-          "Multi Hit",
-          "Regen"
-        ],
+        "skill_unique": ["Multi Hit", "Regen"],
         "description": "Setelah beberapa basic attack, Zilong akan melakukan serangan tambahan beberapa kali yang memberikan damage ekstra dan memulihkan sedikit HP."
       },
       {
         "skill_name": "Spear Flip",
         "skill_icon": "/assets/skills/Zilong_Spear_Flip.png",
         "type": "active",
-        "cooldown": [
-          10,
-          9.5,
-          9,
-          8.5,
-          8,
-          7.5
-        ],
-        "manacost": [
-          80
-        ],
-        "skill_unique": [
-          "Single Target",
-          "Displacement"
-        ],
+        "cooldown": [10, 9.5, 9, 8.5, 8, 7.5],
+        "manacost": [80],
+        "skill_unique": ["Single Target", "Displacement"],
         "description": "Zilong menusuk target dan melemparkannya ke belakang, mengubah posisi musuh dan memberikan damage."
       },
       {
         "skill_name": "Spear Strike",
         "skill_icon": "/assets/skills/Zilong_Spear_Strike.png",
         "type": "active",
-        "cooldown": [
-          10,
-          9.4,
-          8.8,
-          8.2,
-          7.6,
-          7
-        ],
-        "manacost": [
-          80
-        ],
-        "skill_unique": [
-          "Dash",
-          "Defense Reduction"
-        ],
+        "cooldown": [10, 9.4, 8.8, 8.2, 7.6, 7],
+        "manacost": [80],
+        "skill_unique": ["Dash", "Defense Reduction"],
         "description": "Zilong menerjang ke arah target, memberikan damage dan mengurangi physical defense target untuk beberapa detik."
       },
       {
         "skill_name": "Supreme Warrior",
         "skill_icon": "/assets/skills/Zilong_Supreme_Warrior.png",
         "type": "ultimate",
-        "cooldown": [
-          40,
-          35,
-          30
-        ],
-        "manacost": [
-          0
-        ],
-        "skill_unique": [
-          "Buff",
-          "Move Speed",
-          "Attack Speed"
-        ],
+        "cooldown": [40, 35, 30],
+        "manacost": [0],
+        "skill_unique": ["Buff", "Move Speed", "Attack Speed"],
         "description": "Zilong memasuki mode Supreme Warrior, meningkatkan movement speed dan attack speed serta menghapus efek slow."
       }
     ],

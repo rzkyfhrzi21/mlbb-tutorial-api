@@ -8,7 +8,7 @@
       "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
     },
     "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
-    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+    "description": "Data hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
   },
   "hero": {
     "hero_icon": "/assets/heroes/tigreal.png",
