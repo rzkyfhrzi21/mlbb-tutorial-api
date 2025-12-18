@@ -11,21 +11,13 @@
     "description": "Data hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
   },
   "hero": {
-    "hero_icon": "/assets/heroes/saber.png",
+    "hero_icon": "../assets/heroes/saber.png",
     "hero_id": "h003",
     "hero_name": "Saber",
     "release_year": 2016,
-    "laning": [
-      "jungle",
-      "roam"
-    ],
-    "role": [
-      "Assassin"
-    ],
-    "speciality": [
-      "Charge",
-      "Finisher"
-    ],
+    "laning": ["jungle", "roam"],
+    "role": ["Assassin"],
+    "speciality": ["Charge", "Finisher"],
     "price": {
       "battle_point": 0,
       "diamond": 0
@@ -33,77 +25,38 @@
     "skills": [
       {
         "skill_name": "Enemy's Bane",
-        "skill_icon": "/assets/skills/Saber_Enemys_Bane.png",
+        "skill_icon": "../assets/skills/Saber_Enemys_Bane.png",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
-        "skill_unique": [
-          "Defense Reduction",
-          "Debuff"
-        ],
+        "skill_unique": ["Defense Reduction", "Debuff"],
         "description": "Serangan Saber akan mengurangi Physical Defense target beberapa stack, membuat lawan semakin mudah dibunuh."
       },
       {
         "skill_name": "Flying Sword",
-        "skill_icon": "/assets/skills/Saber_Flying_Sword.png",
+        "skill_icon": "../assets/skills/Saber_Flying_Sword.png",
         "type": "active",
-        "cooldown": [
-          7
-        ],
-        "manacost": [
-          60,
-          65,
-          70,
-          75,
-          80,
-          85
-        ],
-        "skill_unique": [
-          "Orbiting Weapon",
-          "Burst"
-        ],
+        "cooldown": [7],
+        "manacost": [60, 65, 70, 75, 80, 85],
+        "skill_unique": ["Orbiting Weapon", "Burst"],
         "description": "Saber mengeluarkan beberapa pedang yang berputar mengelilinginya dan menyerang musuh secara otomatis, memberikan damage berkali-kali."
       },
       {
         "skill_name": "Charge",
-        "skill_icon": "/assets/skills/Saber_Charge.png",
+        "skill_icon": "../assets/skills/Saber_Charge.png",
         "type": "active",
-        "cooldown": [
-          12,
-          11,
-          10,
-          9,
-          8,
-          7
-        ],
-        "manacost": [
-          70
-        ],
-        "skill_unique": [
-          "Dash",
-          "Gap Close"
-        ],
+        "cooldown": [12, 11, 10, 9, 8, 7],
+        "manacost": [70],
+        "skill_unique": ["Dash", "Gap Close"],
         "description": "Saber melakukan dash ke arah yang ditentukan dan menebas musuh di jalurnya."
       },
       {
         "skill_name": "Triple Sweep",
-        "skill_icon": "/assets/skills/Saber_Triple_Sweep.png",
+        "skill_icon": "../assets/skills/Saber_Triple_Sweep.png",
         "type": "ultimate",
-        "cooldown": [
-          34,
-          30,
-          26
-        ],
-        "manacost": [
-          80,
-          90,
-          100
-        ],
-        "skill_unique": [
-          "Single Target",
-          "Knock Up",
-          "Burst"
-        ],
+        "cooldown": [34, 30, 26],
+        "manacost": [80, 90, 100],
+        "skill_unique": ["Single Target", "Knock Up", "Burst"],
         "description": "Saber mengunci satu hero musuh, melemparkannya ke udara dan menebasnya tiga kali, memberikan burst damage yang sangat tinggi."
       }
     ],

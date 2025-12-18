@@ -11,7 +11,7 @@
     "description": "Data hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
   },
   "hero": {
-    "hero_icon": "/assets/heroes/akai.png",
+    "hero_icon": "../assets/heroes/akai.png",
     "hero_id": "h012",
     "hero_name": "Akai",
     "release_year": 2016,
@@ -33,7 +33,7 @@
     "skills": [
       {
         "skill_name": "Tai Chi",
-        "skill_icon": "/assets/skills/Akai_Tai_Chi.png",
+        "skill_icon": "../assets/skills/Akai_Tai_Chi.png",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
@@ -45,7 +45,7 @@
       },
       {
         "skill_name": "Headbutt",
-        "skill_icon": "/assets/skills/Akai_Headbutt.png",
+        "skill_icon": "../assets/skills/Akai_Headbutt.png",
         "type": "active",
         "cooldown": [
           12,
@@ -66,7 +66,7 @@
       },
       {
         "skill_name": "Body Slam",
-        "skill_icon": "/assets/skills/Akai_Body_Slam.png",
+        "skill_icon": "../assets/skills/Akai_Body_Slam.png",
         "type": "active",
         "cooldown": [
           9
@@ -82,7 +82,7 @@
       },
       {
         "skill_name": "Heavy Spin",
-        "skill_icon": "/assets/skills/Akai_Heavy_Spin.png",
+        "skill_icon": "../assets/skills/Akai_Heavy_Spin.png",
         "type": "ultimate",
         "cooldown": [
           40,

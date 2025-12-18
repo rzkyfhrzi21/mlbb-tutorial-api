@@ -11,7 +11,7 @@
     "description": "Data hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
   },
   "hero": {
-    "hero_icon": "/assets/heroes/aamon.png",
+    "hero_icon": "../assets/heroes/aamon.png",
     "hero_id": "h021",
     "hero_name": "Aamon",
     "release_year": 2021,
@@ -32,7 +32,7 @@
     "skills": [
       {
         "skill_name": "Invisible Armor",
-        "skill_icon": "/assets/skills/Invisible_Armor.png",
+        "skill_icon": "../assets/skills/Invisible_Armor.png",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
@@ -44,7 +44,7 @@
       },
       {
         "skill_name": "Soul Shards",
-        "skill_icon": "/assets/skills/Soul_Shards.png",
+        "skill_icon": "../assets/skills/Soul_Shards.png",
         "type": "active",
         "cooldown": [
           9.0,
@@ -69,7 +69,7 @@
       },
       {
         "skill_name": "Slayer Shards",
-        "skill_icon": "/assets/skills/Slayer_Shards.png",
+        "skill_icon": "../assets/skills/Slayer_Shards.png",
         "type": "active",
         "cooldown": [
           15.0,
@@ -95,7 +95,7 @@
       },
       {
         "skill_name": "Endless Shards",
-        "skill_icon": "/assets/skills/Endless_Shards.png",
+        "skill_icon": "../assets/skills/Endless_Shards.png",
         "type": "ultimate",
         "cooldown": [
           46.0,
