@@ -98,8 +98,8 @@
     {
       "hero_name": "Leomord",
       "hero_id": "h022",
-      "hero_icon": "/assets/heroes/layla.png",
-      "hero_url": null
+      "hero_icon": "leomord.webp",
+      "hero_url": "leomord.json"
     },
     {
       "hero_name": "Lolita",
