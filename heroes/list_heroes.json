@@ -12,102 +12,102 @@
   },
   "hero": [
     {
-      "hero_icon": "aamon.png",
+      "hero_icon": "aamon.webp",
       "hero_id": "h021",
       "hero_name": "Aamon"
     },
     {
-      "hero_icon": "akai.png",
+      "hero_icon": "akai.webp",
       "hero_id": "h012",
       "hero_name": "Akai"
     },
     {
-      "hero_icon": "alice.png",
+      "hero_icon": "alice.webp",
       "hero_id": "h004",
       "hero_name": "Alice"
     },
     {
-      "hero_icon": "alucard.png",
+      "hero_icon": "alucard.webp",
       "hero_id": "h007",
       "hero_name": "Alucard"
     },
     {
-      "hero_icon": "balmond.png",
+      "hero_icon": "balmond.webp",
       "hero_id": "h002",
       "hero_name": "Balmond"
     },
     {
-      "hero_icon": "bane.png",
+      "hero_icon": "bane.webp",
       "hero_id": "h014",
       "hero_name": "Bane"
     },
     {
-      "hero_icon": "bruno.png",
+      "hero_icon": "bruno.webp",
       "hero_id": "h015",
       "hero_name": "Bruno"
     },
     {
-      "hero_icon": "clint.png",
+      "hero_icon": "clint.webp",
       "hero_id": "h016",
       "hero_name": "Clint"
     },
     {
-      "hero_icon": "eudora.png",
+      "hero_icon": "eudora.webp",
       "hero_id": "h008",
       "hero_name": "Eudora"
     },
     {
-      "hero_icon": "fanny.png",
+      "hero_icon": "fanny.webp",
       "hero_id": "h018",
       "hero_name": "Fanny"
     },
     {
-      "hero_icon": "franco.png",
+      "hero_icon": "franco.webp",
       "hero_id": "h013",
       "hero_name": "Franco"
     },
     {
-      "hero_icon": "karina.png",
+      "hero_icon": "karina.webp",
       "hero_id": "h011",
       "hero_name": "Karina"
     },
     {
-      "hero_icon": "layla.png",
+      "hero_icon": "layla.webp",
       "hero_id": "h010",
       "hero_name": "Layla"
     },
     {
-      "hero_icon": "leomord.png",
+      "hero_icon": "leomord.webp",
       "hero_id": "h022",
       "hero_name": "Leomord"
     },
     {
-      "hero_icon": "lolita.png",
+      "hero_icon": "lolita.webp",
       "hero_id": "h020",
       "hero_name": "Lolita"
     },
     {
-      "hero_icon": "minotaur.png",
+      "hero_icon": "minotaur.webp",
       "hero_id": "h019",
       "hero_name": "Minotaur"
     },
     {
-      "hero_icon": "miya.png",
+      "hero_icon": "miya.webp",
       "hero_id": "h001",
       "hero_name": "Miya"
     },
     {
-      "hero_icon": "nana.png",
+      "hero_icon": "nana.webp",
       "hero_id": "h005",
       "hero_name": "Nana"
     },
     {
-      "hero_icon": "rafaela.png",
+      "hero_icon": "rafaela.webp",
       "hero_id": "h017",
       "hero_name": "Rafaela"
     },
     {
-      "hero_icon": "saber.png",
+      "hero_icon": "saber.webp",
       "hero_id": "h003",
       "hero_name": "Saber"
     }
