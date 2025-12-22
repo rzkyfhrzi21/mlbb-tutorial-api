@@ -8,10 +8,11 @@
       "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
     },
     "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
-    "description": "Data hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
   },
   "hero": {
-    "hero_icon": "/assets/heroes/lolita.png",
+    "hero_url": "lolita.json",
+    "hero_icon": "lolita.webp",
     "hero_id": "h020",
     "hero_name": "Lolita",
     "release_year": 2016,
@@ -33,7 +34,7 @@
     "skills": [
       {
         "skill_name": "Noumenon Energy Core",
-        "skill_icon": "/assets/skills/Lolita_Noumenon_Energy_Core.png",
+        "skill_icon": "Noumenon_Energy_Core.webp",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
@@ -45,7 +46,7 @@
       },
       {
         "skill_name": "Charge",
-        "skill_icon": "/assets/skills/Lolita_Charge.png",
+        "skill_icon": "Charge.webp",
         "type": "active",
         "cooldown": [
           12
@@ -61,7 +62,7 @@
       },
       {
         "skill_name": "Guardian's Bulwark",
-        "skill_icon": "/assets/skills/Lolita_Guardians_Bulwark.png",
+        "skill_icon": "Guardian_s_Bulwark.webp",
         "type": "active",
         "cooldown": [
           14,
@@ -82,7 +83,7 @@
       },
       {
         "skill_name": "Noumenon Blast",
-        "skill_icon": "/assets/skills/Lolita_Noumenon_Blast.png",
+        "skill_icon": "Noumenon_Blast.webp",
         "type": "ultimate",
         "cooldown": [
           48,

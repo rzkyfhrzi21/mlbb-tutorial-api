@@ -8,10 +8,11 @@
       "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
     },
     "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
-    "description": "Data hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
   },
   "hero": {
-    "hero_icon": "/assets/heroes/bruno.png",
+    "hero_url": "bruno.json",
+    "hero_icon": "bruno.webp",
     "hero_id": "h015",
     "hero_name": "Bruno",
     "release_year": 2016,
@@ -32,7 +33,7 @@
     "skills": [
       {
         "skill_name": "Mecha Legs",
-        "skill_icon": "/assets/skills/Bruno_Mecha_Legs.png",
+        "skill_icon": "Mecha_Legs.webp",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
@@ -44,7 +45,7 @@
       },
       {
         "skill_name": "Volley Shot",
-        "skill_icon": "/assets/skills/Bruno_Volley_Shot.png",
+        "skill_icon": "Volley_Shot.webp",
         "type": "active",
         "cooldown": [
           7
@@ -60,7 +61,7 @@
       },
       {
         "skill_name": "Flying Tackle",
-        "skill_icon": "/assets/skills/Bruno_Flying_Tackle.png",
+        "skill_icon": "Flying_Tackle.webp",
         "type": "active",
         "cooldown": [
           11
@@ -76,7 +77,7 @@
       },
       {
         "skill_name": "Wave of the World",
-        "skill_icon": "/assets/skills/Bruno_Wave_of_the_World.png",
+        "skill_icon": "Wave_of_the_World.webp",
         "type": "ultimate",
         "cooldown": [
           40,

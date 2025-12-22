@@ -12,104 +12,142 @@
   },
   "hero": [
     {
-      "hero_icon": "aamon.webp",
+      "hero_name": "Aamon",
       "hero_id": "h021",
-      "hero_name": "Aamon"
+      "hero_icon": "aamon.webp",
+      "hero_url": "aamon.json"
     },
     {
-      "hero_icon": "akai.webp",
+      "hero_name": "Akai",
       "hero_id": "h012",
-      "hero_name": "Akai"
+      "hero_icon": "akai.webp",
+      "hero_url": "akai.json"
     },
     {
-      "hero_icon": "alice.webp",
+      "hero_name": "Alice",
       "hero_id": "h004",
-      "hero_name": "Alice"
+      "hero_icon": "alice.webp",
+      "hero_url": "alice.json"
     },
     {
-      "hero_icon": "alucard.webp",
+      "hero_name": "Alucard",
       "hero_id": "h007",
-      "hero_name": "Alucard"
+      "hero_icon": "alucard.webp",
+      "hero_url": "alucard.json"
     },
     {
-      "hero_icon": "balmond.webp",
+      "hero_name": "Balmond",
       "hero_id": "h002",
-      "hero_name": "Balmond"
+      "hero_icon": "balmond.webp",
+      "hero_url": "balmond.json"
     },
     {
-      "hero_icon": "bane.webp",
+      "hero_name": "Bane",
       "hero_id": "h014",
-      "hero_name": "Bane"
+      "hero_icon": "bane.webp",
+      "hero_url": "bane.json"
     },
     {
-      "hero_icon": "bruno.webp",
+      "hero_name": "Bruno",
       "hero_id": "h015",
-      "hero_name": "Bruno"
+      "hero_icon": "bruno.webp",
+      "hero_url": "bruno.json"
     },
     {
-      "hero_icon": "clint.webp",
+      "hero_name": "Clint",
       "hero_id": "h016",
-      "hero_name": "Clint"
+      "hero_icon": "clint.webp",
+      "hero_url": "clint.json"
     },
     {
-      "hero_icon": "eudora.webp",
+      "hero_name": "Default",
+      "hero_id": "h999",
+      "hero_icon": "default.webp",
+      "hero_url": "franco.json"
+    },
+    {
+      "hero_name": "Eudora",
       "hero_id": "h008",
-      "hero_name": "Eudora"
+      "hero_icon": "eudora.webp",
+      "hero_url": "eudora.json"
     },
     {
-      "hero_icon": "fanny.webp",
+      "hero_name": "Fanny",
       "hero_id": "h018",
-      "hero_name": "Fanny"
+      "hero_icon": "fanny.webp",
+      "hero_url": "fanny.json"
     },
     {
-      "hero_icon": "franco.webp",
+      "hero_name": "Franco",
       "hero_id": "h013",
-      "hero_name": "Franco"
+      "hero_icon": "franco.webp",
+      "hero_url": "franco.json"
     },
     {
-      "hero_icon": "karina.webp",
+      "hero_name": "Karina",
       "hero_id": "h011",
-      "hero_name": "Karina"
+      "hero_icon": "karina.webp",
+      "hero_url": "karina.json"
     },
     {
-      "hero_icon": "layla.webp",
+      "hero_name": "Layla",
       "hero_id": "h010",
-      "hero_name": "Layla"
+      "hero_icon": "layla.webp",
+      "hero_url": "layla.json"
     },
     {
-      "hero_icon": "leomord.webp",
+      "hero_name": "Leomord",
       "hero_id": "h022",
-      "hero_name": "Leomord"
+      "hero_icon": "/assets/heroes/layla.png",
+      "hero_url": null
     },
     {
-      "hero_icon": "lolita.webp",
+      "hero_name": "Lolita",
       "hero_id": "h020",
-      "hero_name": "Lolita"
+      "hero_icon": "lolita.webp",
+      "hero_url": "lolita.json"
     },
     {
-      "hero_icon": "minotaur.webp",
+      "hero_name": "Minotaur",
       "hero_id": "h019",
-      "hero_name": "Minotaur"
+      "hero_icon": "minotaur.webp",
+      "hero_url": "minotaur.json"
     },
     {
-      "hero_icon": "miya.webp",
+      "hero_name": "Miya",
       "hero_id": "h001",
-      "hero_name": "Miya"
+      "hero_icon": "miya.webp",
+      "hero_url": "miya.json"
     },
     {
-      "hero_icon": "nana.webp",
+      "hero_name": "Nana",
       "hero_id": "h005",
-      "hero_name": "Nana"
+      "hero_icon": "nana.webp",
+      "hero_url": "nana.json"
     },
     {
-      "hero_icon": "rafaela.webp",
+      "hero_name": "Rafaela",
       "hero_id": "h017",
-      "hero_name": "Rafaela"
+      "hero_icon": "rafaela.webp",
+      "hero_url": "rafaela.json"
     },
     {
-      "hero_icon": "saber.webp",
+      "hero_name": "Saber",
       "hero_id": "h003",
-      "hero_name": "Saber"
+      "hero_icon": "saber.webp",
+      "hero_url": "saber.json"
+    },
+    {
+      "hero_name": "Tigreal",
+      "hero_id": "h006",
+      "hero_icon": "tigreal.webp",
+      "hero_url": "tigreal.json"
+    },
+    {
+      "hero_name": "Zilong",
+      "hero_id": "h009",
+      "hero_icon": "zilong.webp",
+      "hero_url": "zilong.json"
     }
   ]
 }

@@ -8,10 +8,11 @@
       "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
     },
     "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
-    "description": "Data hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
   },
   "hero": {
-    "hero_icon": "/assets/heroes/balmond.png",
+    "hero_url": "balmond.json",
+    "hero_icon": "balmond.webp",
     "hero_id": "h002",
     "hero_name": "Balmond",
     "release_year": 2016,
@@ -34,7 +35,7 @@
     "skills": [
       {
         "skill_name": "Bloodthirst",
-        "skill_icon": "/assets/skills/Balmond_Bloodthirst.png",
+        "skill_icon": "Bloodthirst.webp",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
@@ -46,7 +47,7 @@
       },
       {
         "skill_name": "Soul Lock",
-        "skill_icon": "/assets/skills/Balmond_Soul_Lock.png",
+        "skill_icon": "Soul_Lock.webp",
         "type": "active",
         "cooldown": [
           11,
@@ -67,7 +68,7 @@
       },
       {
         "skill_name": "Cyclone Sweep",
-        "skill_icon": "/assets/skills/Balmond_Cyclone_Sweep.png",
+        "skill_icon": "Cyclone_Sweep.webp",
         "type": "active",
         "cooldown": [
           7,
@@ -89,7 +90,7 @@
       },
       {
         "skill_name": "Lethal Counter",
-        "skill_icon": "/assets/skills/Balmond_Lethal_Counter.png",
+        "skill_icon": "Lethal_Counter.webp",
         "type": "ultimate",
         "cooldown": [
           40,

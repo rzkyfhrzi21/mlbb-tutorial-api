@@ -12,7 +12,7 @@
   },
   "data": [
     {
-      "hero_icon": "/assets/heroes/miya.png",
+      "hero_icon": "miya.webp",
       "hero_id": "h001",
       "hero_name": "Miya",
       "release_year": 2016,
@@ -26,7 +26,7 @@
       "skills": [
         {
           "skill_name": "Turbo",
-          "skill_icon": "/assets/skills/Turbo.png",
+          "skill_icon": "Turbo.webp",
           "type": "passive",
           "cooldown": null,
           "manacost": null,
@@ -35,7 +35,7 @@
         },
         {
           "skill_name": "Fission Shot",
-          "skill_icon": "/assets/skills/Fission_Shot.png",
+          "skill_icon": "Fission_Shot.webp",
           "type": "active",
           "cooldown": [11],
           "manacost": [80, 90, 100, 110, 120, 130],
@@ -44,7 +44,7 @@
         },
         {
           "skill_name": "Rain of Arrows",
-          "skill_icon": "/assets/skills/Rain_of_Arrows.png",
+          "skill_icon": "Rain_of_Arrows.webp",
           "type": "active",
           "cooldown": [10],
           "manacost": [80, 95, 110, 125, 140, 155],
@@ -53,7 +53,7 @@
         },
         {
           "skill_name": "Turbo Stealth",
-          "skill_icon": "/assets/skills/Turbo_Stealth.png",
+          "skill_icon": "Turbo_Stealth.webp",
           "type": "ultimate",
           "cooldown": [38, 34, 30],
           "manacost": [120, 145, 170],
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "hero_icon": "/assets/heroes/balmond.png",
+      "hero_icon": "balmond.webp",
       "hero_id": "h002",
       "hero_name": "Balmond",
       "release_year": 2016,
@@ -104,7 +104,7 @@
       "skills": [
         {
           "skill_name": "Bloodthirst",
-          "skill_icon": "/assets/skills/Balmond_Bloodthirst.png",
+          "skill_icon": "Balmond_Bloodthirst.webp",
           "type": "passive",
           "cooldown": null,
           "manacost": null,
@@ -113,7 +113,7 @@
         },
         {
           "skill_name": "Soul Lock",
-          "skill_icon": "/assets/skills/Balmond_Soul_Lock.png",
+          "skill_icon": "Balmond_Soul_Lock.webp",
           "type": "active",
           "cooldown": [11, 10.5, 10, 9.5, 9, 8.5],
           "manacost": [0],
@@ -122,7 +122,7 @@
         },
         {
           "skill_name": "Cyclone Sweep",
-          "skill_icon": "/assets/skills/Balmond_Cyclone_Sweep.png",
+          "skill_icon": "Balmond_Cyclone_Sweep.webp",
           "type": "active",
           "cooldown": [7, 6.6, 6.2, 5.8, 5.4, 5],
           "manacost": [0],
@@ -131,7 +131,7 @@
         },
         {
           "skill_name": "Lethal Counter",
-          "skill_icon": "/assets/skills/Balmond_Lethal_Counter.png",
+          "skill_icon": "Balmond_Lethal_Counter.webp",
           "type": "ultimate",
           "cooldown": [40, 36, 32],
           "manacost": [0],
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "hero_icon": "/assets/heroes/saber.png",
+      "hero_icon": "saber.webp",
       "hero_id": "h003",
       "hero_name": "Saber",
       "release_year": 2016,
@@ -182,7 +182,7 @@
       "skills": [
         {
           "skill_name": "Enemy's Bane",
-          "skill_icon": "/assets/skills/Saber_Enemys_Bane.png",
+          "skill_icon": "Saber_Enemys_Bane.webp",
           "type": "passive",
           "cooldown": null,
           "manacost": null,
@@ -191,7 +191,7 @@
         },
         {
           "skill_name": "Flying Sword",
-          "skill_icon": "/assets/skills/Saber_Flying_Sword.png",
+          "skill_icon": "Saber_Flying_Sword.webp",
           "type": "active",
           "cooldown": [7],
           "manacost": [60, 65, 70, 75, 80, 85],
@@ -200,7 +200,7 @@
         },
         {
           "skill_name": "Charge",
-          "skill_icon": "/assets/skills/Saber_Charge.png",
+          "skill_icon": "Saber_Charge.webp",
           "type": "active",
           "cooldown": [12, 11, 10, 9, 8, 7],
           "manacost": [70],
@@ -209,7 +209,7 @@
         },
         {
           "skill_name": "Triple Sweep",
-          "skill_icon": "/assets/skills/Saber_Triple_Sweep.png",
+          "skill_icon": "Saber_Triple_Sweep.webp",
           "type": "ultimate",
           "cooldown": [34, 30, 26],
           "manacost": [80, 90, 100],
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "hero_icon": "/assets/heroes/alice.png",
+      "hero_icon": "alice.webp",
       "hero_id": "h004",
       "hero_name": "Alice",
       "release_year": 2016,
@@ -260,7 +260,7 @@
       "skills": [
         {
           "skill_name": "Blood Ancestry",
-          "skill_icon": "/assets/skills/Alice_Blood_Ancestry.png",
+          "skill_icon": "Alice_Blood_Ancestry.webp",
           "type": "passive",
           "cooldown": null,
           "manacost": null,
@@ -269,7 +269,7 @@
         },
         {
           "skill_name": "Flowing Blood",
-          "skill_icon": "/assets/skills/Alice_Flowing_Blood.png",
+          "skill_icon": "Alice_Flowing_Blood.webp",
           "type": "active",
           "cooldown": [8],
           "manacost": [50, 55, 60, 65, 70, 75],
@@ -278,7 +278,7 @@
         },
         {
           "skill_name": "Blood Awe",
-          "skill_icon": "/assets/skills/Alice_Blood_Awe.png",
+          "skill_icon": "Alice_Blood_Awe.webp",
           "type": "active",
           "cooldown": [7],
           "manacost": [90],
@@ -287,7 +287,7 @@
         },
         {
           "skill_name": "Blood Ode",
-          "skill_icon": "/assets/skills/Alice_Blood_Ode.png",
+          "skill_icon": "Alice_Blood_Ode.webp",
           "type": "ultimate",
           "cooldown": [40, 35, 30],
           "manacost": [135, 150, 165],
@@ -324,7 +324,7 @@
       ]
     },
     {
-      "hero_icon": "/assets/heroes/nana.png",
+      "hero_icon": "nana.webp",
       "hero_id": "h005",
       "hero_name": "Nana",
       "release_year": 2016,
@@ -338,7 +338,7 @@
       "skills": [
         {
           "skill_name": "Molina's Gift",
-          "skill_icon": "/assets/skills/Nana_Molinas_Gift.png",
+          "skill_icon": "Nana_Molinas_Gift.webp",
           "type": "passive",
           "cooldown": null,
           "manacost": null,
@@ -347,7 +347,7 @@
         },
         {
           "skill_name": "Magic Boomerang",
-          "skill_icon": "/assets/skills/Nana_Magic_Boomerang.png",
+          "skill_icon": "Nana_Magic_Boomerang.webp",
           "type": "active",
           "cooldown": [5.5, 5.2, 4.9, 4.6, 4.3, 4],
           "manacost": [65, 70, 75, 80, 85, 90],
@@ -356,7 +356,7 @@
         },
         {
           "skill_name": "Molina Smooch",
-          "skill_icon": "/assets/skills/Nana_Molina_Smooch.png",
+          "skill_icon": "Nana_Molina_Smooch.webp",
           "type": "active",
           "cooldown": [14, 13.5, 13, 12.5, 12, 11.5],
           "manacost": [90],
@@ -365,7 +365,7 @@
         },
         {
           "skill_name": "Molina Blitz",
-          "skill_icon": "/assets/skills/Nana_Molina_Blitz.png",
+          "skill_icon": "Nana_Molina_Blitz.webp",
           "type": "ultimate",
           "cooldown": [36, 32, 28],
           "manacost": [120, 135, 150],
@@ -402,7 +402,7 @@
       ]
     },
     {
-      "hero_icon": "/assets/heroes/tigreal.png",
+      "hero_icon": "tigreal.webp",
       "hero_id": "h006",
       "hero_name": "Tigreal",
       "release_year": 2016,
@@ -416,7 +416,7 @@
       "skills": [
         {
           "skill_name": "Fearless",
-          "skill_icon": "/assets/skills/Tigreal_Fearless.png",
+          "skill_icon": "Tigreal_Fearless.webp",
           "type": "passive",
           "cooldown": null,
           "manacost": null,
@@ -425,7 +425,7 @@
         },
         {
           "skill_name": "Attack Wave",
-          "skill_icon": "/assets/skills/Tigreal_Attack_Wave.png",
+          "skill_icon": "Tigreal_Attack_Wave.webp",
           "type": "active",
           "cooldown": [8],
           "manacost": [60, 70, 80, 90, 100, 110],
@@ -434,7 +434,7 @@
         },
         {
           "skill_name": "Sacred Hammer",
-          "skill_icon": "/assets/skills/Tigreal_Sacred_Hammer.png",
+          "skill_icon": "Tigreal_Sacred_Hammer.webp",
           "type": "active",
           "cooldown": [12, 11, 10, 9, 8, 7],
           "manacost": [80],
@@ -443,7 +443,7 @@
         },
         {
           "skill_name": "Implosion",
-          "skill_icon": "/assets/skills/Tigreal_Implosion.png",
+          "skill_icon": "Tigreal_Implosion.webp",
           "type": "ultimate",
           "cooldown": [45, 40, 35],
           "manacost": [120],
@@ -480,7 +480,7 @@
       ]
     },
     {
-      "hero_icon": "/assets/heroes/alucard.png",
+      "hero_icon": "alucard.webp",
       "hero_id": "h007",
       "hero_name": "Alucard",
       "release_year": 2016,
@@ -494,7 +494,7 @@
       "skills": [
         {
           "skill_name": "Pursuit",
-          "skill_icon": "/assets/skills/Alucard_Pursuit.png",
+          "skill_icon": "Alucard_Pursuit.webp",
           "type": "passive",
           "cooldown": null,
           "manacost": null,
@@ -503,7 +503,7 @@
         },
         {
           "skill_name": "Groundsplitter",
-          "skill_icon": "/assets/skills/Alucard_Groundsplitter.png",
+          "skill_icon": "Alucard_Groundsplitter.webp",
           "type": "active",
           "cooldown": [8],
           "manacost": [0],
@@ -512,7 +512,7 @@
         },
         {
           "skill_name": "Whirling Smash",
-          "skill_icon": "/assets/skills/Alucard_Whirling_Smash.png",
+          "skill_icon": "Alucard_Whirling_Smash.webp",
           "type": "active",
           "cooldown": [5],
           "manacost": [0],
@@ -521,7 +521,7 @@
         },
         {
           "skill_name": "Fission Wave",
-          "skill_icon": "/assets/skills/Alucard_Fission_Wave.png",
+          "skill_icon": "Alucard_Fission_Wave.webp",
           "type": "ultimate",
           "cooldown": [30, 27, 24],
           "manacost": [0],
@@ -558,7 +558,7 @@
       ]
     },
     {
-      "hero_icon": "/assets/heroes/eudora.png",
+      "hero_icon": "eudora.webp",
       "hero_id": "h008",
       "hero_name": "Eudora",
       "release_year": 2016,
@@ -572,7 +572,7 @@
       "skills": [
         {
           "skill_name": "Superconductor",
-          "skill_icon": "/assets/skills/Eudora_Superconductor.png",
+          "skill_icon": "Eudora_Superconductor.webp",
           "type": "passive",
           "cooldown": null,
           "manacost": null,
@@ -581,7 +581,7 @@
         },
         {
           "skill_name": "Forked Lightning",
-          "skill_icon": "/assets/skills/Eudora_Forked_Lightning.png",
+          "skill_icon": "Eudora_Forked_Lightning.webp",
           "type": "active",
           "cooldown": [7],
           "manacost": [90, 100, 110, 120, 130, 140],
@@ -590,7 +590,7 @@
         },
         {
           "skill_name": "Electric Arrow",
-          "skill_icon": "/assets/skills/Eudora_Electric_Arrow.png",
+          "skill_icon": "Eudora_Electric_Arrow.webp",
           "type": "active",
           "cooldown": [12, 11.5, 11, 10.5, 10, 9.5],
           "manacost": [80, 90, 100, 110, 120, 130],
@@ -599,7 +599,7 @@
         },
         {
           "skill_name": "Thunderstruck",
-          "skill_icon": "/assets/skills/Eudora_Thunderstruck.png",
+          "skill_icon": "Eudora_Thunderstruck.webp",
           "type": "ultimate",
           "cooldown": [34, 30, 26],
           "manacost": [130, 150, 170],
@@ -636,7 +636,7 @@
       ]
     },
     {
-      "hero_icon": "/assets/heroes/zilong.png",
+      "hero_icon": "zilong.webp",
       "hero_id": "h009",
       "hero_name": "Zilong",
       "release_year": 2016,
@@ -650,7 +650,7 @@
       "skills": [
         {
           "skill_name": "Dragon Flurry",
-          "skill_icon": "/assets/skills/Zilong_Dragon_Flurry.png",
+          "skill_icon": "Zilong_Dragon_Flurry.webp",
           "type": "passive",
           "cooldown": null,
           "manacost": null,
@@ -659,7 +659,7 @@
         },
         {
           "skill_name": "Spear Flip",
-          "skill_icon": "/assets/skills/Zilong_Spear_Flip.png",
+          "skill_icon": "Zilong_Spear_Flip.webp",
           "type": "active",
           "cooldown": [10, 9.5, 9, 8.5, 8, 7.5],
           "manacost": [80],
@@ -668,7 +668,7 @@
         },
         {
           "skill_name": "Spear Strike",
-          "skill_icon": "/assets/skills/Zilong_Spear_Strike.png",
+          "skill_icon": "Zilong_Spear_Strike.webp",
           "type": "active",
           "cooldown": [10, 9.4, 8.8, 8.2, 7.6, 7],
           "manacost": [80],
@@ -677,7 +677,7 @@
         },
         {
           "skill_name": "Supreme Warrior",
-          "skill_icon": "/assets/skills/Zilong_Supreme_Warrior.png",
+          "skill_icon": "Zilong_Supreme_Warrior.webp",
           "type": "ultimate",
           "cooldown": [40, 35, 30],
           "manacost": [0],
@@ -714,7 +714,7 @@
       ]
     },
     {
-      "hero_icon": "/assets/heroes/layla.png",
+      "hero_icon": "layla.webp",
       "hero_id": "h010",
       "hero_name": "Layla",
       "release_year": 2016,
@@ -728,7 +728,7 @@
       "skills": [
         {
           "skill_name": "Malefic Gun",
-          "skill_icon": "/assets/skills/Layla_Malefic_Gun.png",
+          "skill_icon": "Layla_Malefic_Gun.webp",
           "type": "passive",
           "cooldown": null,
           "manacost": null,
@@ -737,7 +737,7 @@
         },
         {
           "skill_name": "Malefic Bomb",
-          "skill_icon": "/assets/skills/Layla_Malefic_Bomb.png",
+          "skill_icon": "Layla_Malefic_Bomb.webp",
           "type": "active",
           "cooldown": [5],
           "manacost": [40, 45, 50, 55, 60, 65],
@@ -746,7 +746,7 @@
         },
         {
           "skill_name": "Void Projectile",
-          "skill_icon": "/assets/skills/Layla_Void_Projectile.png",
+          "skill_icon": "Layla_Void_Projectile.webp",
           "type": "active",
           "cooldown": [11, 10.4, 9.8, 9.2, 8.6, 8],
           "manacost": [50, 55, 60, 65, 70, 75],
@@ -755,7 +755,7 @@
         },
         {
           "skill_name": "Destruction Rush",
-          "skill_icon": "/assets/skills/Layla_Destruction_Rush.png",
+          "skill_icon": "Layla_Destruction_Rush.webp",
           "type": "ultimate",
           "cooldown": [40, 36, 32],
           "manacost": [130, 150, 170],
@@ -792,7 +792,7 @@
       ]
     },
     {
-      "hero_icon": "/assets/heroes/karina.png",
+      "hero_icon": "karina.webp",
       "hero_id": "h011",
       "hero_name": "Karina",
       "release_year": 2016,
@@ -806,7 +806,7 @@
       "skills": [
         {
           "skill_name": "Shadow Combo",
-          "skill_icon": "/assets/skills/Karina_Shadow_Combo.png",
+          "skill_icon": "Karina_Shadow_Combo.webp",
           "type": "passive",
           "cooldown": null,
           "manacost": null,
@@ -815,7 +815,7 @@
         },
         {
           "skill_name": "Dance of Blades",
-          "skill_icon": "/assets/skills/Karina_Dance_of_Blades.png",
+          "skill_icon": "Karina_Dance_of_Blades.webp",
           "type": "active",
           "cooldown": [7],
           "manacost": [60],
@@ -824,7 +824,7 @@
         },
         {
           "skill_name": "Dance of Death",
-          "skill_icon": "/assets/skills/Karina_Dance_of_Death.png",
+          "skill_icon": "Karina_Dance_of_Death.webp",
           "type": "active",
           "cooldown": [8],
           "manacost": [70],
@@ -833,7 +833,7 @@
         },
         {
           "skill_name": "Shadow Assault",
-          "skill_icon": "/assets/skills/Karina_Shadow_Assault.png",
+          "skill_icon": "Karina_Shadow_Assault.webp",
           "type": "ultimate",
           "cooldown": [36, 30, 24],
           "manacost": [100],
@@ -870,7 +870,7 @@
       ]
     },
     {
-      "hero_icon": "/assets/heroes/akai.png",
+      "hero_icon": "akai.webp",
       "hero_id": "h012",
       "hero_name": "Akai",
       "release_year": 2016,
@@ -884,7 +884,7 @@
       "skills": [
         {
           "skill_name": "Tai Chi",
-          "skill_icon": "/assets/skills/Akai_Tai_Chi.png",
+          "skill_icon": "Akai_Tai_Chi.webp",
           "type": "passive",
           "cooldown": null,
           "manacost": null,
@@ -893,7 +893,7 @@
         },
         {
           "skill_name": "Headbutt",
-          "skill_icon": "/assets/skills/Akai_Headbutt.png",
+          "skill_icon": "Akai_Headbutt.webp",
           "type": "active",
           "cooldown": [12, 11, 10, 9, 8, 7],
           "manacost": [70],
@@ -902,7 +902,7 @@
         },
         {
           "skill_name": "Body Slam",
-          "skill_icon": "/assets/skills/Akai_Body_Slam.png",
+          "skill_icon": "Akai_Body_Slam.webp",
           "type": "active",
           "cooldown": [9],
           "manacost": [80],
@@ -911,7 +911,7 @@
         },
         {
           "skill_name": "Heavy Spin",
-          "skill_icon": "/assets/skills/Akai_Heavy_Spin.png",
+          "skill_icon": "Akai_Heavy_Spin.webp",
           "type": "ultimate",
           "cooldown": [40, 36, 32],
           "manacost": [120],
@@ -948,7 +948,7 @@
       ]
     },
     {
-      "hero_icon": "/assets/heroes/franco.png",
+      "hero_icon": "franco.webp",
       "hero_id": "h013",
       "hero_name": "Franco",
       "release_year": 2016,
@@ -962,7 +962,7 @@
       "skills": [
         {
           "skill_name": "Wasteland Force",
-          "skill_icon": "/assets/skills/Franco_Wasteland_Force.png",
+          "skill_icon": "Franco_Wasteland_Force.webp",
           "type": "passive",
           "cooldown": null,
           "manacost": null,
@@ -971,7 +971,7 @@
         },
         {
           "skill_name": "Iron Hook",
-          "skill_icon": "/assets/skills/Franco_Iron_Hook.png",
+          "skill_icon": "Franco_Iron_Hook.webp",
           "type": "active",
           "cooldown": [15, 14, 13, 12, 11, 10],
           "manacost": [80],
@@ -980,7 +980,7 @@
         },
         {
           "skill_name": "Fury Shock",
-          "skill_icon": "/assets/skills/Franco_Fury_Shock.png",
+          "skill_icon": "Franco_Fury_Shock.webp",
           "type": "active",
           "cooldown": [7],
           "manacost": [60],
@@ -989,7 +989,7 @@
         },
         {
           "skill_name": "Bloody Hunt",
-          "skill_icon": "/assets/skills/Franco_Bloody_Hunt.png",
+          "skill_icon": "Franco_Bloody_Hunt.webp",
           "type": "ultimate",
           "cooldown": [45, 40, 35],
           "manacost": [120],
@@ -1026,7 +1026,7 @@
       ]
     },
     {
-      "hero_icon": "/assets/heroes/bane.png",
+      "hero_icon": "bane.webp",
       "hero_id": "h014",
       "hero_name": "Bane",
       "release_year": 2016,
@@ -1040,7 +1040,7 @@
       "skills": [
         {
           "skill_name": "Shark Bite",
-          "skill_icon": "/assets/skills/Bane_Shark_Bite.png",
+          "skill_icon": "Bane_Shark_Bite.webp",
           "type": "passive",
           "cooldown": null,
           "manacost": null,
@@ -1049,7 +1049,7 @@
         },
         {
           "skill_name": "Crab Claw Cannon",
-          "skill_icon": "/assets/skills/Bane_Crab_Claw_Cannon.png",
+          "skill_icon": "Bane_Crab_Claw_Cannon.webp",
           "type": "active",
           "cooldown": [6],
           "manacost": [60],
@@ -1058,7 +1058,7 @@
         },
         {
           "skill_name": "Ale",
-          "skill_icon": "/assets/skills/Bane_Ale.png",
+          "skill_icon": "Bane_Ale.webp",
           "type": "active",
           "cooldown": [10],
           "manacost": [70],
@@ -1067,7 +1067,7 @@
         },
         {
           "skill_name": "Deadly Catch",
-          "skill_icon": "/assets/skills/Bane_Deadly_Catch.png",
+          "skill_icon": "Bane_Deadly_Catch.webp",
           "type": "ultimate",
           "cooldown": [40, 35, 30],
           "manacost": [120],
@@ -1104,7 +1104,7 @@
       ]
     },
     {
-      "hero_icon": "/assets/heroes/bruno.png",
+      "hero_icon": "bruno.webp",
       "hero_id": "h015",
       "hero_name": "Bruno",
       "release_year": 2016,
@@ -1118,7 +1118,7 @@
       "skills": [
         {
           "skill_name": "Mecha Legs",
-          "skill_icon": "/assets/skills/Bruno_Mecha_Legs.png",
+          "skill_icon": "Bruno_Mecha_Legs.webp",
           "type": "passive",
           "cooldown": null,
           "manacost": null,
@@ -1127,7 +1127,7 @@
         },
         {
           "skill_name": "Volley Shot",
-          "skill_icon": "/assets/skills/Bruno_Volley_Shot.png",
+          "skill_icon": "Bruno_Volley_Shot.webp",
           "type": "active",
           "cooldown": [7],
           "manacost": [70],
@@ -1136,7 +1136,7 @@
         },
         {
           "skill_name": "Flying Tackle",
-          "skill_icon": "/assets/skills/Bruno_Flying_Tackle.png",
+          "skill_icon": "Bruno_Flying_Tackle.webp",
           "type": "active",
           "cooldown": [11],
           "manacost": [55],
@@ -1145,7 +1145,7 @@
         },
         {
           "skill_name": "Wave of the World",
-          "skill_icon": "/assets/skills/Bruno_Wave_of_the_World.png",
+          "skill_icon": "Bruno_Wave_of_the_World.webp",
           "type": "ultimate",
           "cooldown": [40, 36, 32],
           "manacost": [140],
@@ -1182,7 +1182,7 @@
       ]
     },
     {
-      "hero_icon": "/assets/heroes/clint.png",
+      "hero_icon": "clint.webp",
       "hero_id": "h016",
       "hero_name": "Clint",
       "release_year": 2016,
@@ -1196,7 +1196,7 @@
       "skills": [
         {
           "skill_name": "Quick Draw",
-          "skill_icon": "/assets/skills/Clint_Quick_Draw.png",
+          "skill_icon": "Clint_Quick_Draw.webp",
           "type": "passive",
           "cooldown": null,
           "manacost": null,
@@ -1205,7 +1205,7 @@
         },
         {
           "skill_name": "Blind Smoke",
-          "skill_icon": "/assets/skills/Clint_Blind_Smoke.png",
+          "skill_icon": "Clint_Blind_Smoke.webp",
           "type": "active",
           "cooldown": [9],
           "manacost": [70],
@@ -1214,7 +1214,7 @@
         },
         {
           "skill_name": "Tracer Shot",
-          "skill_icon": "/assets/skills/Clint_Tracer_Shot.png",
+          "skill_icon": "Clint_Tracer_Shot.webp",
           "type": "active",
           "cooldown": [8],
           "manacost": [60],
@@ -1223,7 +1223,7 @@
         },
         {
           "skill_name": "Grenade Bombardment",
-          "skill_icon": "/assets/skills/Clint_Grenade_Bombardment.png",
+          "skill_icon": "Clint_Grenade_Bombardment.webp",
           "type": "ultimate",
           "cooldown": [45, 40, 35],
           "manacost": [80],
@@ -1260,7 +1260,7 @@
       ]
     },
     {
-      "hero_icon": "/assets/heroes/rafaela.png",
+      "hero_icon": "rafaela.webp",
       "hero_id": "h017",
       "hero_name": "Rafaela",
       "release_year": 2016,
@@ -1274,7 +1274,7 @@
       "skills": [
         {
           "skill_name": "Deity Penalization",
-          "skill_icon": "/assets/skills/Rafaela_Deity_Penalization.png",
+          "skill_icon": "Rafaela_Deity_Penalization.webp",
           "type": "passive",
           "cooldown": null,
           "manacost": null,
@@ -1283,7 +1283,7 @@
         },
         {
           "skill_name": "Light of Retribution",
-          "skill_icon": "/assets/skills/Rafaela_Light_of_Retribution.png",
+          "skill_icon": "Rafaela_Light_of_Retribution.webp",
           "type": "active",
           "cooldown": [4],
           "manacost": [60],
@@ -1292,7 +1292,7 @@
         },
         {
           "skill_name": "Holy Healing",
-          "skill_icon": "/assets/skills/Rafaela_Holy_Healing.png",
+          "skill_icon": "Rafaela_Holy_Healing.webp",
           "type": "active",
           "cooldown": [11],
           "manacost": [80],
@@ -1301,7 +1301,7 @@
         },
         {
           "skill_name": "Holy Baptism",
-          "skill_icon": "/assets/skills/Rafaela_Holy_Baptism.png",
+          "skill_icon": "Rafaela_Holy_Baptism.webp",
           "type": "ultimate",
           "cooldown": [40, 36, 32],
           "manacost": [120],
@@ -1338,7 +1338,7 @@
       ]
     },
     {
-      "hero_icon": "/assets/heroes/fanny.png",
+      "hero_icon": "fanny.webp",
       "hero_id": "h018",
       "hero_name": "Fanny",
       "release_year": 2016,
@@ -1352,7 +1352,7 @@
       "skills": [
         {
           "skill_name": "Air Superiority",
-          "skill_icon": "/assets/skills/Fanny_Air_Superiority.png",
+          "skill_icon": "Fanny_Air_Superiority.webp",
           "type": "passive",
           "cooldown": null,
           "manacost": null,
@@ -1361,7 +1361,7 @@
         },
         {
           "skill_name": "Tornado Strike",
-          "skill_icon": "/assets/skills/Fanny_Tornado_Strike.png",
+          "skill_icon": "Fanny_Tornado_Strike.webp",
           "type": "active",
           "cooldown": [3.5],
           "manacost": null,
@@ -1370,7 +1370,7 @@
         },
         {
           "skill_name": "Steel Cable",
-          "skill_icon": "/assets/skills/Fanny_Steel_Cable.png",
+          "skill_icon": "Fanny_Steel_Cable.webp",
           "type": "active",
           "cooldown": [0],
           "manacost": null,
@@ -1379,7 +1379,7 @@
         },
         {
           "skill_name": "Cut Throat",
-          "skill_icon": "/assets/skills/Fanny_Cut_Throat.png",
+          "skill_icon": "Fanny_Cut_Throat.webp",
           "type": "ultimate",
           "cooldown": [28, 24, 20],
           "manacost": null,
@@ -1416,7 +1416,7 @@
       ]
     },
     {
-      "hero_icon": "/assets/heroes/minotaur.png",
+      "hero_icon": "minotaur.webp",
       "hero_id": "h019",
       "hero_name": "Minotaur",
       "release_year": 2016,
@@ -1430,7 +1430,7 @@
       "skills": [
         {
           "skill_name": "Rage Incarnate",
-          "skill_icon": "/assets/skills/Minotaur_Rage_Incarnate.png",
+          "skill_icon": "Minotaur_Rage_Incarnate.webp",
           "type": "passive",
           "cooldown": null,
           "manacost": null,
@@ -1439,7 +1439,7 @@
         },
         {
           "skill_name": "Despair Stomp",
-          "skill_icon": "/assets/skills/Minotaur_Despair_Stomp.png",
+          "skill_icon": "Minotaur_Despair_Stomp.webp",
           "type": "active",
           "cooldown": [8],
           "manacost": null,
@@ -1448,7 +1448,7 @@
         },
         {
           "skill_name": "Motivation Roar",
-          "skill_icon": "/assets/skills/Minotaur_Motivation_Roar.png",
+          "skill_icon": "Minotaur_Motivation_Roar.webp",
           "type": "active",
           "cooldown": [12],
           "manacost": null,
@@ -1457,7 +1457,7 @@
         },
         {
           "skill_name": "Minoan Fury",
-          "skill_icon": "/assets/skills/Minotaur_Minoan_Fury.png",
+          "skill_icon": "Minotaur_Minoan_Fury.webp",
           "type": "ultimate",
           "cooldown": [40, 36, 32],
           "manacost": null,
@@ -1494,7 +1494,7 @@
       ]
     },
     {
-      "hero_icon": "/assets/heroes/lolita.png",
+      "hero_icon": "lolita.webp",
       "hero_id": "h020",
       "hero_name": "Lolita",
       "release_year": 2016,
@@ -1508,7 +1508,7 @@
       "skills": [
         {
           "skill_name": "Noumenon Energy Core",
-          "skill_icon": "/assets/skills/Lolita_Noumenon_Energy_Core.png",
+          "skill_icon": "Lolita_Noumenon_Energy_Core.webp",
           "type": "passive",
           "cooldown": null,
           "manacost": null,
@@ -1517,7 +1517,7 @@
         },
         {
           "skill_name": "Charge",
-          "skill_icon": "/assets/skills/Lolita_Charge.png",
+          "skill_icon": "Lolita_Charge.webp",
           "type": "active",
           "cooldown": [12],
           "manacost": [70],
@@ -1526,7 +1526,7 @@
         },
         {
           "skill_name": "Guardian's Bulwark",
-          "skill_icon": "/assets/skills/Lolita_Guardians_Bulwark.png",
+          "skill_icon": "Lolita_Guardians_Bulwark.webp",
           "type": "active",
           "cooldown": [14, 13, 12, 11, 10, 9],
           "manacost": [80],
@@ -1535,7 +1535,7 @@
         },
         {
           "skill_name": "Noumenon Blast",
-          "skill_icon": "/assets/skills/Lolita_Noumenon_Blast.png",
+          "skill_icon": "Lolita_Noumenon_Blast.webp",
           "type": "ultimate",
           "cooldown": [48, 44, 40],
           "manacost": [120],
@@ -1572,7 +1572,7 @@
       ]
     },
     {
-      "hero_icon": "/assets/heroes/aamon.png",
+      "hero_icon": "aamon.webp",
       "hero_id": "h021",
       "hero_name": "Aamon",
       "release_year": 2021,
@@ -1586,7 +1586,7 @@
       "skills": [
         {
           "skill_name": "Invisible Armor",
-          "skill_icon": "/assets/skills/Invisible_Armor.png",
+          "skill_icon": "Invisible_Armor.webp",
           "type": "passive",
           "cooldown": null,
           "manacost": null,
@@ -1595,7 +1595,7 @@
         },
         {
           "skill_name": "Soul Shards",
-          "skill_icon": "/assets/skills/Soul_Shards.png",
+          "skill_icon": "Soul_Shards.webp",
           "type": "active",
           "cooldown": [9.0, 8.5, 8.0, 7.5, 7.0, 6.5],
           "manacost": [60, 66, 72, 78, 84, 90],
@@ -1604,7 +1604,7 @@
         },
         {
           "skill_name": "Slayer Shards",
-          "skill_icon": "/assets/skills/Slayer_Shards.png",
+          "skill_icon": "Slayer_Shards.webp",
           "type": "active",
           "cooldown": [15.0, 14.5, 14.0, 13.5, 13.0, 12.5],
           "manacost": [110, 104, 98, 92, 86, 80],
@@ -1613,7 +1613,7 @@
         },
         {
           "skill_name": "Endless Shards",
-          "skill_icon": "/assets/skills/Endless_Shards.png",
+          "skill_icon": "Endless_Shards.webp",
           "type": "ultimate",
           "cooldown": [46.0, 42.0, 38.0],
           "manacost": [150, 170, 190],

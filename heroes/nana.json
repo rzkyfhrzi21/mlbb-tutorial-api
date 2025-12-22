@@ -8,10 +8,11 @@
       "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
     },
     "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
-    "description": "Data hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
   },
   "hero": {
-    "hero_icon": "/assets/heroes/nana.png",
+    "hero_url": "nana.json",
+    "hero_icon": "nana.webp",
     "hero_id": "h005",
     "hero_name": "Nana",
     "release_year": 2016,
@@ -33,7 +34,7 @@
     "skills": [
       {
         "skill_name": "Molina's Gift",
-        "skill_icon": "/assets/skills/Nana_Molinas_Gift.png",
+        "skill_icon": "Molina_s_Gift.webp",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
@@ -45,7 +46,7 @@
       },
       {
         "skill_name": "Magic Boomerang",
-        "skill_icon": "/assets/skills/Nana_Magic_Boomerang.png",
+        "skill_icon": "Magic_Boomerang.webp",
         "type": "active",
         "cooldown": [
           5.5,
@@ -72,7 +73,7 @@
       },
       {
         "skill_name": "Molina Smooch",
-        "skill_icon": "/assets/skills/Nana_Molina_Smooch.png",
+        "skill_icon": "Molina_Smooch.webp",
         "type": "active",
         "cooldown": [
           14,
@@ -94,7 +95,7 @@
       },
       {
         "skill_name": "Molina Blitz",
-        "skill_icon": "/assets/skills/Nana_Molina_Blitz.png",
+        "skill_icon": "Molina_Blitz.webp",
         "type": "ultimate",
         "cooldown": [
           36,

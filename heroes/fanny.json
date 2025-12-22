@@ -8,10 +8,11 @@
       "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
     },
     "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
-    "description": "Data hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
   },
   "hero": {
-    "hero_icon": "/assets/heroes/fanny.png",
+    "hero_url": "fanny.json",
+    "hero_icon": "fanny.webp",
     "hero_id": "h018",
     "hero_name": "Fanny",
     "release_year": 2016,
@@ -32,7 +33,7 @@
     "skills": [
       {
         "skill_name": "Air Superiority",
-        "skill_icon": "/assets/skills/Fanny_Air_Superiority.png",
+        "skill_icon": "Air_Superiority.webp",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
@@ -44,7 +45,7 @@
       },
       {
         "skill_name": "Tornado Strike",
-        "skill_icon": "/assets/skills/Fanny_Tornado_Strike.png",
+        "skill_icon": "Tornado_Strike.webp",
         "type": "active",
         "cooldown": [
           3.5
@@ -58,7 +59,7 @@
       },
       {
         "skill_name": "Steel Cable",
-        "skill_icon": "/assets/skills/Fanny_Steel_Cable.png",
+        "skill_icon": "Steel_Cable.webp",
         "type": "active",
         "cooldown": [
           0
@@ -72,7 +73,7 @@
       },
       {
         "skill_name": "Cut Throat",
-        "skill_icon": "/assets/skills/Fanny_Cut_Throat.png",
+        "skill_icon": "Cut_Throat.webp",
         "type": "ultimate",
         "cooldown": [
           28,

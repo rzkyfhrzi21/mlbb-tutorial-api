@@ -8,10 +8,11 @@
       "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
     },
     "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
-    "description": "Data hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
   },
   "hero": {
-    "hero_icon": "/assets/heroes/alice.png",
+    "hero_url": "alice.json",
+    "hero_icon": "alice.webp",
     "hero_id": "h004",
     "hero_name": "Alice",
     "release_year": 2016,
@@ -33,7 +34,7 @@
     "skills": [
       {
         "skill_name": "Blood Ancestry",
-        "skill_icon": "/assets/skills/Alice_Blood_Ancestry.png",
+        "skill_icon": "Blood_Ancestry.webp",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
@@ -45,7 +46,7 @@
       },
       {
         "skill_name": "Flowing Blood",
-        "skill_icon": "/assets/skills/Alice_Flowing_Blood.png",
+        "skill_icon": "Flowing_Blood.webp",
         "type": "active",
         "cooldown": [
           8
@@ -67,7 +68,7 @@
       },
       {
         "skill_name": "Blood Awe",
-        "skill_icon": "/assets/skills/Alice_Blood_Awe.png",
+        "skill_icon": "Blood_Awe.webp",
         "type": "active",
         "cooldown": [
           7
@@ -84,7 +85,7 @@
       },
       {
         "skill_name": "Blood Ode",
-        "skill_icon": "/assets/skills/Alice_Blood_Ode.png",
+        "skill_icon": "Blood_Ode.webp",
         "type": "ultimate",
         "cooldown": [
           40,

@@ -8,10 +8,11 @@
       "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
     },
     "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
-    "description": "Data hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
   },
   "hero": {
-    "hero_icon": "/assets/heroes/miya.png",
+    "hero_url": "miya.json",
+    "hero_icon": "miya.webp",
     "hero_id": "h001",
     "hero_name": "Miya",
     "release_year": 2016,
@@ -32,7 +33,7 @@
     "skills": [
       {
         "skill_name": "Turbo",
-        "skill_icon": "/assets/skills/Turbo.png",
+        "skill_icon": "Turbo.webp",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
@@ -45,7 +46,7 @@
       },
       {
         "skill_name": "Fission Shot",
-        "skill_icon": "/assets/skills/Fission_Shot.png",
+        "skill_icon": "Fission_Shot.webp",
         "type": "active",
         "cooldown": [
           11
@@ -67,7 +68,7 @@
       },
       {
         "skill_name": "Rain of Arrows",
-        "skill_icon": "/assets/skills/Rain_of_Arrows.png",
+        "skill_icon": "Rain_of_Arrows.webp",
         "type": "active",
         "cooldown": [
           10
@@ -89,7 +90,7 @@
       },
       {
         "skill_name": "Turbo Stealth",
-        "skill_icon": "/assets/skills/Turbo_Stealth.png",
+        "skill_icon": "Turbo_Stealth.webp",
         "type": "ultimate",
         "cooldown": [
           38,

@@ -8,10 +8,11 @@
       "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
     },
     "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
-    "description": "Data hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
   },
   "hero": {
-    "hero_icon": "/assets/heroes/minotaur.png",
+    "hero_url": "minotaur.json",
+    "hero_icon": "minotaur.webp",
     "hero_id": "h019",
     "hero_name": "Minotaur",
     "release_year": 2016,
@@ -33,7 +34,7 @@
     "skills": [
       {
         "skill_name": "Rage Incarnate",
-        "skill_icon": "/assets/skills/Minotaur_Rage_Incarnate.png",
+        "skill_icon": "Rage_Incarnate.webp",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
@@ -45,7 +46,7 @@
       },
       {
         "skill_name": "Despair Stomp",
-        "skill_icon": "/assets/skills/Minotaur_Despair_Stomp.png",
+        "skill_icon": "Despair_Stomp.webp",
         "type": "active",
         "cooldown": [
           8
@@ -59,7 +60,7 @@
       },
       {
         "skill_name": "Motivation Roar",
-        "skill_icon": "/assets/skills/Minotaur_Motivation_Roar.png",
+        "skill_icon": "Motivation_Roar.webp",
         "type": "active",
         "cooldown": [
           12
@@ -73,7 +74,7 @@
       },
       {
         "skill_name": "Minoan Fury",
-        "skill_icon": "/assets/skills/Minotaur_Minoan_Fury.png",
+        "skill_icon": "Minoan_Fury.webp",
         "type": "ultimate",
         "cooldown": [
           40,

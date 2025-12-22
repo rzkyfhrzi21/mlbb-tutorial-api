@@ -8,10 +8,11 @@
       "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
     },
     "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
-    "description": "Data hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
   },
   "hero": {
-    "hero_icon": "/assets/heroes/alucard.png",
+    "hero_url": "alucard.json",
+    "hero_icon": "alucard.webp",
     "hero_id": "h007",
     "hero_name": "Alucard",
     "release_year": 2016,
@@ -34,7 +35,7 @@
     "skills": [
       {
         "skill_name": "Pursuit",
-        "skill_icon": "/assets/skills/Alucard_Pursuit.png",
+        "skill_icon": "Pursuit.webp",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
@@ -46,7 +47,7 @@
       },
       {
         "skill_name": "Groundsplitter",
-        "skill_icon": "/assets/skills/Alucard_Groundsplitter.png",
+        "skill_icon": "Groundsplitter.webp",
         "type": "active",
         "cooldown": [
           8
@@ -62,7 +63,7 @@
       },
       {
         "skill_name": "Whirling Smash",
-        "skill_icon": "/assets/skills/Alucard_Whirling_Smash.png",
+        "skill_icon": "Whirling_Smash.webp",
         "type": "active",
         "cooldown": [
           5
@@ -78,7 +79,7 @@
       },
       {
         "skill_name": "Fission Wave",
-        "skill_icon": "/assets/skills/Alucard_Fission_Wave.png",
+        "skill_icon": "Fission_Wave.webp",
         "type": "ultimate",
         "cooldown": [
           30,

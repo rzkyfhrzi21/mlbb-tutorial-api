@@ -8,10 +8,11 @@
       "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
     },
     "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
-    "description": "Data hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
+    "description": "Data 20 hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
   },
   "hero": {
-    "hero_icon": "../assets/heroes/saber.png",
+    "hero_url": "saber.json",
+    "hero_icon": "saber.webp",
     "hero_id": "h003",
     "hero_name": "Saber",
     "release_year": 2016,
@@ -25,7 +26,7 @@
     "skills": [
       {
         "skill_name": "Enemy's Bane",
-        "skill_icon": "../assets/skills/Saber_Enemys_Bane.png",
+        "skill_icon": "Enemy_s_Bane.webp",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
@@ -34,7 +35,7 @@
       },
       {
         "skill_name": "Flying Sword",
-        "skill_icon": "../assets/skills/Saber_Flying_Sword.png",
+        "skill_icon": "Flying_Sword.webp",
         "type": "active",
         "cooldown": [7],
         "manacost": [60, 65, 70, 75, 80, 85],
@@ -43,7 +44,7 @@
       },
       {
         "skill_name": "Charge",
-        "skill_icon": "../assets/skills/Saber_Charge.png",
+        "skill_icon": "Charge.webp",
         "type": "active",
         "cooldown": [12, 11, 10, 9, 8, 7],
         "manacost": [70],
@@ -52,7 +53,7 @@
       },
       {
         "skill_name": "Triple Sweep",
-        "skill_icon": "../assets/skills/Saber_Triple_Sweep.png",
+        "skill_icon": "Triple_Sweep.webp",
         "type": "ultimate",
         "cooldown": [34, 30, 26],
         "manacost": [80, 90, 100],
