@@ -10,13 +10,13 @@
     "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
     "description": "Data item Mobile Legends: Bang Bang kategori Attack."
   },
-  "category": "Attack",
+  "item_category": "Attack",
   "total": 31,
   "data": [
     {
       "icon": "/assets/items/blade_of_despair.png",
       "name": "Blade of Despair",
-      "category": [
+      "item_category": [
         "Attack"
       ],
       "price": 3010,
@@ -37,7 +37,7 @@
     {
       "icon": "/assets/items/demon_hunter_sword.png",
       "name": "Demon Hunter Sword",
-      "category": [
+      "item_category": [
         "Attack"
       ],
       "price": 2180,
@@ -58,7 +58,7 @@
     {
       "icon": "/assets/items/berserkers_fury.png",
       "name": "Berserker's Fury",
-      "category": [
+      "item_category": [
         "Attack"
       ],
       "price": 2390,
@@ -84,7 +84,7 @@
     {
       "icon": "/assets/items/malefic_roar.png",
       "name": "Malefic Roar",
-      "category": [
+      "item_category": [
         "Attack"
       ],
       "price": 2060,
@@ -109,7 +109,7 @@
     {
       "icon": "/assets/items/hunter_strike.png",
       "name": "Hunter Strike",
-      "category": [
+      "item_category": [
         "Attack"
       ],
       "price": 2010,
@@ -135,7 +135,7 @@
     {
       "icon": "/assets/items/windtalker.png",
       "name": "Windtalker",
-      "category": [
+      "item_category": [
         "Attack"
       ],
       "price": 1870,
@@ -157,7 +157,7 @@
     {
       "icon": "/assets/items/endless_battle.png",
       "name": "Endless Battle",
-      "category": [
+      "item_category": [
         "Attack"
       ],
       "price": 2470,
@@ -186,7 +186,7 @@
     {
       "icon": "/assets/items/sea_halberd.png",
       "name": "Sea Halberd",
-      "category": [
+      "item_category": [
         "Attack"
       ],
       "price": 2150,
@@ -211,7 +211,7 @@
     {
       "icon": "/assets/items/corrosion_scythe.png",
       "name": "Corrosion Scythe",
-      "category": [
+      "item_category": [
         "Attack"
       ],
       "price": 2050,
@@ -237,7 +237,7 @@
     {
       "icon": "/assets/items/golden_staff.png",
       "name": "Golden Staff",
-      "category": [
+      "item_category": [
         "Attack"
       ],
       "price": 2000,
@@ -262,7 +262,7 @@
     {
       "icon": "/assets/items/bloodlust_axe.png",
       "name": "Bloodlust Axe",
-      "category": [
+      "item_category": [
         "Attack"
       ],
       "price": 1970,
@@ -287,7 +287,7 @@
     {
       "icon": "/assets/items/war_axe.png",
       "name": "War Axe",
-      "category": [
+      "item_category": [
         "Attack"
       ],
       "price": 2100,
@@ -310,7 +310,7 @@
     {
       "icon": "/assets/items/rose_gold_meteor.png",
       "name": "Rose Gold Meteor",
-      "category": [
+      "item_category": [
         "Attack"
       ],
       "price": 2030,
@@ -336,7 +336,7 @@
     {
       "icon": "/assets/items/regular_spear.png",
       "name": "Regular Spear",
-      "category": [
+      "item_category": [
         "Attack"
       ],
       "price": 600,
@@ -352,7 +352,7 @@
     {
       "icon": "/assets/items/swift_crossbow.png",
       "name": "Swift Crossbow",
-      "category": [
+      "item_category": [
         "Attack"
       ],
       "price": 1000,
@@ -376,7 +376,7 @@
     {
       "icon": "/assets/items/power_potion.png",
       "name": "Power Potion",
-      "category": [
+      "item_category": [
         "Attack"
       ],
       "price": 1500,
@@ -397,7 +397,7 @@
     {
       "icon": "/assets/items/dagger.png",
       "name": "Dagger",
-      "category": [
+      "item_category": [
         "Attack"
       ],
       "price": 250,
@@ -412,7 +412,7 @@
     {
       "icon": "/assets/items/rogue_meteor.png",
       "name": "Rogue Meteor",
-      "category": [
+      "item_category": [
         "Attack"
       ],
       "price": 900,
@@ -427,7 +427,7 @@
     {
       "icon": "/assets/items/fury_hammer.png",
       "name": "Fury Hammer",
-      "category": [
+      "item_category": [
         "Attack"
       ],
       "price": 830,
@@ -447,7 +447,7 @@
     {
       "icon": "/assets/items/magic_blade.png",
       "name": "Magic Blade",
-      "category": [
+      "item_category": [
         "Attack"
       ],
       "price": 1050,
@@ -468,7 +468,7 @@
     {
       "icon": "/assets/items/ogre_tomahawk.png",
       "name": "Ogre Tomahawk",
-      "category": [
+      "item_category": [
         "Attack"
       ],
       "price": 650,
@@ -489,7 +489,7 @@
     {
       "icon": "/assets/items/legion_sword.png",
       "name": "Legion Sword",
-      "category": [
+      "item_category": [
         "Attack"
       ],
       "price": 910,
@@ -504,7 +504,7 @@
     {
       "icon": "/assets/items/iron_hunting_bow.png",
       "name": "Iron Hunting Bow",
-      "category": [
+      "item_category": [
         "Attack"
       ],
       "price": 450,
@@ -520,7 +520,7 @@
     {
       "icon": "/assets/items/deadly_blade.png",
       "name": "Deadly Blade",
-      "category": [
+      "item_category": [
         "Attack"
       ],
       "price": 1500,
@@ -541,7 +541,7 @@
     {
       "icon": "/assets/items/vampire_mallet.png",
       "name": "Vampire Mallet",
-      "category": [
+      "item_category": [
         "Attack"
       ],
       "price": 400,
@@ -557,7 +557,7 @@
     {
       "icon": "/assets/items/expert_gloves.png",
       "name": "Expert Gloves",
-      "category": [
+      "item_category": [
         "Attack",
         "Magic"
       ],
@@ -573,7 +573,7 @@
     {
       "icon": "/assets/items/sky_piercer.png",
       "name": "Sky Piercer",
-      "category": [
+      "item_category": [
         "Attack",
         "Magic"
       ],
@@ -595,7 +595,7 @@
     {
       "icon": "/assets/items/winter_crown.png",
       "name": "Winter Crown",
-      "category": [
+      "item_category": [
         "Attack",
         "Magic"
       ],
@@ -618,7 +618,7 @@
     {
       "icon": "/assets/items/fleeting_time.png",
       "name": "Fleeting Time",
-      "category": [
+      "item_category": [
         "Attack",
         "Magic",
         "Defense"
@@ -642,7 +642,7 @@
     {
       "icon": "/assets/items/great_dragon_spear.png",
       "name": "Great Dragon Spear",
-      "category": [
+      "item_category": [
         "Attack"
       ],
       "price": 2140,
@@ -664,7 +664,7 @@
     {
       "icon": "/assets/items/haas_claws.png",
       "name": "Haas's Claws",
-      "category": [
+      "item_category": [
         "Attack"
       ],
       "price": 2020,

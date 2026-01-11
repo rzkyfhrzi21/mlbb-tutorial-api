@@ -10,13 +10,13 @@
     "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
     "description": "Data item Mobile Legends: Bang Bang kategori Defense."
   },
-  "category": "Defense",
+  "item_category": "Defense",
   "total": 26,
   "data": [
     {
       "icon": "/assets/items/antique_cuirass.png",
       "name": "Antique Cuirass",
-      "category": [
+      "item_category": [
         "Defense"
       ],
       "price": 2170,
@@ -37,7 +37,7 @@
     {
       "icon": "/assets/items/ares_belt.png",
       "name": "Ares Belt",
-      "category": [
+      "item_category": [
         "Defense"
       ],
       "price": 700,
@@ -52,7 +52,7 @@
     {
       "icon": "/assets/items/athenas_shield.png",
       "name": "Athena's Shield",
-      "category": [
+      "item_category": [
         "Defense"
       ],
       "price": 2150,
@@ -73,7 +73,7 @@
     {
       "icon": "/assets/items/black_ice_shield.png",
       "name": "Black Ice Shield",
-      "category": [
+      "item_category": [
         "Defense"
       ],
       "price": 780,
@@ -94,7 +94,7 @@
     {
       "icon": "/assets/items/blade_armor.png",
       "name": "Blade Armor",
-      "category": [
+      "item_category": [
         "Defense"
       ],
       "price": 1910,
@@ -119,7 +119,7 @@
     {
       "icon": "/assets/items/brute_force_breastplate.png",
       "name": "Brute Force Breastplate",
-      "category": [
+      "item_category": [
         "Defense"
       ],
       "price": 2070,
@@ -141,7 +141,7 @@
     {
       "icon": "/assets/items/chastise_pauldron.png",
       "name": "Chastise Pauldron",
-      "category": [
+      "item_category": [
         "Defense"
       ],
       "price": 2100,
@@ -166,7 +166,7 @@
     {
       "icon": "/assets/items/cursed_helmet.png",
       "name": "Cursed Helmet",
-      "category": [
+      "item_category": [
         "Defense"
       ],
       "price": 1910,
@@ -191,7 +191,7 @@
     {
       "icon": "/assets/items/dominance_ice.png",
       "name": "Dominance Ice",
-      "category": [
+      "item_category": [
         "Defense"
       ],
       "price": 2010,
@@ -217,7 +217,7 @@
     {
       "icon": "/assets/items/dreadnaught_armor.png",
       "name": "Dreadnaught Armor",
-      "category": [
+      "item_category": [
         "Defense"
       ],
       "price": 730,
@@ -237,7 +237,7 @@
     {
       "icon": "/assets/items/guardian_helmet.png",
       "name": "Guardian Helmet",
-      "category": [
+      "item_category": [
         "Defense"
       ],
       "price": 2500,
@@ -261,7 +261,7 @@
     {
       "icon": "/assets/items/healing_necklace.png",
       "name": "Healing Necklace",
-      "category": [
+      "item_category": [
         "Defense"
       ],
       "price": 140,
@@ -276,7 +276,7 @@
     {
       "icon": "/assets/items/heros_ring.png",
       "name": "Hero's Ring",
-      "category": [
+      "item_category": [
         "Defense"
       ],
       "price": 450,
@@ -292,7 +292,7 @@
     {
       "icon": "/assets/items/immortality.png",
       "name": "Immortality",
-      "category": [
+      "item_category": [
         "Defense"
       ],
       "price": 2120,
@@ -313,7 +313,7 @@
     {
       "icon": "/assets/items/leather_jerkin.png",
       "name": "Leather Jerkin",
-      "category": [
+      "item_category": [
         "Defense"
       ],
       "price": 220,
@@ -328,7 +328,7 @@
     {
       "icon": "/assets/items/magic_resist_cloak.png",
       "name": "Magic Resist Cloak",
-      "category": [
+      "item_category": [
         "Defense"
       ],
       "price": 220,
@@ -343,7 +343,7 @@
     {
       "icon": "/assets/items/molten_essence.png",
       "name": "Molten Essence",
-      "category": [
+      "item_category": [
         "Defense"
       ],
       "price": 800,
@@ -363,7 +363,7 @@
     {
       "icon": "/assets/items/oracle.png",
       "name": "Oracle",
-      "category": [
+      "item_category": [
         "Defense"
       ],
       "price": 1860,
@@ -386,7 +386,7 @@
     {
       "icon": "/assets/items/queens_wings.png",
       "name": "Queen's Wings",
-      "category": [
+      "item_category": [
         "Defense"
       ],
       "price": 2250,
@@ -413,7 +413,7 @@
     {
       "icon": "/assets/items/radiant_armor.png",
       "name": "Radiant Armor",
-      "category": [
+      "item_category": [
         "Defense"
       ],
       "price": 1880,
@@ -434,7 +434,7 @@
     {
       "icon": "/assets/items/silence_robe.png",
       "name": "Silence Robe",
-      "category": [
+      "item_category": [
         "Defense"
       ],
       "price": 1020,
@@ -450,7 +450,7 @@
     {
       "icon": "/assets/items/steel_legplates.png",
       "name": "Steel Legplates",
-      "category": [
+      "item_category": [
         "Defense"
       ],
       "price": 630,
@@ -465,7 +465,7 @@
     {
       "icon": "/assets/items/thunder_belt.png",
       "name": "Thunder Belt",
-      "category": [
+      "item_category": [
         "Defense"
       ],
       "price": 1820,
@@ -488,7 +488,7 @@
     {
       "icon": "/assets/items/vitality_crystal.png",
       "name": "Vitality Crystal",
-      "category": [
+      "item_category": [
         "Defense"
       ],
       "price": 300,
@@ -503,7 +503,7 @@
     {
       "icon": "/assets/items/fleeting_time.png",
       "name": "Fleeting Time",
-      "category": [
+      "item_category": [
         "Attack",
         "Magic",
         "Defense"
@@ -527,7 +527,7 @@
     {
       "icon": "/assets/items/twilight_armor.png",
       "name": "Twilight Armor",
-      "category": [
+      "item_category": [
         "Defense"
       ],
       "price": 2100,

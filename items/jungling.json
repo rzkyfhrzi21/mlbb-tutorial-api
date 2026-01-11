@@ -10,13 +10,13 @@
     "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
     "description": "Data item Mobile Legends: Bang Bang kategori Jungling."
   },
-  "category": "Jungling",
+  "item_category": "Jungling",
   "total": 3,
   "data": [
     {
       "icon": "/assets/items/flame_retribution.png",
       "name": "Flame Retribution",
-      "category": [
+      "item_category": [
         "Jungling"
       ],
       "price": 0,
@@ -34,7 +34,7 @@
     {
       "icon": "/assets/items/bloody_retribution.png",
       "name": "Bloody Retribution",
-      "category": [
+      "item_category": [
         "Jungling"
       ],
       "price": 0,
@@ -52,7 +52,7 @@
     {
       "icon": "/assets/items/ice_retribution.png",
       "name": "Ice Retribution",
-      "category": [
+      "item_category": [
         "Jungling"
       ],
       "price": 0,

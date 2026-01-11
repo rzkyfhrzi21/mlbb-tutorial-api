@@ -10,15 +10,13 @@
     "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
     "description": "Data item Mobile Legends: Bang Bang kategori Roaming."
   },
-  "category": "Roaming",
+  "item_category": "Roaming",
   "total": 4,
   "data": [
     {
       "icon": "/assets/items/conceal.png",
       "name": "Conceal",
-      "category": [
-        "Roaming"
-      ],
+      "item_category": ["Roaming"],
       "price": 0,
       "sell": 0,
       "attribute": [],
@@ -39,9 +37,7 @@
     {
       "icon": "/assets/items/favor.png",
       "name": "Favor",
-      "category": [
-        "Roaming"
-      ],
+      "item_category": ["Roaming"],
       "price": 0,
       "sell": 0,
       "attribute": [],
@@ -62,9 +58,7 @@
     {
       "icon": "/assets/items/dire_hit.png",
       "name": "Dire Hit",
-      "category": [
-        "Roaming"
-      ],
+      "item_category": ["Roaming"],
       "price": 0,
       "sell": 0,
       "attribute": [],
@@ -85,9 +79,7 @@
     {
       "icon": "/assets/items/encourage.png",
       "name": "Encourage",
-      "category": [
-        "Roaming"
-      ],
+      "item_category": ["Roaming"],
       "price": 0,
       "sell": 0,
       "attribute": [],

@@ -108,10 +108,7 @@
     { "item_name": "Expert Gloves", "item_category": ["Attack", "Magic"] },
     { "item_name": "Sky Piercer", "item_category": ["Attack", "Magic"] },
     { "item_name": "Winter Crown", "item_category": ["Attack", "Magic"] },
-    {
-      "item_name": "Fleeting Time",
-      "item_category": ["Attack", "Magic", "Defense"]
-    },
+    { "item_name": "Fleeting Time", "item_category": ["Attack", "Magic", "Defense"] },
     { "item_name": "Great Dragon Spear", "item_category": ["Attack"] },
     { "item_name": "Haas's Claws", "item_category": ["Attack"] },
     { "item_name": "Calamity Reaper", "item_category": ["Magic"] },

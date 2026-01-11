@@ -10,13 +10,13 @@
     "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
     "description": "Data item Mobile Legends: Bang Bang kategori Movement."
   },
-  "category": "Movement",
+  "item_category": "Movement",
   "total": 8,
   "data": [
     {
       "icon": "/assets/items/arcane_boots.png",
       "name": "Arcane Boots",
-      "category": [
+      "item_category": [
         "Movement"
       ],
       "price": 720,
@@ -33,7 +33,7 @@
     {
       "icon": "/assets/items/boots.png",
       "name": "Boots",
-      "category": [
+      "item_category": [
         "Movement"
       ],
       "price": 250,
@@ -48,7 +48,7 @@
     {
       "icon": "/assets/items/demon_shoes.png",
       "name": "Demon Shoes",
-      "category": [
+      "item_category": [
         "Movement"
       ],
       "price": 720,
@@ -69,7 +69,7 @@
     {
       "icon": "/assets/items/magic_shoes.png",
       "name": "Magic Shoes",
-      "category": [
+      "item_category": [
         "Movement"
       ],
       "price": 720,
@@ -86,7 +86,7 @@
     {
       "icon": "/assets/items/rapid_boots.png",
       "name": "Rapid Boots",
-      "category": [
+      "item_category": [
         "Movement"
       ],
       "price": 720,
@@ -107,7 +107,7 @@
     {
       "icon": "/assets/items/swift_boots.png",
       "name": "Swift Boots",
-      "category": [
+      "item_category": [
         "Movement"
       ],
       "price": 720,
@@ -123,7 +123,7 @@
     {
       "icon": "/assets/items/tough_boots.png",
       "name": "Tough Boots",
-      "category": [
+      "item_category": [
         "Movement"
       ],
       "price": 720,
@@ -144,7 +144,7 @@
     {
       "icon": "/assets/items/warrior_boots.png",
       "name": "Warrior Boots",
-      "category": [
+      "item_category": [
         "Movement"
       ],
       "price": 720,
