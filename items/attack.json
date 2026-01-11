@@ -1,0 +1,692 @@
+{
+  "meta": {
+    "title": "items_attack_api",
+    "patch_notes": "27-11-2025",
+    "author": {
+      "Adji Rivaldi": "https://www.instagram.com/rrival_dii/",
+      "Dimas Sadewa": "https://www.instagram.com/d.dewaaaa/",
+      "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
+    },
+    "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
+    "description": "Data item Mobile Legends: Bang Bang kategori Attack."
+  },
+  "category": "Attack",
+  "total": 31,
+  "data": [
+    {
+      "icon": "/assets/items/blade_of_despair.png",
+      "name": "Blade of Despair",
+      "category": [
+        "Attack"
+      ],
+      "price": 3010,
+      "sell": 1806,
+      "attribute": [
+        "+160 Physical Attack",
+        "+5% Movement Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Despair",
+          "desc": "Saat memberikan damage ke musuh (bukan minion) dengan HP di bawah 50%, memperoleh tambahan 25% Physical Attack selama 2 detik."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/demon_hunter_sword.png",
+      "name": "Demon Hunter Sword",
+      "category": [
+        "Attack"
+      ],
+      "price": 2180,
+      "sell": 1308,
+      "attribute": [
+        "+35 Physical Attack",
+        "+25% Attack Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Devour",
+          "desc": "Basic Attack memberikan Physical Damage tambahan setara 8% HP saat ini milik target (dibatasi untuk minion/creep) dan memberikan 3% Physical Lifesteal tambahan selama 3 detik, dapat ditumpuk hingga 5 kali."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/berserkers_fury.png",
+      "name": "Berserker's Fury",
+      "category": [
+        "Attack"
+      ],
+      "price": 2390,
+      "sell": 1434,
+      "attribute": [
+        "+65 Physical Attack",
+        "+25% Critical Chance"
+      ],
+      "unique_attribute": [
+        {
+          "name": "Critical Damage",
+          "desc": "Meningkatkan Critical Damage sebesar 40%."
+        }
+      ],
+      "unique_passive": [
+        {
+          "name": "Doom",
+          "desc": "Serangan critical meningkatkan Physical Attack sebesar 5% selama 2 detik."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/malefic_roar.png",
+      "name": "Malefic Roar",
+      "category": [
+        "Attack"
+      ],
+      "price": 2060,
+      "sell": 1236,
+      "attribute": [
+        "+60 Physical Attack"
+      ],
+      "unique_attribute": [
+        {
+          "name": "Physical Penetration",
+          "desc": "Memberikan +30% Physical Penetration dan tambahan hingga 30% lagi berdasarkan Physical Defense musuh."
+        }
+      ],
+      "unique_passive": [
+        {
+          "name": "Armor Buster",
+          "desc": "Semakin tinggi Physical Defense musuh, semakin besar efek penetrasi armor yang diperoleh."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/hunter_strike.png",
+      "name": "Hunter Strike",
+      "category": [
+        "Attack"
+      ],
+      "price": 2010,
+      "sell": 1206,
+      "attribute": [
+        "+80 Physical Attack",
+        "+10% Cooldown Reduction"
+      ],
+      "unique_attribute": [
+        {
+          "name": "Physical Penetration",
+          "desc": "+15 Physical Penetration."
+        }
+      ],
+      "unique_passive": [
+        {
+          "name": "Retribution",
+          "desc": "Memberikan damage ke hero atau creep yang sama sebanyak 5 kali berturut-turut akan memberikan 50% Movement Speed tambahan yang berkurang selama 3 detik (cooldown sekitar 8 detik)."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/windtalker.png",
+      "name": "Windtalker",
+      "category": [
+        "Attack"
+      ],
+      "price": 1870,
+      "sell": 1122,
+      "attribute": [
+        "+40% Attack Speed",
+        "+20 Movement Speed",
+        "+10% Critical Chance"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Typhoon",
+          "desc": "Setiap beberapa detik, Basic Attack mengenai hingga 3 unit musuh dan memberikan 150–362 Magic Damage tambahan. Kecepatan aktif bergantung pada Attack Speed dan Critical Chance. Setiap kali aktif, Movement Speed meningkat 5% sementara."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/endless_battle.png",
+      "name": "Endless Battle",
+      "category": [
+        "Attack"
+      ],
+      "price": 2470,
+      "sell": 1482,
+      "attribute": [
+        "+65 Physical Attack",
+        "+25 Magic Power",
+        "+250 HP",
+        "+10% Cooldown Reduction",
+        "+5% Movement Speed",
+        "+10% Physical Lifesteal"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Divine Justice",
+          "desc": "Dalam 3 detik setelah menggunakan skill, Basic Attack berikutnya memberikan True Damage tambahan sekitar 60% dari Physical Attack."
+        },
+        {
+          "name": "Chase Fate",
+          "desc": "Saat Divine Justice aktif, Movement Speed meningkat sekitar 10% selama beberapa saat."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/sea_halberd.png",
+      "name": "Sea Halberd",
+      "category": [
+        "Attack"
+      ],
+      "price": 2150,
+      "sell": 1290,
+      "attribute": [
+        "+80 Physical Attack",
+        "+20% Attack Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Lifebane",
+          "desc": "Memberikan damage ke musuh mengurangi efek Shield dan HP Regen mereka menjadi 60% selama 3 detik."
+        },
+        {
+          "name": "Punish",
+          "desc": "Memberikan 8% damage tambahan kepada hero musuh yang memiliki HP ekstra lebih tinggi."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/corrosion_scythe.png",
+      "name": "Corrosion Scythe",
+      "category": [
+        "Attack"
+      ],
+      "price": 2050,
+      "sell": 1230,
+      "attribute": [
+        "+30 Physical Attack",
+        "+30% Attack Speed",
+        "+5 Movement Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Corrosive",
+          "desc": "Basic Attack memberikan 80 Physical Damage tambahan dan mengurangi Movement Speed target selama 1,5 detik (efek slow lebih kecil untuk serangan jarak jauh). Dapat ditumpuk hingga 5 kali."
+        },
+        {
+          "name": "Impulse",
+          "desc": "Basic Attack memberikan 6% Attack Speed tambahan selama 3 detik, dapat ditumpuk hingga 5 kali."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/golden_staff.png",
+      "name": "Golden Staff",
+      "category": [
+        "Attack"
+      ],
+      "price": 2000,
+      "sell": 1200,
+      "attribute": [
+        "+55 Physical Attack",
+        "+15% Attack Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Swift",
+          "desc": "Setiap 1% Critical Chance yang diperoleh diubah menjadi 1% Attack Speed."
+        },
+        {
+          "name": "Endless Strike",
+          "desc": "Setelah 2 Basic Attack tanpa critical, Basic Attack berikutnya memiliki Attack Speed sangat tinggi dan memicu efek serangan tambahan 2 kali."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/bloodlust_axe.png",
+      "name": "Bloodlust Axe",
+      "category": [
+        "Attack"
+      ],
+      "price": 1970,
+      "sell": 1182,
+      "attribute": [
+        "+70 Physical Attack"
+      ],
+      "unique_attribute": [
+        {
+          "name": "Cooldown Reduction",
+          "desc": "+10% Cooldown Reduction."
+        }
+      ],
+      "unique_passive": [
+        {
+          "name": "Bloodlust",
+          "desc": "Skill yang mengenai musuh memulihkan sekitar 15% damage sebagai HP (Spell Vamp)."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/war_axe.png",
+      "name": "War Axe",
+      "category": [
+        "Attack"
+      ],
+      "price": 2100,
+      "sell": 1260,
+      "attribute": [
+        "+35 Physical Attack",
+        "+400 HP",
+        "+10% Cooldown Reduction",
+        "+12% Spell Vamp"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Fighting Spirit",
+          "desc": "Memberikan damage akan menambah 1 stack yang meningkatkan Physical Attack selama beberapa detik hingga maksimal 6 stack. Pada stack penuh, damage tambahan berupa True Damage sekitar 10% dari damage yang diberikan. Hero Marksman/Mage/Support hanya menerima 50% efek stack."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/rose_gold_meteor.png",
+      "name": "Rose Gold Meteor",
+      "category": [
+        "Attack"
+      ],
+      "price": 2030,
+      "sell": 1218,
+      "attribute": [
+        "+40 Physical Attack",
+        "+20% Attack Speed",
+        "+10% Lifesteal"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Dragon Scale",
+          "desc": "Setiap 1% Lifesteal memberikan 1 poin Hybrid Defense hingga maksimal 50 (efek berkurang untuk non-Fighter)."
+        },
+        {
+          "name": "Lifeline",
+          "desc": "Saat HP turun di bawah 30%, memberikan shield sebesar 120 × level hero dan Movement Speed tambahan 50% yang perlahan berkurang selama 3 detik (cooldown 60 detik)."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/regular_spear.png",
+      "name": "Regular Spear",
+      "category": [
+        "Attack"
+      ],
+      "price": 600,
+      "sell": 360,
+      "attribute": [
+        "+20 Physical Attack",
+        "+10% Attack Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/swift_crossbow.png",
+      "name": "Swift Crossbow",
+      "category": [
+        "Attack"
+      ],
+      "price": 1000,
+      "sell": 600,
+      "attribute": [
+        "+20% Attack Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Crossbow",
+          "desc": "Setiap Basic Attack memberikan 40 Adaptive Damage tambahan."
+        },
+        {
+          "name": "Impulse",
+          "desc": "Basic Attack memberikan 3% Attack Speed tambahan selama 3 detik, dapat ditumpuk hingga 5 kali."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/power_potion.png",
+      "name": "Power Potion",
+      "category": [
+        "Attack"
+      ],
+      "price": 1500,
+      "sell": null,
+      "attribute": [
+        "+30 Physical Attack",
+        "+5% Physical Lifesteal"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": [
+        {
+          "name": "Increase Power",
+          "desc": "Memberikan buff selama sekitar 120 detik setelah dibeli: +30 Physical Attack dan +5% Physical Lifesteal. Hanya satu potion yang bisa aktif dalam satu waktu."
+        }
+      ]
+    },
+    {
+      "icon": "/assets/items/dagger.png",
+      "name": "Dagger",
+      "category": [
+        "Attack"
+      ],
+      "price": 250,
+      "sell": 150,
+      "attribute": [
+        "+15 Physical Attack"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/rogue_meteor.png",
+      "name": "Rogue Meteor",
+      "category": [
+        "Attack"
+      ],
+      "price": 900,
+      "sell": 540,
+      "attribute": [
+        "+15% Attack Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/fury_hammer.png",
+      "name": "Fury Hammer",
+      "category": [
+        "Attack"
+      ],
+      "price": 830,
+      "sell": 498,
+      "attribute": [
+        "+35 Physical Attack"
+      ],
+      "unique_attribute": [
+        {
+          "name": "Physical Penetration",
+          "desc": "+12 Physical Penetration."
+        }
+      ],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/magic_blade.png",
+      "name": "Magic Blade",
+      "category": [
+        "Attack"
+      ],
+      "price": 1050,
+      "sell": 630,
+      "attribute": [
+        "+35 Physical Attack",
+        "+10% Lifesteal"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Lifeline",
+          "desc": "Saat HP turun di bawah 30%, memberikan shield sebesar 60 × level hero dan Movement Speed tambahan 50% yang perlahan berkurang selama 3 detik (cooldown 60 detik)."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/ogre_tomahawk.png",
+      "name": "Ogre Tomahawk",
+      "category": [
+        "Attack"
+      ],
+      "price": 650,
+      "sell": 390,
+      "attribute": [
+        "+25 Physical Attack",
+        "+230 HP"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Angry",
+          "desc": "Basic Attack meningkatkan Movement Speed sekitar 10% selama beberapa saat."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/legion_sword.png",
+      "name": "Legion Sword",
+      "category": [
+        "Attack"
+      ],
+      "price": 910,
+      "sell": 546,
+      "attribute": [
+        "+60 Physical Attack"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/iron_hunting_bow.png",
+      "name": "Iron Hunting Bow",
+      "category": [
+        "Attack"
+      ],
+      "price": 450,
+      "sell": 270,
+      "attribute": [
+        "+10 Physical Attack",
+        "+5% Cooldown Reduction"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/deadly_blade.png",
+      "name": "Deadly Blade",
+      "category": [
+        "Attack"
+      ],
+      "price": 1500,
+      "sell": 900,
+      "attribute": [
+        "+50 Physical Attack",
+        "+15% Attack Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Life Drain",
+          "desc": "Basic Attack mengurangi efek HP Regen dan Lifesteal target sekitar 50% selama kurang lebih 3 detik."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/vampire_mallet.png",
+      "name": "Vampire Mallet",
+      "category": [
+        "Attack"
+      ],
+      "price": 400,
+      "sell": 240,
+      "attribute": [
+        "+8 Physical Attack",
+        "+8% Lifesteal"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/expert_gloves.png",
+      "name": "Expert Gloves",
+      "category": [
+        "Attack",
+        "Magic"
+      ],
+      "price": 500,
+      "sell": 300,
+      "attribute": [
+        "+30 Physical Attack"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/sky_piercer.png",
+      "name": "Sky Piercer",
+      "category": [
+        "Attack",
+        "Magic"
+      ],
+      "price": 1500,
+      "sell": 900,
+      "attribute": [
+        "+60 Physical Attack",
+        "+15 Movement Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Lethality",
+          "desc": "Setelah memberikan damage ke hero musuh, mengeksekusi target jika HP mereka di bawah batas tertentu. Batas HP eksekusi meningkat setiap kali mendapatkan stack Lethality dari kill, dan berkurang sebagian saat mati."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/winter_crown.png",
+      "name": "Winter Crown",
+      "category": [
+        "Attack",
+        "Magic"
+      ],
+      "price": 1910,
+      "sell": 1146,
+      "attribute": [
+        "+45 Physical Attack",
+        "+400 HP",
+        "+5% Cooldown Reduction"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": [
+        {
+          "name": "Frozen",
+          "desc": "Mengaktifkan efek beku yang membuat hero kebal terhadap semua damage dan tidak dapat ditarget selama 2 detik, namun tidak bisa bergerak atau menggunakan skill baru (skill yang sudah aktif tidak dibatalkan)."
+        }
+      ]
+    },
+    {
+      "icon": "/assets/items/fleeting_time.png",
+      "name": "Fleeting Time",
+      "category": [
+        "Attack",
+        "Magic",
+        "Defense"
+      ],
+      "price": 2050,
+      "sell": 1230,
+      "attribute": [
+        "+30 Physical Attack",
+        "+600 HP",
+        "+15% Cooldown Reduction"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Timestream",
+          "desc": "Mendapatkan kill atau assist akan mengurangi cooldown Ultimate saat ini sebesar 30%."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/great_dragon_spear.png",
+      "name": "Great Dragon Spear",
+      "category": [
+        "Attack"
+      ],
+      "price": 2140,
+      "sell": 1284,
+      "attribute": [
+        "+70 Physical Attack",
+        "+10% Cooldown Reduction",
+        "+20% Critical Chance"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Supreme Warrior",
+          "desc": "Setelah menggunakan Ultimate, Movement Speed meningkat sebesar 30% selama 7.5 detik. Efek ini memiliki cooldown sekitar 15 detik."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/haas_claws.png",
+      "name": "Haas's Claws",
+      "category": [
+        "Attack"
+      ],
+      "price": 2020,
+      "sell": 1212,
+      "attribute": [
+        "+40 Physical Attack",
+        "+15% Attack Speed",
+        "+20% Critical Chance"
+      ],
+      "unique_attribute": [
+        {
+          "name": "Lifesteal",
+          "desc": "+20% Physical Lifesteal."
+        }
+      ],
+      "unique_passive": [
+        {
+          "name": "Frenzy",
+          "desc": "Serangan critical memberikan tambahan 20% Attack Speed selama 2 detik."
+        }
+      ],
+      "unique_active": []
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "title": "items_movement_api",
+    "patch_notes": "27-11-2025",
+    "author": {
+      "Adji Rivaldi": "https://www.instagram.com/rrival_dii/",
+      "Dimas Sadewa": "https://www.instagram.com/d.dewaaaa/",
+      "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
+    },
+    "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
+    "description": "Data item Mobile Legends: Bang Bang kategori Movement."
+  },
+  "category": "Movement",
+  "total": 8,
+  "data": [
+    {
+      "icon": "/assets/items/arcane_boots.png",
+      "name": "Arcane Boots",
+      "category": [
+        "Movement"
+      ],
+      "price": 720,
+      "sell": 432,
+      "attribute": [
+        "+15 Magic Power",
+        "+40 Movement Speed",
+        "+10 Magic Penetration"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/boots.png",
+      "name": "Boots",
+      "category": [
+        "Movement"
+      ],
+      "price": 250,
+      "sell": 150,
+      "attribute": [
+        "+20 Movement Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/demon_shoes.png",
+      "name": "Demon Shoes",
+      "category": [
+        "Movement"
+      ],
+      "price": 720,
+      "sell": 432,
+      "attribute": [
+        "+10 Magic Power",
+        "+40 Movement Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Mysticism",
+          "desc": "Membunuh minion atau mendapatkan assist terhadap minion memulihkan sebagian Mana."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/magic_shoes.png",
+      "name": "Magic Shoes",
+      "category": [
+        "Movement"
+      ],
+      "price": 720,
+      "sell": 432,
+      "attribute": [
+        "+150 HP",
+        "+40 Movement Speed",
+        "+10% Cooldown Reduction"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/rapid_boots.png",
+      "name": "Rapid Boots",
+      "category": [
+        "Movement"
+      ],
+      "price": 720,
+      "sell": 432,
+      "attribute": [
+        "+12 HP",
+        "+65 Movement Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Side Effect",
+          "desc": "Kehilangan 20 Movement Speed selama 5 detik setelah memberikan atau menerima damage."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/swift_boots.png",
+      "name": "Swift Boots",
+      "category": [
+        "Movement"
+      ],
+      "price": 720,
+      "sell": 432,
+      "attribute": [
+        "+15% Attack Speed",
+        "+40 Movement Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/tough_boots.png",
+      "name": "Tough Boots",
+      "category": [
+        "Movement"
+      ],
+      "price": 720,
+      "sell": 432,
+      "attribute": [
+        "+18 Magic Defense",
+        "+40 Movement Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Fortitude",
+          "desc": "Durasi crowd control dan slow yang diterima berkurang sebesar 25%."
+        }
+      ],
+      "unique_active": []
+    },
+    {
+      "icon": "/assets/items/warrior_boots.png",
+      "name": "Warrior Boots",
+      "category": [
+        "Movement"
+      ],
+      "price": 720,
+      "sell": 432,
+      "attribute": [
+        "+18 Physical Defense",
+        "+40 Movement Speed"
+      ],
+      "unique_attribute": [],
+      "unique_passive": [
+        {
+          "name": "Valor",
+          "desc": "Saat menerima Physical Damage, Physical Defense meningkat 4 selama 3 detik, dapat ditumpuk hingga 20."
+        }
+      ],
+      "unique_active": []
+    }
+  ]
+}

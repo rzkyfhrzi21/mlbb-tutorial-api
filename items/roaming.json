@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "title": "items_roaming_api",
+    "patch_notes": "27-11-2025",
+    "author": {
+      "Adji Rivaldi": "https://www.instagram.com/rrival_dii/",
+      "Dimas Sadewa": "https://www.instagram.com/d.dewaaaa/",
+      "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
+    },
+    "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
+    "description": "Data item Mobile Legends: Bang Bang kategori Roaming."
+  },
+  "category": "Roaming",
+  "total": 4,
+  "data": [
+    {
+      "icon": "/assets/items/conceal.png",
+      "name": "Conceal",
+      "category": [
+        "Roaming"
+      ],
+      "price": 0,
+      "sell": 0,
+      "attribute": [],
+      "unique_attribute": [
+        {
+          "name": "Thriving Requirement",
+          "desc": "Efek Conceal aktif setelah pengguna mengumpulkan sekitar 600 Gold dari efek Thriving (maksimal 1500)."
+        }
+      ],
+      "unique_passive": [],
+      "unique_active": [
+        {
+          "name": "Conceal",
+          "desc": "Menyamarkan pengguna dan rekan tim di sekitar, serta memberikan Movement Speed tambahan yang meningkat sesuai Gold dari Thriving selama beberapa detik."
+        }
+      ]
+    },
+    {
+      "icon": "/assets/items/favor.png",
+      "name": "Favor",
+      "category": [
+        "Roaming"
+      ],
+      "price": 0,
+      "sell": 0,
+      "attribute": [],
+      "unique_attribute": [
+        {
+          "name": "Thriving Requirement",
+          "desc": "Efek Favor aktif setelah pengguna mengumpulkan sekitar 600 Gold dari efek Thriving (maksimal 1500)."
+        }
+      ],
+      "unique_passive": [],
+      "unique_active": [
+        {
+          "name": "Favor",
+          "desc": "Setiap 10 detik, skill heal atau shield berikutnya memberikan 240–600 HP tambahan (skala dengan Gold dari Thriving) ke hero tim dengan HP terendah dalam jarak tertentu."
+        }
+      ]
+    },
+    {
+      "icon": "/assets/items/dire_hit.png",
+      "name": "Dire Hit",
+      "category": [
+        "Roaming"
+      ],
+      "price": 0,
+      "sell": 0,
+      "attribute": [],
+      "unique_attribute": [
+        {
+          "name": "Thriving Requirement",
+          "desc": "Efek Dire Hit aktif setelah pengguna mengumpulkan sekitar 600 Gold dari efek Thriving (maksimal 1500)."
+        }
+      ],
+      "unique_passive": [],
+      "unique_active": [
+        {
+          "name": "Dire Hit",
+          "desc": "Setiap 30 detik, serangan berikutnya ke hero musuh dengan HP di bawah 35% memberikan 7–18% Max HP mereka sebagai Hybrid Damage tambahan."
+        }
+      ]
+    },
+    {
+      "icon": "/assets/items/encourage.png",
+      "name": "Encourage",
+      "category": [
+        "Roaming"
+      ],
+      "price": 0,
+      "sell": 0,
+      "attribute": [],
+      "unique_attribute": [
+        {
+          "name": "Thriving Requirement",
+          "desc": "Efek Encourage aktif setelah pengguna mengumpulkan sekitar 600 Gold dari efek Thriving (maksimal 1500)."
+        }
+      ],
+      "unique_passive": [],
+      "unique_active": [
+        {
+          "name": "Encourage",
+          "desc": "Memberikan Physical Attack, Magic Power, dan 15% Attack Speed tambahan ke rekan tim di sekitar (termasuk pengguna), skala dengan Gold dari Thriving."
+        }
+      ]
+    }
+  ]
+}

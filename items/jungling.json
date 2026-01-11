@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "title": "items_jungling_api",
+    "patch_notes": "27-11-2025",
+    "author": {
+      "Adji Rivaldi": "https://www.instagram.com/rrival_dii/",
+      "Dimas Sadewa": "https://www.instagram.com/d.dewaaaa/",
+      "Rizky Fahrezi": "https://www.instagram.com/rzkydev666/"
+    },
+    "source": "https://github.com/rzkyfhrzi21/mlbb-tutorial-api",
+    "description": "Data item Mobile Legends: Bang Bang kategori Jungling."
+  },
+  "category": "Jungling",
+  "total": 3,
+  "data": [
+    {
+      "icon": "/assets/items/flame_retribution.png",
+      "name": "Flame Retribution",
+      "category": [
+        "Jungling"
+      ],
+      "price": 0,
+      "sell": 0,
+      "attribute": [],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": [
+        {
+          "name": "Flame Retribution",
+          "desc": "Meningkatkan damage Retribution ke creep dan minion. Saat digunakan ke hero musuh, memberikan True Damage dan mencuri Physical Attack dan Magic Power mereka selama beberapa detik."
+        }
+      ]
+    },
+    {
+      "icon": "/assets/items/bloody_retribution.png",
+      "name": "Bloody Retribution",
+      "category": [
+        "Jungling"
+      ],
+      "price": 0,
+      "sell": 0,
+      "attribute": [],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": [
+        {
+          "name": "Bloody Retribution",
+          "desc": "Retribution ke creep dan minion meningkat menjadi 150%. Saat digunakan ke hero musuh, memberikan 100 True Damage dan mencuri HP sebesar 250 + 20% Extra HP pengguna selama 4 detik."
+        }
+      ]
+    },
+    {
+      "icon": "/assets/items/ice_retribution.png",
+      "name": "Ice Retribution",
+      "category": [
+        "Jungling"
+      ],
+      "price": 0,
+      "sell": 0,
+      "attribute": [],
+      "unique_attribute": [],
+      "unique_passive": [],
+      "unique_active": [
+        {
+          "name": "Ice Retribution",
+          "desc": "Retribution ke creep dan minion meningkat menjadi 150%. Saat digunakan ke hero musuh, memberikan 100 True Damage dan mencuri 72–100 Movement Speed dari target selama 4 detik."
+        }
+      ]
+    }
+  ]
+}
