@@ -15,147 +15,292 @@
       "hero_name": "Aamon",
       "hero_id": "h021",
       "hero_icon": "aamon.webp",
-      "hero_url": "aamon.json"
+      "hero_url": "aamon.json",
+      "laning": [
+        "jungle"
+      ],
+      "role": [
+        "Assassin"
+      ]
     },
     {
       "hero_name": "Akai",
       "hero_id": "h012",
       "hero_icon": "akai.webp",
-      "hero_url": "akai.json"
+      "hero_url": "akai.json",
+      "laning": [
+        "roam",
+        "jungle"
+      ],
+      "role": [
+        "Tank"
+      ]
     },
     {
       "hero_name": "Alice",
       "hero_id": "h004",
       "hero_icon": "alice.webp",
-      "hero_url": "alice.json"
+      "hero_url": "alice.json",
+      "laning": [
+        "exp"
+      ],
+      "role": [
+        "Mage",
+        "Tank"
+      ]
     },
     {
       "hero_name": "Alucard",
       "hero_id": "h007",
       "hero_icon": "alucard.webp",
-      "hero_url": "alucard.json"
+      "hero_url": "alucard.json",
+      "laning": [
+        "jungle",
+        "exp"
+      ],
+      "role": [
+        "Fighter",
+        "Assassin"
+      ]
     },
     {
       "hero_name": "Balmond",
       "hero_id": "h002",
       "hero_icon": "balmond.webp",
-      "hero_url": "balmond.json"
+      "hero_url": "balmond.json",
+      "laning": [
+        "exp",
+        "jungle"
+      ],
+      "role": [
+        "Fighter",
+        "Tank"
+      ]
     },
     {
       "hero_name": "Bane",
       "hero_id": "h014",
       "hero_icon": "bane.webp",
-      "hero_url": "bane.json"
+      "hero_url": "bane.json",
+      "laning": [
+        "exp",
+        "jungle"
+      ],
+      "role": [
+        "Fighter",
+        "Mage"
+      ]
     },
     {
       "hero_name": "Bruno",
       "hero_id": "h015",
       "hero_icon": "bruno.webp",
-      "hero_url": "bruno.json"
+      "hero_url": "bruno.json",
+      "laning": [
+        "gold"
+      ],
+      "role": [
+        "Marksman"
+      ]
     },
     {
       "hero_name": "Clint",
       "hero_id": "h016",
       "hero_icon": "clint.webp",
-      "hero_url": "clint.json"
+      "hero_url": "clint.json",
+      "laning": [
+        "gold"
+      ],
+      "role": [
+        "Marksman"
+      ]
     },
     {
       "hero_name": "Default",
       "hero_id": "h999",
       "hero_icon": "default.webp",
-      "hero_url": "franco.json"
+      "hero_url": "franco.json",
+      "laning": [
+        "roam"
+      ],
+      "role": [
+        "Tank"
+      ]
     },
     {
       "hero_name": "Eudora",
       "hero_id": "h008",
       "hero_icon": "eudora.webp",
-      "hero_url": "eudora.json"
+      "hero_url": "eudora.json",
+      "laning": [
+        "mid"
+      ],
+      "role": [
+        "Mage"
+      ]
     },
     {
       "hero_name": "Fanny",
       "hero_id": "h018",
       "hero_icon": "fanny.webp",
-      "hero_url": "fanny.json"
+      "hero_url": "fanny.json",
+      "laning": [
+        "jungle"
+      ],
+      "role": [
+        "Assassin"
+      ]
     },
     {
       "hero_name": "Franco",
       "hero_id": "h013",
       "hero_icon": "franco.webp",
-      "hero_url": "franco.json"
+      "hero_url": "franco.json",
+      "laning": [
+        "roam"
+      ],
+      "role": [
+        "Tank"
+      ]
     },
     {
       "hero_name": "Karina",
       "hero_id": "h011",
       "hero_icon": "karina.webp",
-      "hero_url": "karina.json"
+      "hero_url": "karina.json",
+      "laning": [
+        "jungle"
+      ],
+      "role": [
+        "Assassin"
+      ]
     },
     {
       "hero_name": "Layla",
       "hero_id": "h010",
       "hero_icon": "layla.webp",
-      "hero_url": "layla.json"
+      "hero_url": "layla.json",
+      "laning": [
+        "gold"
+      ],
+      "role": [
+        "Marksman"
+      ]
     },
     {
       "hero_name": "Leomord",
       "hero_id": "h022",
       "hero_icon": "leomord.webp",
-      "hero_url": "leomord.json"
+      "hero_url": "leomord.json",
+      "laning": [
+        "gold"
+      ],
+      "role": [
+        "Marksman"
+      ]
     },
     {
       "hero_name": "Lolita",
       "hero_id": "h020",
       "hero_icon": "lolita.webp",
-      "hero_url": "lolita.json"
+      "hero_url": "lolita.json",
+      "laning": [
+        "roam"
+      ],
+      "role": [
+        "Tank",
+        "Support"
+      ]
     },
     {
       "hero_name": "Minotaur",
       "hero_id": "h019",
       "hero_icon": "minotaur.webp",
-      "hero_url": "minotaur.json"
+      "hero_url": "minotaur.json",
+      "laning": [
+        "roam"
+      ],
+      "role": [
+        "Tank",
+        "Support"
+      ]
     },
     {
       "hero_name": "Miya",
       "hero_id": "h001",
       "hero_icon": "miya.webp",
-      "hero_url": "miya.json"
+      "hero_url": "miya.json",
+      "laning": [
+        "gold"
+      ],
+      "role": [
+        "Marksman"
+      ]
     },
     {
       "hero_name": "Nana",
       "hero_id": "h005",
       "hero_icon": "nana.webp",
-      "hero_url": "nana.json"
+      "hero_url": "nana.json",
+      "laning": [
+        "mid"
+      ],
+      "role": [
+        "Mage",
+        "Support"
+      ]
     },
     {
       "hero_name": "Rafaela",
       "hero_id": "h017",
       "hero_icon": "rafaela.webp",
-      "hero_url": "rafaela.json"
+      "hero_url": "rafaela.json",
+      "laning": [
+        "roam",
+        "mid"
+      ],
+      "role": [
+        "Support"
+      ]
     },
     {
       "hero_name": "Saber",
       "hero_id": "h003",
       "hero_icon": "saber.webp",
-      "hero_url": "saber.json"
+      "hero_url": "saber.json",
+      "laning": [
+        "jungle",
+        "roam"
+      ],
+      "role": [
+        "Assassin"
+      ]
     },
     {
       "hero_name": "Tigreal",
       "hero_id": "h006",
       "hero_icon": "tigreal.webp",
-      "hero_url": "tigreal.json"
+      "hero_url": "tigreal.json",
+      "laning": [
+        "roam"
+      ],
+      "role": [
+        "Tank"
+      ]
     },
     {
       "hero_name": "Zilong",
       "hero_id": "h009",
       "hero_icon": "zilong.webp",
-      "hero_url": "zilong.json"
+      "hero_url": "zilong.json",
+      "laning": [
+        "exp",
+        "jungle"
+      ],
+      "role": [
+        "Fighter",
+        "Assassin"
+      ]
     }
-  ],
-  "role": [
-    { "role": "Assasin" },
-    { "role": "Marksman" },
-    { "role": "Mage" },
-    { "role": "Fighter" },
-    { "role": "Tank" },
-    { "role": "Support" }
   ]
 }
