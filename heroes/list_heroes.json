@@ -149,5 +149,13 @@
       "hero_icon": "zilong.webp",
       "hero_url": "zilong.json"
     }
+  ],
+  "role": [
+    { "role": "Assasin" },
+    { "role": "Marksman" },
+    { "role": "Mage" },
+    { "role": "Fighter" },
+    { "role": "Tank" },
+    { "role": "Support" }
   ]
 }
