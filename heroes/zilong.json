@@ -35,7 +35,7 @@
     "skills": [
       {
         "skill_name": "Dragon Flurry",
-        "skill_icon": "Dragon_Flurry.webp",
+        "skill_icon": "dragon_flurry.webp",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
@@ -47,7 +47,7 @@
       },
       {
         "skill_name": "Spear Flip",
-        "skill_icon": "Spear_Flip.webp",
+        "skill_icon": "spear_flip.webp",
         "type": "active",
         "cooldown": [
           10,
@@ -68,7 +68,7 @@
       },
       {
         "skill_name": "Spear Strike",
-        "skill_icon": "Spear_Strike.webp",
+        "skill_icon": "spear_strike.webp",
         "type": "active",
         "cooldown": [
           10,
@@ -89,7 +89,7 @@
       },
       {
         "skill_name": "Supreme Warrior",
-        "skill_icon": "Supreme_Warrior.webp",
+        "skill_icon": "supreme_warrior.webp",
         "type": "ultimate",
         "cooldown": [
           40,

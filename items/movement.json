@@ -14,11 +14,9 @@
   "total": 8,
   "data": [
     {
-      "icon": "/assets/items/arcane_boots.png",
+      "icon": "arcane_boots.webp",
       "name": "Arcane Boots",
-      "item_category": [
-        "Movement"
-      ],
+      "item_category": ["Movement"],
       "price": 720,
       "sell": 432,
       "attribute": [
@@ -31,32 +29,23 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/boots.png",
+      "icon": "boots.webp",
       "name": "Boots",
-      "item_category": [
-        "Movement"
-      ],
+      "item_category": ["Movement"],
       "price": 250,
       "sell": 150,
-      "attribute": [
-        "+20 Movement Speed"
-      ],
+      "attribute": ["+20 Movement Speed"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
     },
     {
-      "icon": "/assets/items/demon_shoes.png",
+      "icon": "demon_shoes.webp",
       "name": "Demon Shoes",
-      "item_category": [
-        "Movement"
-      ],
+      "item_category": ["Movement"],
       "price": 720,
       "sell": 432,
-      "attribute": [
-        "+10 Magic Power",
-        "+40 Movement Speed"
-      ],
+      "attribute": ["+10 Magic Power", "+40 Movement Speed"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -67,34 +56,23 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/magic_shoes.png",
+      "icon": "magic_shoes.webp",
       "name": "Magic Shoes",
-      "item_category": [
-        "Movement"
-      ],
+      "item_category": ["Movement"],
       "price": 720,
       "sell": 432,
-      "attribute": [
-        "+150 HP",
-        "+40 Movement Speed",
-        "+10% Cooldown Reduction"
-      ],
+      "attribute": ["+150 HP", "+40 Movement Speed", "+10% Cooldown Reduction"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
     },
     {
-      "icon": "/assets/items/rapid_boots.png",
+      "icon": "rapid_boots.webp",
       "name": "Rapid Boots",
-      "item_category": [
-        "Movement"
-      ],
+      "item_category": ["Movement"],
       "price": 720,
       "sell": 432,
-      "attribute": [
-        "+12 HP",
-        "+65 Movement Speed"
-      ],
+      "attribute": ["+12 HP", "+65 Movement Speed"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -105,33 +83,23 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/swift_boots.png",
+      "icon": "swift_boots.webp",
       "name": "Swift Boots",
-      "item_category": [
-        "Movement"
-      ],
+      "item_category": ["Movement"],
       "price": 720,
       "sell": 432,
-      "attribute": [
-        "+15% Attack Speed",
-        "+40 Movement Speed"
-      ],
+      "attribute": ["+15% Attack Speed", "+40 Movement Speed"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
     },
     {
-      "icon": "/assets/items/tough_boots.png",
+      "icon": "tough_boots.webp",
       "name": "Tough Boots",
-      "item_category": [
-        "Movement"
-      ],
+      "item_category": ["Movement"],
       "price": 720,
       "sell": 432,
-      "attribute": [
-        "+18 Magic Defense",
-        "+40 Movement Speed"
-      ],
+      "attribute": ["+18 Magic Defense", "+40 Movement Speed"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -142,17 +110,12 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/warrior_boots.png",
+      "icon": "warrior_boots.webp",
       "name": "Warrior Boots",
-      "item_category": [
-        "Movement"
-      ],
+      "item_category": ["Movement"],
       "price": 720,
       "sell": 432,
-      "attribute": [
-        "+18 Physical Defense",
-        "+40 Movement Speed"
-      ],
+      "attribute": ["+18 Physical Defense", "+40 Movement Speed"],
       "unique_attribute": [],
       "unique_passive": [
         {

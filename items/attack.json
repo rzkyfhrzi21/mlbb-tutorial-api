@@ -14,17 +14,12 @@
   "total": 31,
   "data": [
     {
-      "icon": "/assets/items/blade_of_despair.png",
+      "icon": "blade_of_despair.webp",
       "name": "Blade of Despair",
-      "item_category": [
-        "Attack"
-      ],
+      "item_category": ["Attack"],
       "price": 3010,
       "sell": 1806,
-      "attribute": [
-        "+160 Physical Attack",
-        "+5% Movement Speed"
-      ],
+      "attribute": ["+160 Physical Attack", "+5% Movement Speed"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -35,17 +30,12 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/demon_hunter_sword.png",
+      "icon": "demon_hunter_sword.webp",
       "name": "Demon Hunter Sword",
-      "item_category": [
-        "Attack"
-      ],
+      "item_category": ["Attack"],
       "price": 2180,
       "sell": 1308,
-      "attribute": [
-        "+35 Physical Attack",
-        "+25% Attack Speed"
-      ],
+      "attribute": ["+35 Physical Attack", "+25% Attack Speed"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -56,17 +46,12 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/berserkers_fury.png",
+      "icon": "berserkers_fury.webp",
       "name": "Berserker's Fury",
-      "item_category": [
-        "Attack"
-      ],
+      "item_category": ["Attack"],
       "price": 2390,
       "sell": 1434,
-      "attribute": [
-        "+65 Physical Attack",
-        "+25% Critical Chance"
-      ],
+      "attribute": ["+65 Physical Attack", "+25% Critical Chance"],
       "unique_attribute": [
         {
           "name": "Critical Damage",
@@ -82,16 +67,12 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/malefic_roar.png",
+      "icon": "malefic_roar.webp",
       "name": "Malefic Roar",
-      "item_category": [
-        "Attack"
-      ],
+      "item_category": ["Attack"],
       "price": 2060,
       "sell": 1236,
-      "attribute": [
-        "+60 Physical Attack"
-      ],
+      "attribute": ["+60 Physical Attack"],
       "unique_attribute": [
         {
           "name": "Physical Penetration",
@@ -107,17 +88,12 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/hunter_strike.png",
+      "icon": "hunter_strike.webp",
       "name": "Hunter Strike",
-      "item_category": [
-        "Attack"
-      ],
+      "item_category": ["Attack"],
       "price": 2010,
       "sell": 1206,
-      "attribute": [
-        "+80 Physical Attack",
-        "+10% Cooldown Reduction"
-      ],
+      "attribute": ["+80 Physical Attack", "+10% Cooldown Reduction"],
       "unique_attribute": [
         {
           "name": "Physical Penetration",
@@ -133,11 +109,9 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/windtalker.png",
+      "icon": "windtalker.webp",
       "name": "Windtalker",
-      "item_category": [
-        "Attack"
-      ],
+      "item_category": ["Attack"],
       "price": 1870,
       "sell": 1122,
       "attribute": [
@@ -155,11 +129,9 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/endless_battle.png",
+      "icon": "endless_battle.webp",
       "name": "Endless Battle",
-      "item_category": [
-        "Attack"
-      ],
+      "item_category": ["Attack"],
       "price": 2470,
       "sell": 1482,
       "attribute": [
@@ -184,17 +156,12 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/sea_halberd.png",
+      "icon": "sea_halberd.webp",
       "name": "Sea Halberd",
-      "item_category": [
-        "Attack"
-      ],
+      "item_category": ["Attack"],
       "price": 2150,
       "sell": 1290,
-      "attribute": [
-        "+80 Physical Attack",
-        "+20% Attack Speed"
-      ],
+      "attribute": ["+80 Physical Attack", "+20% Attack Speed"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -209,11 +176,9 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/corrosion_scythe.png",
+      "icon": "corrosion_scythe.webp",
       "name": "Corrosion Scythe",
-      "item_category": [
-        "Attack"
-      ],
+      "item_category": ["Attack"],
       "price": 2050,
       "sell": 1230,
       "attribute": [
@@ -235,17 +200,12 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/golden_staff.png",
+      "icon": "golden_staff.webp",
       "name": "Golden Staff",
-      "item_category": [
-        "Attack"
-      ],
+      "item_category": ["Attack"],
       "price": 2000,
       "sell": 1200,
-      "attribute": [
-        "+55 Physical Attack",
-        "+15% Attack Speed"
-      ],
+      "attribute": ["+55 Physical Attack", "+15% Attack Speed"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -260,16 +220,12 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/bloodlust_axe.png",
+      "icon": "bloodlust_axe.webp",
       "name": "Bloodlust Axe",
-      "item_category": [
-        "Attack"
-      ],
+      "item_category": ["Attack"],
       "price": 1970,
       "sell": 1182,
-      "attribute": [
-        "+70 Physical Attack"
-      ],
+      "attribute": ["+70 Physical Attack"],
       "unique_attribute": [
         {
           "name": "Cooldown Reduction",
@@ -285,11 +241,9 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/war_axe.png",
+      "icon": "war_axe.webp",
       "name": "War Axe",
-      "item_category": [
-        "Attack"
-      ],
+      "item_category": ["Attack"],
       "price": 2100,
       "sell": 1260,
       "attribute": [
@@ -308,11 +262,9 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/rose_gold_meteor.png",
+      "icon": "rose_gold_meteor.webp",
       "name": "Rose Gold Meteor",
-      "item_category": [
-        "Attack"
-      ],
+      "item_category": ["Attack"],
       "price": 2030,
       "sell": 1218,
       "attribute": [
@@ -334,32 +286,23 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/regular_spear.png",
+      "icon": "regular_spear.webp",
       "name": "Regular Spear",
-      "item_category": [
-        "Attack"
-      ],
+      "item_category": ["Attack"],
       "price": 600,
       "sell": 360,
-      "attribute": [
-        "+20 Physical Attack",
-        "+10% Attack Speed"
-      ],
+      "attribute": ["+20 Physical Attack", "+10% Attack Speed"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
     },
     {
-      "icon": "/assets/items/swift_crossbow.png",
+      "icon": "swift_crossbow.webp",
       "name": "Swift Crossbow",
-      "item_category": [
-        "Attack"
-      ],
+      "item_category": ["Attack"],
       "price": 1000,
       "sell": 600,
-      "attribute": [
-        "+20% Attack Speed"
-      ],
+      "attribute": ["+20% Attack Speed"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -374,17 +317,12 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/power_potion.png",
+      "icon": "power_potion.webp",
       "name": "Power Potion",
-      "item_category": [
-        "Attack"
-      ],
+      "item_category": ["Attack"],
       "price": 1500,
       "sell": null,
-      "attribute": [
-        "+30 Physical Attack",
-        "+5% Physical Lifesteal"
-      ],
+      "attribute": ["+30 Physical Attack", "+5% Physical Lifesteal"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": [
@@ -395,46 +333,34 @@
       ]
     },
     {
-      "icon": "/assets/items/dagger.png",
+      "icon": "dagger.webp",
       "name": "Dagger",
-      "item_category": [
-        "Attack"
-      ],
+      "item_category": ["Attack"],
       "price": 250,
       "sell": 150,
-      "attribute": [
-        "+15 Physical Attack"
-      ],
+      "attribute": ["+15 Physical Attack"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
     },
     {
-      "icon": "/assets/items/rogue_meteor.png",
+      "icon": "rogue_meteor.webp",
       "name": "Rogue Meteor",
-      "item_category": [
-        "Attack"
-      ],
+      "item_category": ["Attack"],
       "price": 900,
       "sell": 540,
-      "attribute": [
-        "+15% Attack Speed"
-      ],
+      "attribute": ["+15% Attack Speed"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
     },
     {
-      "icon": "/assets/items/fury_hammer.png",
+      "icon": "fury_hammer.webp",
       "name": "Fury Hammer",
-      "item_category": [
-        "Attack"
-      ],
+      "item_category": ["Attack"],
       "price": 830,
       "sell": 498,
-      "attribute": [
-        "+35 Physical Attack"
-      ],
+      "attribute": ["+35 Physical Attack"],
       "unique_attribute": [
         {
           "name": "Physical Penetration",
@@ -445,17 +371,12 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/magic_blade.png",
+      "icon": "magic_blade.webp",
       "name": "Magic Blade",
-      "item_category": [
-        "Attack"
-      ],
+      "item_category": ["Attack"],
       "price": 1050,
       "sell": 630,
-      "attribute": [
-        "+35 Physical Attack",
-        "+10% Lifesteal"
-      ],
+      "attribute": ["+35 Physical Attack", "+10% Lifesteal"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -466,17 +387,12 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/ogre_tomahawk.png",
+      "icon": "ogre_tomahawk.webp",
       "name": "Ogre Tomahawk",
-      "item_category": [
-        "Attack"
-      ],
+      "item_category": ["Attack"],
       "price": 650,
       "sell": 390,
-      "attribute": [
-        "+25 Physical Attack",
-        "+230 HP"
-      ],
+      "attribute": ["+25 Physical Attack", "+230 HP"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -487,48 +403,34 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/legion_sword.png",
+      "icon": "legion_sword.webp",
       "name": "Legion Sword",
-      "item_category": [
-        "Attack"
-      ],
+      "item_category": ["Attack"],
       "price": 910,
       "sell": 546,
-      "attribute": [
-        "+60 Physical Attack"
-      ],
+      "attribute": ["+60 Physical Attack"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
     },
     {
-      "icon": "/assets/items/iron_hunting_bow.png",
+      "icon": "iron_hunting_bow.webp",
       "name": "Iron Hunting Bow",
-      "item_category": [
-        "Attack"
-      ],
+      "item_category": ["Attack"],
       "price": 450,
       "sell": 270,
-      "attribute": [
-        "+10 Physical Attack",
-        "+5% Cooldown Reduction"
-      ],
+      "attribute": ["+10 Physical Attack", "+5% Cooldown Reduction"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
     },
     {
-      "icon": "/assets/items/deadly_blade.png",
+      "icon": "deadly_blade.webp",
       "name": "Deadly Blade",
-      "item_category": [
-        "Attack"
-      ],
+      "item_category": ["Attack"],
       "price": 1500,
       "sell": 900,
-      "attribute": [
-        "+50 Physical Attack",
-        "+15% Attack Speed"
-      ],
+      "attribute": ["+50 Physical Attack", "+15% Attack Speed"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -539,50 +441,34 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/vampire_mallet.png",
+      "icon": "vampire_mallet.webp",
       "name": "Vampire Mallet",
-      "item_category": [
-        "Attack"
-      ],
+      "item_category": ["Attack"],
       "price": 400,
       "sell": 240,
-      "attribute": [
-        "+8 Physical Attack",
-        "+8% Lifesteal"
-      ],
+      "attribute": ["+8 Physical Attack", "+8% Lifesteal"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
     },
     {
-      "icon": "/assets/items/expert_gloves.png",
+      "icon": "expert_gloves.webp",
       "name": "Expert Gloves",
-      "item_category": [
-        "Attack",
-        "Magic"
-      ],
+      "item_category": ["Attack", "Magic"],
       "price": 500,
       "sell": 300,
-      "attribute": [
-        "+30 Physical Attack"
-      ],
+      "attribute": ["+30 Physical Attack"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
     },
     {
-      "icon": "/assets/items/sky_piercer.png",
+      "icon": "sky_piercer.webp",
       "name": "Sky Piercer",
-      "item_category": [
-        "Attack",
-        "Magic"
-      ],
+      "item_category": ["Attack", "Magic"],
       "price": 1500,
       "sell": 900,
-      "attribute": [
-        "+60 Physical Attack",
-        "+15 Movement Speed"
-      ],
+      "attribute": ["+60 Physical Attack", "+15 Movement Speed"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -593,19 +479,12 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/winter_crown.png",
+      "icon": "winter_crown.webp",
       "name": "Winter Crown",
-      "item_category": [
-        "Attack",
-        "Magic"
-      ],
+      "item_category": ["Attack", "Magic"],
       "price": 1910,
       "sell": 1146,
-      "attribute": [
-        "+45 Physical Attack",
-        "+400 HP",
-        "+5% Cooldown Reduction"
-      ],
+      "attribute": ["+45 Physical Attack", "+400 HP", "+5% Cooldown Reduction"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": [
@@ -616,13 +495,9 @@
       ]
     },
     {
-      "icon": "/assets/items/fleeting_time.png",
+      "icon": "fleeting_time.webp",
       "name": "Fleeting Time",
-      "item_category": [
-        "Attack",
-        "Magic",
-        "Defense"
-      ],
+      "item_category": ["Attack", "Magic", "Defense"],
       "price": 2050,
       "sell": 1230,
       "attribute": [
@@ -640,11 +515,9 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/great_dragon_spear.png",
+      "icon": "great_dragon_spear.webp",
       "name": "Great Dragon Spear",
-      "item_category": [
-        "Attack"
-      ],
+      "item_category": ["Attack"],
       "price": 2140,
       "sell": 1284,
       "attribute": [
@@ -662,11 +535,9 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/haas_claws.png",
+      "icon": "haas_claws.webp",
       "name": "Haas's Claws",
-      "item_category": [
-        "Attack"
-      ],
+      "item_category": ["Attack"],
       "price": 2020,
       "sell": 1212,
       "attribute": [

@@ -14,11 +14,9 @@
   "total": 3,
   "data": [
     {
-      "icon": "/assets/items/flame_retribution.png",
+      "icon": "flame_retribution.webp",
       "name": "Flame Retribution",
-      "item_category": [
-        "Jungling"
-      ],
+      "item_category": ["Jungling"],
       "price": 0,
       "sell": 0,
       "attribute": [],
@@ -32,11 +30,9 @@
       ]
     },
     {
-      "icon": "/assets/items/bloody_retribution.png",
+      "icon": "bloody_retribution.webp",
       "name": "Bloody Retribution",
-      "item_category": [
-        "Jungling"
-      ],
+      "item_category": ["Jungling"],
       "price": 0,
       "sell": 0,
       "attribute": [],
@@ -50,11 +46,9 @@
       ]
     },
     {
-      "icon": "/assets/items/ice_retribution.png",
+      "icon": "ice_retribution.webp",
       "name": "Ice Retribution",
-      "item_category": [
-        "Jungling"
-      ],
+      "item_category": ["Jungling"],
       "price": 0,
       "sell": 0,
       "attribute": [],

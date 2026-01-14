@@ -33,7 +33,7 @@
     "skills": [
       {
         "skill_name": "Air Superiority",
-        "skill_icon": "Air_Superiority.webp",
+        "skill_icon": "air_superiority.webp",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
@@ -45,7 +45,7 @@
       },
       {
         "skill_name": "Tornado Strike",
-        "skill_icon": "Tornado_Strike.webp",
+        "skill_icon": "tornado_strike.webp",
         "type": "active",
         "cooldown": [
           3.5
@@ -59,7 +59,7 @@
       },
       {
         "skill_name": "Steel Cable",
-        "skill_icon": "Steel_Cable.webp",
+        "skill_icon": "steel_cable.webp",
         "type": "active",
         "cooldown": [
           0
@@ -73,7 +73,7 @@
       },
       {
         "skill_name": "Cut Throat",
-        "skill_icon": "Cut_Throat.webp",
+        "skill_icon": "cut_throat.webp",
         "type": "ultimate",
         "cooldown": [
           28,

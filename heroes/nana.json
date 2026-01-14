@@ -34,7 +34,7 @@
     "skills": [
       {
         "skill_name": "Molina's Gift",
-        "skill_icon": "Molina_s_Gift.webp",
+        "skill_icon": "molina_s_gift.webp",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
@@ -46,7 +46,7 @@
       },
       {
         "skill_name": "Magic Boomerang",
-        "skill_icon": "Magic_Boomerang.webp",
+        "skill_icon": "magic_boomerang.webp",
         "type": "active",
         "cooldown": [
           5.5,
@@ -73,7 +73,7 @@
       },
       {
         "skill_name": "Molina Smooch",
-        "skill_icon": "Molina_Smooch.webp",
+        "skill_icon": "molina_smooch.webp",
         "type": "active",
         "cooldown": [
           14,
@@ -95,7 +95,7 @@
       },
       {
         "skill_name": "Molina Blitz",
-        "skill_icon": "Molina_Blitz.webp",
+        "skill_icon": "molina_blitz.webp",
         "type": "ultimate",
         "cooldown": [
           36,

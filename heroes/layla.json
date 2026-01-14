@@ -33,7 +33,7 @@
     "skills": [
       {
         "skill_name": "Malefic Gun",
-        "skill_icon": "Malefic_Gun.webp",
+        "skill_icon": "malefic_gun.webp",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
@@ -45,7 +45,7 @@
       },
       {
         "skill_name": "Malefic Bomb",
-        "skill_icon": "Malefic_Bomb.webp",
+        "skill_icon": "malefic_bomb.webp",
         "type": "active",
         "cooldown": [
           5
@@ -66,7 +66,7 @@
       },
       {
         "skill_name": "Void Projectile",
-        "skill_icon": "Void_Projectile.webp",
+        "skill_icon": "void_projectile.webp",
         "type": "active",
         "cooldown": [
           11,
@@ -92,7 +92,7 @@
       },
       {
         "skill_name": "Destruction Rush",
-        "skill_icon": "Destruction_Rush.webp",
+        "skill_icon": "destruction_rush.webp",
         "type": "ultimate",
         "cooldown": [
           40,

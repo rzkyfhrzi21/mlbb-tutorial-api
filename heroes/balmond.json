@@ -35,7 +35,7 @@
     "skills": [
       {
         "skill_name": "Bloodthirst",
-        "skill_icon": "Bloodthirst.webp",
+        "skill_icon": "bloodthirst.webp",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
@@ -47,7 +47,7 @@
       },
       {
         "skill_name": "Soul Lock",
-        "skill_icon": "Soul_Lock.webp",
+        "skill_icon": "soul_lock.webp",
         "type": "active",
         "cooldown": [
           11,
@@ -68,7 +68,7 @@
       },
       {
         "skill_name": "Cyclone Sweep",
-        "skill_icon": "Cyclone_Sweep.webp",
+        "skill_icon": "cyclone_sweep.webp",
         "type": "active",
         "cooldown": [
           7,
@@ -90,7 +90,7 @@
       },
       {
         "skill_name": "Lethal Counter",
-        "skill_icon": "Lethal_Counter.webp",
+        "skill_icon": "lethal_counter.webp",
         "type": "ultimate",
         "cooldown": [
           40,

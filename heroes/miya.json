@@ -33,7 +33,7 @@
     "skills": [
       {
         "skill_name": "Turbo",
-        "skill_icon": "Turbo.webp",
+        "skill_icon": "turbo.webp",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
@@ -46,7 +46,7 @@
       },
       {
         "skill_name": "Fission Shot",
-        "skill_icon": "Fission_Shot.webp",
+        "skill_icon": "fission_shot.webp",
         "type": "active",
         "cooldown": [
           11
@@ -68,7 +68,7 @@
       },
       {
         "skill_name": "Rain of Arrows",
-        "skill_icon": "Rain_of_Arrows.webp",
+        "skill_icon": "rain_of_arrows.webp",
         "type": "active",
         "cooldown": [
           10
@@ -90,7 +90,7 @@
       },
       {
         "skill_name": "Turbo Stealth",
-        "skill_icon": "Turbo_Stealth.webp",
+        "skill_icon": "turbo_stealth.webp",
         "type": "ultimate",
         "cooldown": [
           38,

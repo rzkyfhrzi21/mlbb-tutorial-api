@@ -34,7 +34,7 @@
     "skills": [
       {
         "skill_name": "Noumenon Energy Core",
-        "skill_icon": "Noumenon_Energy_Core.webp",
+        "skill_icon": "noumenon_energy_core.webp",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
@@ -46,7 +46,7 @@
       },
       {
         "skill_name": "Charge",
-        "skill_icon": "Charge.webp",
+        "skill_icon": "charge.webp",
         "type": "active",
         "cooldown": [
           12
@@ -62,7 +62,7 @@
       },
       {
         "skill_name": "Guardian's Bulwark",
-        "skill_icon": "Guardian_s_Bulwark.webp",
+        "skill_icon": "guardian_s_bulwark.webp",
         "type": "active",
         "cooldown": [
           14,
@@ -83,7 +83,7 @@
       },
       {
         "skill_name": "Noumenon Blast",
-        "skill_icon": "Noumenon_Blast.webp",
+        "skill_icon": "noumenon_blast.webp",
         "type": "ultimate",
         "cooldown": [
           48,

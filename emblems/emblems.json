@@ -13,7 +13,7 @@
   "data": {
     "main_emblems": [
       {
-        "icon": "/assets/emblems/main/common.png",
+        "icon": "common.webp",
         "name": "Common",
         "attributes": [
           "Hybrid Regen +12.00",
@@ -22,12 +22,12 @@
         ]
       },
       {
-        "icon": "/assets/emblems/main/tank.png",
+        "icon": "tank.webp",
         "name": "Tank",
         "attributes": ["HP +500.00", "Hybrid Defense +10.00", "HP Regen +4.00"]
       },
       {
-        "icon": "/assets/emblems/main/assassin.png",
+        "icon": "assassin.webp",
         "name": "Assassin",
         "attributes": [
           "Adaptive Penetration +14.00",
@@ -36,7 +36,7 @@
         ]
       },
       {
-        "icon": "/assets/emblems/main/mage.png",
+        "icon": "mage.webp",
         "name": "Mage",
         "attributes": [
           "Magic Power +30.00",
@@ -45,7 +45,7 @@
         ]
       },
       {
-        "icon": "/assets/emblems/main/fighter.png",
+        "icon": "fighter.webp",
         "name": "Fighter",
         "attributes": [
           "Spell Vamp +10.00%",
@@ -54,7 +54,7 @@
         ]
       },
       {
-        "icon": "/assets/emblems/main/support.png",
+        "icon": "support.webp",
         "name": "Support",
         "attributes": [
           "Healing Effect +12.00%",
@@ -63,7 +63,7 @@
         ]
       },
       {
-        "icon": "/assets/emblems/main/marksman.png",
+        "icon": "marksman.webp",
         "name": "Marksman",
         "attributes": [
           "Attack Speed +15.00%",
@@ -74,7 +74,7 @@
     ],
     "ability_emblems": [
       {
-        "icon": "/assets/emblems/abilities/thrill.png",
+        "icon": "thrill.webp",
         "section": 1,
         "name": "Thrill",
         "benefits": "Mendapatkan 16 Adaptive Attack.",
@@ -82,7 +82,7 @@
         "cd": null
       },
       {
-        "icon": "/assets/emblems/abilities/swift.png",
+        "icon": "swift.webp",
         "section": 1,
         "name": "Swift",
         "benefits": "Mendapatkan 10% Attack Speed tambahan.",
@@ -90,7 +90,7 @@
         "cd": null
       },
       {
-        "icon": "/assets/emblems/abilities/vitality.png",
+        "icon": "vitality.webp",
         "section": 1,
         "name": "Vitality",
         "benefits": "Mendapatkan 225 HP maksimum tambahan.",
@@ -98,7 +98,7 @@
         "cd": null
       },
       {
-        "icon": "/assets/emblems/abilities/rupture.png",
+        "icon": "rupture.webp",
         "section": 1,
         "name": "Rupture",
         "benefits": "Mendapatkan 5 Adaptive Penetration.",
@@ -106,7 +106,7 @@
         "cd": null
       },
       {
-        "icon": "/assets/emblems/abilities/inspire.png",
+        "icon": "inspire.webp",
         "section": 1,
         "name": "Inspire",
         "benefits": "Mendapatkan 5% Cooldown Reduction tambahan.",
@@ -114,7 +114,7 @@
         "cd": null
       },
       {
-        "icon": "/assets/emblems/abilities/firmness.png",
+        "icon": "firmness.webp",
         "section": 1,
         "name": "Firmness",
         "benefits": "Mendapatkan 6 Physical & Magic Defense tambahan.",
@@ -122,7 +122,7 @@
         "cd": null
       },
       {
-        "icon": "/assets/emblems/abilities/agility.png",
+        "icon": "agility.webp",
         "section": 1,
         "name": "Agility",
         "benefits": "Mendapatkan 4% Movement Speed tambahan.",
@@ -130,7 +130,7 @@
         "cd": null
       },
       {
-        "icon": "/assets/emblems/abilities/fatal.png",
+        "icon": "fatal.webp",
         "section": 1,
         "name": "Fatal",
         "benefits": "Mendapatkan 5% Critical Chance dan 10% Critical Damage tambahan.",
@@ -138,7 +138,7 @@
         "cd": null
       },
       {
-        "icon": "/assets/emblems/abilities/wilderness_blessing.png",
+        "icon": "wilderness_blessing.webp",
         "section": 2,
         "name": "Wilderness Blessing",
         "benefits": "Movement Speed tambahan di Jungle dan River.",
@@ -146,7 +146,7 @@
         "cd": null
       },
       {
-        "icon": "/assets/emblems/abilities/seasoned_hunter.png",
+        "icon": "seasoned_hunter.webp",
         "section": 2,
         "name": "Seasoned Hunter",
         "benefits": "Meningkatkan kecepatan jungling.",
@@ -154,7 +154,7 @@
         "cd": null
       },
       {
-        "icon": "/assets/emblems/abilities/tenacity.png",
+        "icon": "tenacity.webp",
         "section": 2,
         "name": "Tenacity",
         "benefits": "Meningkatkan Defense saat HP rendah.",
@@ -162,7 +162,7 @@
         "cd": null
       },
       {
-        "icon": "/assets/emblems/abilities/master_assassin.png",
+        "icon": "master_assassin.webp",
         "section": 2,
         "name": "Master Assassin",
         "benefits": "Meningkatkan damage ke hero yang sendirian.",
@@ -170,7 +170,7 @@
         "cd": null
       },
       {
-        "icon": "/assets/emblems/abilities/bargain_hunter.png",
+        "icon": "bargain_hunter.webp",
         "section": 2,
         "name": "Bargain Hunter",
         "benefits": "Mengurangi harga pembelian equipment.",
@@ -178,7 +178,7 @@
         "cd": null
       },
       {
-        "icon": "/assets/emblems/abilities/festival_of_blood.png",
+        "icon": "festival_of_blood.webp",
         "section": 2,
         "name": "Festival of Blood",
         "benefits": "Mendapatkan Spell Vamp tambahan.",
@@ -186,7 +186,7 @@
         "cd": null
       },
       {
-        "icon": "/assets/emblems/abilities/pull_yourself_together.png",
+        "icon": "pull_yourself_together.webp",
         "section": 2,
         "name": "Pull Yourself Together",
         "benefits": "Mengurangi cooldown Battle Spell & skill aktif equipment.",
@@ -194,7 +194,7 @@
         "cd": null
       },
       {
-        "icon": "/assets/emblems/abilities/weapon_master.png",
+        "icon": "weapon_master.webp",
         "section": 2,
         "name": "Weapon Master",
         "benefits": "Bonus tambahan Physical Attack / Magic Power.",
@@ -202,7 +202,7 @@
         "cd": null
       },
       {
-        "icon": "/assets/emblems/abilities/impure_rage.png",
+        "icon": "impure_rage.webp",
         "section": 3,
         "name": "Impure Rage",
         "benefits": "Damage skill tambahan & memulihkan Mana saat mengenai lawan.",
@@ -210,7 +210,7 @@
         "cd": 5
       },
       {
-        "icon": "/assets/emblems/abilities/quantum_charge.png",
+        "icon": "quantum_charge.webp",
         "section": 3,
         "name": "Quantum Charge",
         "benefits": "Basic Attack memulihkan HP & meningkatkan Movement Speed.",
@@ -218,7 +218,7 @@
         "cd": 8
       },
       {
-        "icon": "/assets/emblems/abilities/war_cry.png",
+        "icon": "war_cry.webp",
         "section": 3,
         "name": "War Cry",
         "benefits": "Meningkatkan damage berkelanjutan.",
@@ -226,7 +226,7 @@
         "cd": 6
       },
       {
-        "icon": "/assets/emblems/abilities/temporal_reign.png",
+        "icon": "temporal_reign.webp",
         "section": 3,
         "name": "Temporal Reign",
         "benefits": "Mengurangi cooldown skill non-Ultimate.",
@@ -234,7 +234,7 @@
         "cd": 20
       },
       {
-        "icon": "/assets/emblems/abilities/concussive_blast.png",
+        "icon": "concussive_blast.webp",
         "section": 3,
         "name": "Concussive Blast",
         "benefits": "Damage area berdasarkan HP.",
@@ -242,7 +242,7 @@
         "cd": 15
       },
       {
-        "icon": "/assets/emblems/abilities/killing_spree.png",
+        "icon": "killing_spree.webp",
         "section": 3,
         "name": "Killing Spree",
         "benefits": "Regen HP dan Movement Speed setelah membunuh hero.",
@@ -250,7 +250,7 @@
         "cd": 3
       },
       {
-        "icon": "/assets/emblems/abilities/lethal_ignition.png",
+        "icon": "lethal_ignition.webp",
         "section": 3,
         "name": "Lethal Ignition",
         "benefits": "Damage tambahan setelah beberapa kali mengenai target.",
@@ -258,7 +258,7 @@
         "cd": 15
       },
       {
-        "icon": "/assets/emblems/abilities/brave_smite.png",
+        "icon": "brave_smite.webp",
         "section": 3,
         "name": "Brave Smite",
         "benefits": "Skill yang mengenai hero memulihkan HP.",
@@ -266,7 +266,7 @@
         "cd": 6
       },
       {
-        "icon": "/assets/emblems/abilities/focusing_mark.png",
+        "icon": "focusing_mark.webp",
         "section": 3,
         "name": "Focusing Mark",
         "benefits": "Meningkatkan damage yang diterima musuh dari rekan satu tim.",
@@ -274,7 +274,7 @@
         "cd": 4
       },
       {
-        "icon": "/assets/emblems/abilities/weakness_finder.png",
+        "icon": "weakness_finder.webp",
         "section": 3,
         "name": "Weakness Finder",
         "benefits": "Basic Attack memberikan efek slow pada musuh.",

@@ -14,17 +14,12 @@
   "total": 29,
   "data": [
     {
-      "icon": "/assets/items/azure_blade.png",
+      "icon": "azure_blade.webp",
       "name": "Azure Blade",
-      "item_category": [
-        "Magic"
-      ],
+      "item_category": ["Magic"],
       "price": 600,
       "sell": 360,
-      "attribute": [
-        "+5 Magic Power",
-        "+5% Cooldown Reduction"
-      ],
+      "attribute": ["+5 Magic Power", "+5% Cooldown Reduction"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -35,16 +30,12 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/blood_wings.png",
+      "icon": "blood_wings.webp",
       "name": "Blood Wings",
-      "item_category": [
-        "Magic"
-      ],
+      "item_category": ["Magic"],
       "price": 2100,
       "sell": 1260,
-      "attribute": [
-        "+90 Magic Power"
-      ],
+      "attribute": ["+90 Magic Power"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -55,34 +46,23 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/book_of_sages.png",
+      "icon": "book_of_sages.webp",
       "name": "Book of Sages",
-      "item_category": [
-        "Magic"
-      ],
+      "item_category": ["Magic"],
       "price": 450,
       "sell": 270,
-      "attribute": [
-        "+8 Magic Power",
-        "+5% Cooldown Reduction"
-      ],
+      "attribute": ["+8 Magic Power", "+5% Cooldown Reduction"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
     },
     {
-      "icon": "/assets/items/clock_of_destiny.png",
+      "icon": "clock_of_destiny.webp",
       "name": "Clock of Destiny",
-      "item_category": [
-        "Magic"
-      ],
+      "item_category": ["Magic"],
       "price": 2030,
       "sell": 1218,
-      "attribute": [
-        "+445 Magic Power",
-        "+400 HP",
-        "+10% Cooldown Reduction"
-      ],
+      "attribute": ["+445 Magic Power", "+400 HP", "+10% Cooldown Reduction"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -97,17 +77,12 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/concentrated_energy.png",
+      "icon": "concentrated_energy.webp",
       "name": "Concentrated Energy",
-      "item_category": [
-        "Magic"
-      ],
+      "item_category": ["Magic"],
       "price": 2020,
       "sell": 1212,
-      "attribute": [
-        "+70 Magic Power",
-        "+400 HP"
-      ],
+      "attribute": ["+70 Magic Power", "+400 HP"],
       "unique_attribute": [
         {
           "name": "Hybrid Lifesteal",
@@ -123,16 +98,12 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/divine_glaive.png",
+      "icon": "divine_glaive.webp",
       "name": "Divine Glaive",
-      "item_category": [
-        "Magic"
-      ],
+      "item_category": ["Magic"],
       "price": 1970,
       "sell": 1182,
-      "attribute": [
-        "+65 Magic Power"
-      ],
+      "attribute": ["+65 Magic Power"],
       "unique_attribute": [
         {
           "name": "Magic Penetration",
@@ -148,17 +119,12 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/elegant_gem.png",
+      "icon": "elegant_gem.webp",
       "name": "Elegant Gem",
-      "item_category": [
-        "Magic"
-      ],
+      "item_category": ["Magic"],
       "price": 700,
       "sell": 420,
-      "attribute": [
-        "+380 Magic Power",
-        "+300 HP"
-      ],
+      "attribute": ["+380 Magic Power", "+300 HP"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -169,18 +135,12 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/enchanted_talisman.png",
+      "icon": "enchanted_talisman.webp",
       "name": "Enchanted Talisman",
-      "item_category": [
-        "Magic"
-      ],
+      "item_category": ["Magic"],
       "price": 1870,
       "sell": 1122,
-      "attribute": [
-        "+50 Magic Power",
-        "+250 HP",
-        "+20% Cooldown Reduction"
-      ],
+      "attribute": ["+50 Magic Power", "+250 HP", "+20% Cooldown Reduction"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -195,27 +155,20 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/exotic_veil.png",
+      "icon": "exotic_veil.webp",
       "name": "Exotic Veil",
-      "item_category": [
-        "Magic"
-      ],
+      "item_category": ["Magic"],
       "price": 600,
       "sell": 360,
-      "attribute": [
-        "+30 Magic Power",
-        "+5 Movement Speed"
-      ],
+      "attribute": ["+30 Magic Power", "+5 Movement Speed"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
     },
     {
-      "icon": "/assets/items/feather_of_heaven.png",
+      "icon": "feather_of_heaven.webp",
       "name": "Feather of Heaven",
-      "item_category": [
-        "Magic"
-      ],
+      "item_category": ["Magic"],
       "price": 2030,
       "sell": 1218,
       "attribute": [
@@ -238,18 +191,12 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/flask_of_the_oasis.png",
+      "icon": "flask_of_the_oasis.webp",
       "name": "Flask of the Oasis",
-      "item_category": [
-        "Magic"
-      ],
+      "item_category": ["Magic"],
       "price": 1850,
       "sell": 1110,
-      "attribute": [
-        "+60 Magic Power",
-        "+300 HP",
-        "+10% Cooldown Reduction"
-      ],
+      "attribute": ["+60 Magic Power", "+300 HP", "+10% Cooldown Reduction"],
       "unique_attribute": [
         {
           "name": "Healing Effect",
@@ -265,17 +212,12 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/genius_wand.png",
+      "icon": "genius_wand.webp",
       "name": "Genius Wand",
-      "item_category": [
-        "Magic"
-      ],
+      "item_category": ["Magic"],
       "price": 2000,
       "sell": 1200,
-      "attribute": [
-        "+75 Magic Power",
-        "+5 Movement Speed"
-      ],
+      "attribute": ["+75 Magic Power", "+5 Movement Speed"],
       "unique_attribute": [
         {
           "name": "Magic Penetration",
@@ -291,18 +233,12 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/glowing_wand.png",
+      "icon": "glowing_wand.webp",
       "name": "Glowing Wand",
-      "item_category": [
-        "Magic"
-      ],
+      "item_category": ["Magic"],
       "price": 2150,
       "sell": 1290,
-      "attribute": [
-        "+75 Magic Power",
-        "+400 HP",
-        "+5 Movement Speed"
-      ],
+      "attribute": ["+75 Magic Power", "+400 HP", "+5 Movement Speed"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -317,16 +253,12 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/holy_crystal.png",
+      "icon": "holy_crystal.webp",
       "name": "Holy Crystal",
-      "item_category": [
-        "Magic"
-      ],
+      "item_category": ["Magic"],
       "price": 3000,
       "sell": 1800,
-      "attribute": [
-        "+185 Magic Power"
-      ],
+      "attribute": ["+185 Magic Power"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -337,11 +269,9 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/ice_queen_wand.png",
+      "icon": "ice_queen_wand.webp",
       "name": "Ice Queen Wand",
-      "item_category": [
-        "Magic"
-      ],
+      "item_category": ["Magic"],
       "price": 2040,
       "sell": 1224,
       "attribute": [
@@ -360,17 +290,12 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/lightning_truncheon.png",
+      "icon": "lightning_truncheon.webp",
       "name": "Lightning Truncheon",
-      "item_category": [
-        "Magic"
-      ],
+      "item_category": ["Magic"],
       "price": 2250,
       "sell": 1350,
-      "attribute": [
-        "+475 Magic Power",
-        "+10% Cooldown Reduction"
-      ],
+      "attribute": ["+475 Magic Power", "+10% Cooldown Reduction"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -381,93 +306,67 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/magic_necklace.png",
+      "icon": "magic_necklace.webp",
       "name": "Magic Necklace",
-      "item_category": [
-        "Magic"
-      ],
+      "item_category": ["Magic"],
       "price": 120,
       "sell": 72,
-      "attribute": [
-        "+2 Magic Power"
-      ],
+      "attribute": ["+2 Magic Power"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
     },
     {
-      "icon": "/assets/items/magic_wand.png",
+      "icon": "magic_wand.webp",
       "name": "Magic Wand",
-      "item_category": [
-        "Magic"
-      ],
+      "item_category": ["Magic"],
       "price": 820,
       "sell": 492,
-      "attribute": [
-        "+45 Magic Power"
-      ],
+      "attribute": ["+45 Magic Power"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
     },
     {
-      "icon": "/assets/items/mystery_codex.png",
+      "icon": "mystery_codex.webp",
       "name": "Mystery Codex",
-      "item_category": [
-        "Magic"
-      ],
+      "item_category": ["Magic"],
       "price": 300,
       "sell": 180,
-      "attribute": [
-        "+15 Magic Power"
-      ],
+      "attribute": ["+15 Magic Power"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
     },
     {
-      "icon": "/assets/items/mystic_container.png",
+      "icon": "mystic_container.webp",
       "name": "Mystic Container",
-      "item_category": [
-        "Magic"
-      ],
+      "item_category": ["Magic"],
       "price": 500,
       "sell": 300,
-      "attribute": [
-        "+15 Magic Power",
-        "+8% Spell Vamp"
-      ],
+      "attribute": ["+15 Magic Power", "+8% Spell Vamp"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
     },
     {
-      "icon": "/assets/items/power_crystal.png",
+      "icon": "power_crystal.webp",
       "name": "Power Crystal",
-      "item_category": [
-        "Magic"
-      ],
+      "item_category": ["Magic"],
       "price": 220,
       "sell": 132,
-      "attribute": [
-        "+280 Magic Power"
-      ],
+      "attribute": ["+280 Magic Power"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
     },
     {
-      "icon": "/assets/items/starlium_scythe.png",
+      "icon": "starlium_scythe.webp",
       "name": "Starlium Scythe",
-      "item_category": [
-        "Magic"
-      ],
+      "item_category": ["Magic"],
       "price": 2120,
       "sell": 1272,
-      "attribute": [
-        "+76 Magic Power",
-        "+10% Cooldown Reduction"
-      ],
+      "attribute": ["+76 Magic Power", "+10% Cooldown Reduction"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -478,33 +377,23 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/tome_of_evil.png",
+      "icon": "tome_of_evil.webp",
       "name": "Tome of Evil",
-      "item_category": [
-        "Magic"
-      ],
+      "item_category": ["Magic"],
       "price": 950,
       "sell": 570,
-      "attribute": [
-        "+39 Magic Power",
-        "+8% Cooldown Reduction"
-      ],
+      "attribute": ["+39 Magic Power", "+8% Cooldown Reduction"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
     },
     {
-      "icon": "/assets/items/wishing_lantern.png",
+      "icon": "wishing_lantern.webp",
       "name": "Wishing Lantern",
-      "item_category": [
-        "Magic"
-      ],
+      "item_category": ["Magic"],
       "price": 2250,
       "sell": 1350,
-      "attribute": [
-        "+475 Magic Power",
-        "+10% Cooldown Reduction"
-      ],
+      "attribute": ["+475 Magic Power", "+10% Cooldown Reduction"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -515,34 +404,23 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/expert_gloves.png",
+      "icon": "expert_gloves.webp",
       "name": "Expert Gloves",
-      "item_category": [
-        "Attack",
-        "Magic"
-      ],
+      "item_category": ["Attack", "Magic"],
       "price": 500,
       "sell": 300,
-      "attribute": [
-        "+30 Physical Attack"
-      ],
+      "attribute": ["+30 Physical Attack"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": []
     },
     {
-      "icon": "/assets/items/sky_piercer.png",
+      "icon": "sky_piercer.webp",
       "name": "Sky Piercer",
-      "item_category": [
-        "Attack",
-        "Magic"
-      ],
+      "item_category": ["Attack", "Magic"],
       "price": 1500,
       "sell": 900,
-      "attribute": [
-        "+60 Physical Attack",
-        "+15 Movement Speed"
-      ],
+      "attribute": ["+60 Physical Attack", "+15 Movement Speed"],
       "unique_attribute": [],
       "unique_passive": [
         {
@@ -553,19 +431,12 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/winter_crown.png",
+      "icon": "winter_crown.webp",
       "name": "Winter Crown",
-      "item_category": [
-        "Attack",
-        "Magic"
-      ],
+      "item_category": ["Attack", "Magic"],
       "price": 1910,
       "sell": 1146,
-      "attribute": [
-        "+45 Physical Attack",
-        "+400 HP",
-        "+5% Cooldown Reduction"
-      ],
+      "attribute": ["+45 Physical Attack", "+400 HP", "+5% Cooldown Reduction"],
       "unique_attribute": [],
       "unique_passive": [],
       "unique_active": [
@@ -576,13 +447,9 @@
       ]
     },
     {
-      "icon": "/assets/items/fleeting_time.png",
+      "icon": "fleeting_time.webp",
       "name": "Fleeting Time",
-      "item_category": [
-        "Attack",
-        "Magic",
-        "Defense"
-      ],
+      "item_category": ["Attack", "Magic", "Defense"],
       "price": 2050,
       "sell": 1230,
       "attribute": [
@@ -600,11 +467,9 @@
       "unique_active": []
     },
     {
-      "icon": "/assets/items/calamity_reaper.png",
+      "icon": "calamity_reaper.webp",
       "name": "Calamity Reaper",
-      "item_category": [
-        "Magic"
-      ],
+      "item_category": ["Magic"],
       "price": 1950,
       "sell": 1170,
       "attribute": [

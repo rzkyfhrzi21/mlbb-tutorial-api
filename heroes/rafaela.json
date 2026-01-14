@@ -34,7 +34,7 @@
     "skills": [
       {
         "skill_name": "Deity Penalization",
-        "skill_icon": "Deity_Penalization.webp",
+        "skill_icon": "deity_penalization.webp",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
@@ -46,7 +46,7 @@
       },
       {
         "skill_name": "Light of Retribution",
-        "skill_icon": "Light_of_Retribution.webp",
+        "skill_icon": "light_of_retribution.webp",
         "type": "active",
         "cooldown": [
           4
@@ -62,7 +62,7 @@
       },
       {
         "skill_name": "Holy Healing",
-        "skill_icon": "Holy_Healing.webp",
+        "skill_icon": "holy_healing.webp",
         "type": "active",
         "cooldown": [
           11
@@ -78,7 +78,7 @@
       },
       {
         "skill_name": "Holy Baptism",
-        "skill_icon": "Holy_Baptism.webp",
+        "skill_icon": "holy_baptism.webp",
         "type": "ultimate",
         "cooldown": [
           40,

@@ -34,7 +34,7 @@
     "skills": [
       {
         "skill_name": "Rage Incarnate",
-        "skill_icon": "Rage_Incarnate.webp",
+        "skill_icon": "rage_incarnate.webp",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
@@ -46,7 +46,7 @@
       },
       {
         "skill_name": "Despair Stomp",
-        "skill_icon": "Despair_Stomp.webp",
+        "skill_icon": "despair_stomp.webp",
         "type": "active",
         "cooldown": [
           8
@@ -60,7 +60,7 @@
       },
       {
         "skill_name": "Motivation Roar",
-        "skill_icon": "Motivation_Roar.webp",
+        "skill_icon": "motivation_roar.webp",
         "type": "active",
         "cooldown": [
           12
@@ -74,7 +74,7 @@
       },
       {
         "skill_name": "Minoan Fury",
-        "skill_icon": "Minoan_Fury.webp",
+        "skill_icon": "minoan_fury.webp",
         "type": "ultimate",
         "cooldown": [
           40,

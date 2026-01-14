@@ -35,7 +35,7 @@
     "skills": [
       {
         "skill_name": "Shark Bite",
-        "skill_icon": "Shark_Bite.webp",
+        "skill_icon": "shark_bite.webp",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
@@ -47,7 +47,7 @@
       },
       {
         "skill_name": "Crab Claw Cannon",
-        "skill_icon": "Crab_Claw_Cannon.webp",
+        "skill_icon": "crab_claw_cannon.webp",
         "type": "active",
         "cooldown": [
           6
@@ -63,7 +63,7 @@
       },
       {
         "skill_name": "Ale",
-        "skill_icon": "Ale.webp",
+        "skill_icon": "ale.webp",
         "type": "active",
         "cooldown": [
           10
@@ -79,7 +79,7 @@
       },
       {
         "skill_name": "Deadly Catch",
-        "skill_icon": "Deadly_Catch.webp",
+        "skill_icon": "deadly_catch.webp",
         "type": "ultimate",
         "cooldown": [
           40,

@@ -11,13 +11,20 @@
     "description": "Data hero Mobile Legends: Bang Bang dengan skill bahasa Indonesia dan base_attributes terisi (angka mendekati Level 1, sebagian estimasi)."
   },
   "hero": {
-    "hero_icon": "/assets/heroes/layla.png",
+    "hero_icon": "layla.webp",
     "hero_id": "h022",
     "hero_name": "Leomord",
     "release_year": 2016,
-    "laning": ["gold"],
-    "role": ["Marksman"],
-    "speciality": ["Reap", "Damage"],
+    "laning": [
+      "gold"
+    ],
+    "role": [
+      "Marksman"
+    ],
+    "speciality": [
+      "Reap",
+      "Damage"
+    ],
     "price": {
       "battle_point": 0,
       "diamond": 0
@@ -25,38 +32,82 @@
     "skills": [
       {
         "skill_name": "Malefic Gun",
-        "skill_icon": "/assets/skills/Layla_Malefic_Gun.png",
+        "skill_icon": "/assets/skills/layla_malefic_gun.webp",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
-        "skill_unique": ["Range Increase", "Damage Scaling"],
+        "skill_unique": [
+          "Range Increase",
+          "Damage Scaling"
+        ],
         "description": "Semakin jauh jarak serangan Layla, semakin besar damage yang dihasilkan. Jangkauan basic attack akan meningkat seiring level."
       },
       {
         "skill_name": "Malefic Bomb",
-        "skill_icon": "/assets/skills/Layla_Malefic_Bomb.png",
+        "skill_icon": "/assets/skills/layla_malefic_bomb.webp",
         "type": "active",
-        "cooldown": [5],
-        "manacost": [40, 45, 50, 55, 60, 65],
-        "skill_unique": ["Line Skill", "Poke"],
+        "cooldown": [
+          5
+        ],
+        "manacost": [
+          40,
+          45,
+          50,
+          55,
+          60,
+          65
+        ],
+        "skill_unique": [
+          "Line Skill",
+          "Poke"
+        ],
         "description": "Layla menembakkan bola energi ke depan yang meledak saat mengenai musuh pertama, memberikan physical damage."
       },
       {
         "skill_name": "Void Projectile",
-        "skill_icon": "/assets/skills/Layla_Void_Projectile.png",
+        "skill_icon": "/assets/skills/layla_void_projectile.webp",
         "type": "active",
-        "cooldown": [11, 10.4, 9.8, 9.2, 8.6, 8],
-        "manacost": [50, 55, 60, 65, 70, 75],
-        "skill_unique": ["AoE", "Slow"],
+        "cooldown": [
+          11,
+          10.4,
+          9.8,
+          9.2,
+          8.6,
+          8
+        ],
+        "manacost": [
+          50,
+          55,
+          60,
+          65,
+          70,
+          75
+        ],
+        "skill_unique": [
+          "AoE",
+          "Slow"
+        ],
         "description": "Layla menembakkan proyektil yang meledak di area kecil dan memberikan damage serta efek slow kepada musuh."
       },
       {
         "skill_name": "Destruction Rush",
-        "skill_icon": "/assets/skills/Layla_Destruction_Rush.png",
+        "skill_icon": "/assets/skills/layla_destruction_rush.webp",
         "type": "ultimate",
-        "cooldown": [40, 36, 32],
-        "manacost": [130, 150, 170],
-        "skill_unique": ["Line Skill", "Burst", "Long Range"],
+        "cooldown": [
+          40,
+          36,
+          32
+        ],
+        "manacost": [
+          130,
+          150,
+          170
+        ],
+        "skill_unique": [
+          "Line Skill",
+          "Burst",
+          "Long Range"
+        ],
         "description": "Layla menembakkan laser energi jarak jauh dalam garis lurus yang memberikan physical damage besar kepada musuh di jalurnya."
       }
     ],

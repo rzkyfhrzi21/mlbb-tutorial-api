@@ -33,7 +33,7 @@
     "skills": [
       {
         "skill_name": "Superconductor",
-        "skill_icon": "Superconductor.webp",
+        "skill_icon": "superconductor.webp",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
@@ -45,7 +45,7 @@
       },
       {
         "skill_name": "Forked Lightning",
-        "skill_icon": "Forked_Lightning.webp",
+        "skill_icon": "forked_lightning.webp",
         "type": "active",
         "cooldown": [
           7
@@ -66,7 +66,7 @@
       },
       {
         "skill_name": "Electric Arrow",
-        "skill_icon": "Electric_Arrow.webp",
+        "skill_icon": "electric_arrow.webp",
         "type": "active",
         "cooldown": [
           12,
@@ -92,7 +92,7 @@
       },
       {
         "skill_name": "Thunderstruck",
-        "skill_icon": "Thunderstruck.webp",
+        "skill_icon": "thunderstruck.webp",
         "type": "ultimate",
         "cooldown": [
           34,

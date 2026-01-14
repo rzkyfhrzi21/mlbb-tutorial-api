@@ -34,7 +34,7 @@
     "skills": [
       {
         "skill_name": "Tai Chi",
-        "skill_icon": "Tai_Chi.webp",
+        "skill_icon": "tai_chi.webp",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
@@ -46,7 +46,7 @@
       },
       {
         "skill_name": "Headbutt",
-        "skill_icon": "Headbutt.webp",
+        "skill_icon": "headbutt.webp",
         "type": "active",
         "cooldown": [
           12,
@@ -67,7 +67,7 @@
       },
       {
         "skill_name": "Body Slam",
-        "skill_icon": "Body_Slam.webp",
+        "skill_icon": "body_slam.webp",
         "type": "active",
         "cooldown": [
           9
@@ -83,7 +83,7 @@
       },
       {
         "skill_name": "Heavy Spin",
-        "skill_icon": "Heavy_Spin.webp",
+        "skill_icon": "heavy_spin.webp",
         "type": "ultimate",
         "cooldown": [
           40,

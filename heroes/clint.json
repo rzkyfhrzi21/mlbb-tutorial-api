@@ -33,7 +33,7 @@
     "skills": [
       {
         "skill_name": "Quick Draw",
-        "skill_icon": "Quick_Draw.webp",
+        "skill_icon": "quick_draw.webp",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
@@ -45,7 +45,7 @@
       },
       {
         "skill_name": "Blind Smoke",
-        "skill_icon": "Blind_Smoke.webp",
+        "skill_icon": "blind_smoke.webp",
         "type": "active",
         "cooldown": [
           9
@@ -62,7 +62,7 @@
       },
       {
         "skill_name": "Tracer Shot",
-        "skill_icon": "Tracer_Shot.webp",
+        "skill_icon": "tracer_shot.webp",
         "type": "active",
         "cooldown": [
           8
@@ -78,7 +78,7 @@
       },
       {
         "skill_name": "Grenade Bombardment",
-        "skill_icon": "Grenade_Bombardment.webp",
+        "skill_icon": "grenade_bombardment.webp",
         "type": "ultimate",
         "cooldown": [
           45,

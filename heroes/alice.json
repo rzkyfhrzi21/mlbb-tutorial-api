@@ -34,7 +34,7 @@
     "skills": [
       {
         "skill_name": "Blood Ancestry",
-        "skill_icon": "Blood_Ancestry.webp",
+        "skill_icon": "blood_ancestry.webp",
         "type": "passive",
         "cooldown": null,
         "manacost": null,
@@ -46,7 +46,7 @@
       },
       {
         "skill_name": "Flowing Blood",
-        "skill_icon": "Flowing_Blood.webp",
+        "skill_icon": "flowing_blood.webp",
         "type": "active",
         "cooldown": [
           8
@@ -68,7 +68,7 @@
       },
       {
         "skill_name": "Blood Awe",
-        "skill_icon": "Blood_Awe.webp",
+        "skill_icon": "blood_awe.webp",
         "type": "active",
         "cooldown": [
           7
@@ -85,7 +85,7 @@
       },
       {
         "skill_name": "Blood Ode",
-        "skill_icon": "Blood_Ode.webp",
+        "skill_icon": "blood_ode.webp",
         "type": "ultimate",
         "cooldown": [
           40,
