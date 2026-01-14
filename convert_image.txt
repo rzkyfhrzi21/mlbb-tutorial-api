@@ -1,0 +1,49 @@
+=========================================================
+IMAGE CONVERTER (ImageMagick - CMD)
+=========================================================
+
+Perintah yang digunakan:
+
+if not exist webp mkdir webp & magick mogrify -path webp -resize 512x512 -format webp -quality 80 *.jpg *.jpeg *.png
+
+---------------------------------------------------------
+PENJELASAN PERINTAH
+---------------------------------------------------------
+
+1. if not exist webp mkdir webp
+   - Membuat folder bernama "webp" jika belum ada
+   - Folder ini digunakan sebagai tempat hasil konversi
+
+2. magick mogrify
+   - Perintah ImageMagick untuk memproses banyak file sekaligus
+
+3. -path webp
+   - Menentukan folder output hasil konversi
+   - File asli tidak diubah
+
+4. -resize 512x512
+   - Mengubah ukuran gambar menjadi maksimal 512x512 pixel
+   - Rasio aspek tetap dipertahankan
+
+5. -format webp
+   - Mengubah format gambar menjadi WEBP
+
+6. -quality 80
+   - Menentukan kualitas kompresi WEBP (0–100)
+   - 80 = seimbang antara kualitas dan ukuran file
+
+7. *.jpg *.jpeg *.png
+   - Semua file JPG, JPEG, dan PNG dalam folder akan diproses
+
+---------------------------------------------------------
+CATATAN
+---------------------------------------------------------
+- Jalankan perintah ini di Command Prompt (CMD)
+- Jangan dijalankan di PowerShell
+- File asli tidak terhapus atau tertimpa
+- File hasil akan berada di folder "webp"
+
+(c) 2026 Rizky Fahrezi
+IG : @rzkydev66
+WA : 085173200421
+=========================================================
